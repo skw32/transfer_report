@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt,twoside]{report}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=3cm]{geometry}
+
+\include{preamble}
+
+\begin{document}
+
+\title{\LARGE {\bf Computational Investigation of the Properties and Performance Bottlenecks of Selected Metal Sulfides for Use as Solar Absorber Materials}\\
+ \vspace*{6mm}
+}
+
+\author{Suzanne K. Wallace}
+\submitdate{\today}
+
+\normallinespacing
+\maketitle
+
+\preface
+\input{abstract/abstract}
+\input{acknowledgements/acknowledgements}
+%\input{dedication/dedication}
+%\input{quotes/quotes}
+
+\body
+\input{introduction/introduction}
+\input{background/background}
+\input{methodology/methodology}
+
+% body of thesis comes here
+\input{results/results}
+\input{conclusion/conclusion}
+
+\appendix
+% appendices come here
+
+
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{abbrv}
+\bibliography{bibliography/transfer_report_new}
+
+\end{document}

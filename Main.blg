@@ -1,0 +1,144 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Main.aux
+The style file: abbrv.bst
+Database file #1: bibliography/transfer_report_new.bib
+You're missing a field part---line 554 of file bibliography/transfer_report_new.bib
+ :    eid = 
+ :          ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 583 of file bibliography/transfer_report_new.bib
+ :    eid = 
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 728 of file bibliography/transfer_report_new.bib
+ : @inbook{Si_abundance
+ :                     ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 895 of file bibliography/transfer_report_new.bib
+ :  
+ :  publisher = "North-Holland Physics Publishing",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Unbalanced braces---line 1219 of file bibliography/transfer_report_new.bib
+ :  author = "Spaeth, J and Overhof, H
+ :                                    }",
+I'm skipping whatever remains of this entry
+Repeated entry---line 1460 of file bibliography/transfer_report_new.bib
+ : @article{pathways
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1495 of file bibliography/transfer_report_new.bib
+ : @article{pathways_129
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1501 of file bibliography/transfer_report_new.bib
+ : @article{pathways_130
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1523 of file bibliography/transfer_report_new.bib
+ : @article{emerging_pv
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1539 of file bibliography/transfer_report_new.bib
+ : @article{sus_book_5
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1638 of file bibliography/transfer_report_new.bib
+ : @manual{first_solar
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1663 of file bibliography/transfer_report_new.bib
+ : @article{SQ_1961
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1676 of file bibliography/transfer_report_new.bib
+ : @book{sus_book
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1764 of file bibliography/transfer_report_new.bib
+ : @article{CZTS_bandgap_theory
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1786 of file bibliography/transfer_report_new.bib
+ : @article{CZTS_bandgap_exp
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1801 of file bibliography/transfer_report_new.bib
+ : @article{first_CZTS
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1856 of file bibliography/transfer_report_new.bib
+ : @article{3rd_gen
+ :                 ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1979 of file bibliography/transfer_report_new.bib
+ :    title = "
+ :             Wide bandgap tunability in complex transition metal oxides by site-specific substitution",
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3205 of file bibliography/transfer_report_new.bib
+ :  
+ :  author = "I. S. Zheludev",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "SQ"
+Warning--I didn't find a database entry for "characterization_book"
+Warning--I didn't find a database entry for "Gerschon"
+Too many commas in name 1 of "Ginley, David S., Cahen, David" for entry sus_book
+while executing---line 1049 of file abbrv.bst
+Warning--empty journal in pathways_129
+Warning--empty journal in keith
+Warning--there's a number but no volume in keith
+Too many commas in name 1 of "Ginley, David S., Cahen, David" for entry sus_book
+while executing---line 1090 of file abbrv.bst
+Warning--empty title in sus_book
+Warning--empty chapter and pages in Si_abundance
+Warning--empty title in inorg_pv
+Warning--empty title in first_CZTS
+Warning--empty chapter and pages in PV_history2
+Warning--empty journal in sus_book_5
+Warning--empty journal in pathways_130
+Warning--empty chapter and pages in PV_history1
+Warning--empty title in Jarv_7
+You've used 35 entries,
+            2118 wiz_defined-function locations,
+            711 strings with 9395 characters,
+and the built_in function-call counts, 10699 in all, are:
+= -- 990
+> -- 550
+< -- 2
++ -- 221
+- -- 184
+* -- 765
+:= -- 1847
+add.period$ -- 99
+call.type$ -- 35
+change.case$ -- 185
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 397
+empty$ -- 830
+format.name$ -- 184
+if$ -- 2174
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 35
+newline$ -- 172
+num.names$ -- 70
+pop$ -- 217
+preamble$ -- 1
+purify$ -- 162
+quote$ -- 0
+skip$ -- 261
+stack$ -- 0
+substring$ -- 556
+swap$ -- 52
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 130
+warning$ -- 12
+while$ -- 92
+width$ -- 37
+write$ -- 355
+(There were 21 error messages)

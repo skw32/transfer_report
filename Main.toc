@@ -1,0 +1,51 @@
+\contentsline {chapter}{Abstract}{i}
+\contentsline {chapter}{Acknowledgements}{iii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}The Case for New Solar Absorber Materials for Photovoltaic Devices}{1}
+\contentsline {subsection}{\numberline {1.1.1}Terawatt-Scale Energy Production from Renewable Resources}{1}
+\contentsline {subsection}{\numberline {1.1.2}Basic Operating Principles of a Solar Cell Device}{4}
+\contentsline {subsection}{\numberline {1.1.3}Key Properties \& Experimental Measurements to Assess Materials for Use in Solar Cell Devices}{4}
+\contentsline {subsection}{\numberline {1.1.4}Current Commercial Solar Cell Technologies \& Limitations}{4}
+\contentsline {section}{\numberline {1.2}The Role of Computational Modelling in Material Design}{11}
+\contentsline {section}{\numberline {1.3}Overview of this Study}{12}
+\contentsline {subsection}{\numberline {1.3.1}Investigating Possible Bottlenecks in the Performance of CZTS (Cu$_2$ZnSnS$_4$) Devices}{12}
+\contentsline {subsection}{\numberline {1.3.2}Predicting and Assessing the Properties of New Candidate Solar Absorber Materials}{14}
+\contentsline {chapter}{\numberline {2}Background Theory}{15}
+\contentsline {section}{\numberline {2.1}The Description of Perfect Periodic Crystal Structures}{15}
+\contentsline {section}{\numberline {2.2}Crystal Imperfections of the First and Second Types}{15}
+\contentsline {section}{\numberline {2.3}Band Theory \& Band Structure}{15}
+\contentsline {section}{\numberline {2.4}Spin Orbit Interaction}{16}
+\contentsline {section}{\numberline {2.5}Photoluminescence Spectra of Solar Absorber Materials}{16}
+\contentsline {section}{\numberline {2.6}Band Tailing in Disordered Semiconductors}{16}
+\contentsline {section}{\numberline {2.7}Impact of Defects and Disorder on Photovoltaic Performance}{17}
+\contentsline {section}{\numberline {2.8}Photovoltaic-Ferroelectric Phenomena \& the Possibility of High Performance Solar Cells}{17}
+\contentsline {chapter}{\numberline {3}Methodology}{18}
+\contentsline {section}{\numberline {3.1}Calculation of the Formation Energies of Defects in Cu$_2$ZnSnS$_4$}{18}
+\contentsline {subsection}{\numberline {3.1.1}Density Functional Theory}{18}
+\contentsline {subsection}{\numberline {3.1.2}Hybrid Functionals}{18}
+\contentsline {subsection}{\numberline {3.1.3}The Supercell Method}{18}
+\contentsline {subsection}{\numberline {3.1.4}Quasichemical Theory for Point Defects}{18}
+\contentsline {subsection}{\numberline {3.1.5}Chemical Potential and Defect Formation Energy as a Function of Temperature and Pressure for $V_S$}{19}
+\contentsline {section}{\numberline {3.2}Monte Carlo Simulation of On-Lattice Disorder in Cu$_2$ZnSnS$_4$}{19}
+\contentsline {subsection}{\numberline {3.2.1}Multi-Scale Monte Carlo Simulations of Thermodynamic Disorder}{19}
+\contentsline {subsection}{\numberline {3.2.2}Convergence Tests for the Model}{19}
+\contentsline {subsection}{\numberline {3.2.3}Calculation of Order Parameters}{20}
+\contentsline {subsection}{\numberline {3.2.4}Determination of Band Tailing from Monte Carlo Simulations}{20}
+\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{20}
+\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of Sulfosalt Materials}{20}
+\contentsline {chapter}{\numberline {4}Results}{21}
+\contentsline {section}{\numberline {4.1}Investigation of Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{21}
+\contentsline {subsection}{\numberline {4.1.1}Project1: Band Tailing due to Substitutional Disorder Amongst Cations}{21}
+\contentsline {subsection}{\numberline {4.1.2}Project2: Re-Assessing the Formation Energy of $V_S$}{21}
+\contentsline {subsection}{\numberline {4.1.3}Project3: Intrinsic Band Gap Broadening from Lattice Vibrations}{21}
+\contentsline {section}{\numberline {4.2}Prediction and Assessment of Optoelectronic Properties of Sulfosalt Materials for Photovoltaic Applications}{21}
+\contentsline {subsection}{\numberline {4.2.1}Band Structures \& Band Gap}{22}
+\contentsline {subsection}{\numberline {4.2.2}Effective Masses}{22}
+\contentsline {subsection}{\numberline {4.2.3}Dielectric Functions}{22}
+\contentsline {subsection}{\numberline {4.2.4}Absorption Coefficients}{22}
+\contentsline {chapter}{\numberline {5}Conclusion}{23}
+\contentsline {section}{\numberline {5.1}Project 1}{23}
+\contentsline {section}{\numberline {5.2}Project 2}{23}
+\contentsline {section}{\numberline {5.3}Project 3}{23}
+\contentsline {section}{\numberline {5.4}Future Work}{23}
+\contentsline {chapter}{Bibliography}{23}

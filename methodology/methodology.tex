@@ -1,0 +1,45 @@
+\chapter{Methodology}
+
+\section{Calculation of the Formation Energies of Defects in \CZTS}
+\subsection{Density Functional Theory}
+Go through different levels of theory used in calculations done at Duke with emphasis on hybrids for the defect calcs and why?
+
+\subsection{Hybrid Functionals}
+\subsection{The Supercell Method}
+Discuss convergence of edge geometry?
+
+\subsection{Quasichemical Theory for Point Defects}
+See Kosyak paper, ref 19. + second page for discussion of non-interacting defects in quasichemical formalism
+
+\subsection{Chemical Potential and Defect Formation Energy as a Function of Temperature and Pressure for $V_S$}
+
+\section{Monte Carlo Simulation of On-Lattice Disorder  in \CZTS}
+\begin{itemize}
+\item General MC simulations and Metropolis algorithm
+\item Ising model and likeness of our simulation to ising model
+\item Convergence problem - difference in electrostatics summation compared to spin summation in standard ising model, briefly Ewald summation (implemented in GULP) but too comp intensive for our simulations, convergence w.r.t r, approx using some region for summation before and after swap, comparison to gulp full Ewald summation for final config (but far too comp expensive to use for each 1000's of  step of MCS in simulation!)
+\item See GULP manual Methods section (pg 11) - eris stops at pairwise interactions whereas gulp goes to higher order terms + parameterises for higher order terms to compensate?
+\end{itemize}
+
+\subsection{Multi-Scale Monte Carlo Simulations of Thermodynamic Disorder}
+DFT scaling: correcting bulk/ macroscopic dielectric constant with DFT to account for dielectric screening (HSE vs gulp plot)
+\subsection{Convergence Tests for the Model}
+\begin{itemize}
+\item convergence of dE in MCS wrt gulp
+\item conv in dist of accepted moves to boltzmann
+\item check against known end points: reproducing kesterite ground state + infinite T fully disordered limit
+\end{itemize}
+
+\subsection{Calculation of Order Parameters}
+Long range - RDF
+Short range - local environment of Sn?
+
+\subsection{Determination of Band Tailing from Monte Carlo Simulations}
+
+
+\section{Calculation of Intrinsic Band Gap Broadening in \CZTS}
+
+
+\section{Calculation of Optoelectronic Properties of Sulfosalt Materials}
+
+                            
