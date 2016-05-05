@@ -11,11 +11,40 @@ W.~Bao and M.~Ichimura.
   Material Based on the First Principles Calculation}.
 \newblock {\em Int. J. Photoenergy}, 2014(c), 2014.
 
+\bibitem{PGE}
+V.~Belinicher and B.~Sturman.
+\newblock {The photogalvanic effect in media lacking a center of symmetry}.
+\newblock {\em Uspekhi Fiz. Nauk}, 130(3):415, 1980.
+
+\bibitem{domain_wall}
+A.~Bhatnagar, A.~{Roy Chaudhuri}, Y.~{Heon Kim}, D.~Hesse, and M.~Alexe.
+\newblock {Role of domain walls in the abnormal photovoltaic effect in
+  BiFeO₃.}
+\newblock {\em Nat. Commun.}, 4(May):2835, 2013.
+
 \bibitem{Federico}
 F.~Brivio, A.~B. Walker, and A.~Walsh.
 \newblock {Structural and electronic properties of hybrid perovskites for
   high-efficiency thin-film photovoltaics from first-principles}.
 \newblock {\em APL Mater.}, 1(4):042111, 2013.
+
+\bibitem{rev_47}
+P.~Brody.
+\newblock Large polarization-dependent photovoltages in ceramic batio3 + 5 wt.%
+  catio3.
+\newblock {\em Solid State Communications}, 12(7):673 -- 676, 1973.
+
+\bibitem{rev_48}
+P.~S. {Brody}.
+\newblock {Semiconductor-ferroelectric nonvolatile memory using anomalous high
+  photovoltages in ferroelectric ceramics}.
+\newblock {\em Applied Physics Letters}, 38:153--155, Feb. 1981.
+
+\bibitem{screen_effect}
+P.~S. Brody and B.~J. Rod.
+\newblock Decay of remanent polarization in ferroelectric films using
+  polarization-dependent photovoltages.
+\newblock {\em Integrated Ferroelectrics}, 3(3):245--257, 1993.
 
 \bibitem{keith}
 K.~T. Butler, J.~M. Frost, and A.~Walsh.
@@ -29,6 +58,15 @@ S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
   2]ZnSnS[sub 4]}.
 \newblock {\em Appl. Phys. Lett.}, 96(2):021902, 2010.
 
+\bibitem{FE_PV_rev1_83}
+W.~S. Choi, M.~F. Chisholm, D.~J. Singh, T.~Choi, G.~E. Jellison, and H.~N.
+  t.~. Lee.
+
+\bibitem{keith_46}
+A.~G. Chynoweth.
+\newblock Surface space-charge layers in barium titanate.
+\newblock {\em Phys. Rev.}, 102:705--714, May 1956.
+
 \bibitem{CZTS_scale_up}
 E.~S. Cortezon, R.~Aninat, and E.~Sanchez-cortezon.
 \newblock Kesterite-based photovoltaic devices: Challenges for scale-up.
@@ -38,6 +76,11 @@ E.~S. Cortezon, R.~Aninat, and E.~Sanchez-cortezon.
 F.~I. for Solar Energy Systems~ISE.
 \newblock {\em Levelized Cost of Electricity Renewable Energy Technologies},
   2013 (Accessed on Aug 3, 2015).
+
+\bibitem{Fridkin}
+V.~Fridkin.
+\newblock {\em Photo-ferroelectrics}.
+\newblock Springer-Verlag Berlin Heidelberg, 1979.
 
 \bibitem{Jarv}
 J.~M. Frost, K.~T. Butler, F.~Brivio, C.~H. Hendon, M.~van Schilfgaarde, and
@@ -55,6 +98,10 @@ J.~E. Girard.
 \newblock {\em Principles of Environmental Chemistry}.
 \newblock Jones \& Bartlett Learning, LLC, 2014.
 
+\bibitem{keith_56}
+B.~Goldstein and L.~Pensak.
+\newblock {\em J. Appl. Phys.}, 155, 1959.
+
 \bibitem{Gratzel}
 M.~Gr{\"a}tzel.
 \newblock Solar energy conversion by dye-sensitized photovoltaic cells.
@@ -66,6 +113,19 @@ W.~Hermes, D.~Waldmann, M.~Agari, K.~Schierle-Arndt, and P.~Erk.
 \newblock {Emerging Thin-Film Photovoltaic Technologies}.
 \newblock {\em Chemie Ingenieur Technik}, 87(4):376--389, 2015.
 
+\bibitem{rev_49}
+M.~Ichiki, H.~Furue, T.~Kobayashi, R.~Maeda, Y.~Morikawa, T.~Nakada, and
+  K.~Nonaka.
+\newblock {\em Appl. Phys. Lett.}, 87:222903, 2005.
+
+\bibitem{rev_28}
+M.~Ichiki, R.~Maeda, Y.~Morikawa, Y.~Mabune, T.~Nakada, and K.~Nonaka.
+\newblock {\em Appl. Phys. Lett.}, 84:395--397, 2004.
+
+\bibitem{rev_50}
+M.~Ichiki, Y.~Morikawa, Y.~Mabune, and T.~Nakada.
+\newblock {\em J. Eur. Ceram. Soc.}, 24:1709--1714, 2004.
+
 \bibitem{first_solar}
 F.~S. Inc.
 \newblock {\em Emissions from Photovoltaic Life Cycles}, 2009 (Accessed on
@@ -74,6 +134,11 @@ F.~S. Inc.
 \bibitem{inorg_pv}
 S.~J.~C. Irvine.
 \newblock RSC Energy and Environment Series, 2014.
+
+\bibitem{CZTS_book}
+K.~Ito.
+\newblock {\em An Overview of CZTS-Based Thin-Film Solar Cells}.
+\newblock John Wiley \& Sons, 2015.
 
 \bibitem{first_CZTS}
 K.~Ito and T.~Nakazawa.
@@ -84,10 +149,36 @@ J.~Jean, P.~R. Brown, R.~L. Jaffe, T.~Buonassisi, and V.~Bulovic.
 \newblock {Pathways for Solar Photovoltaics}.
 \newblock {\em Energy Environ. Sci.}, 2015.
 
+\bibitem{rev_37}
+W.~Ji, K.~Yao, and Y.~C. Liang.
+\newblock {\em Adv. Mater.}, 22:1763--1766, 2010.
+
+\bibitem{keith_51}
+W.~Ji, K.~Yao, and Y.~C. Liang.
+\newblock Bulk photovoltaic effect at visible wavelength in epitaxial
+  ferroelectric bifeo3 thin films.
+\newblock {\em Advanced Materials}, 22(15):1763--1766, 2010.
+
+\bibitem{keith_55}
+H.~R. Johnson, R.~H. Williams, and C.~H.~B. Mee.
+\newblock The anomalous photovoltaic effect in cadmium telluride.
+\newblock {\em Journal of Physics D: Applied Physics}, 8(13):1530, 1975.
+
+\bibitem{shift_current}
+P.~Kral.
+\newblock Quantum kinetic theory of shift-current electron pumping in
+  semiconductors.
+\newblock {\em Journal of Physics: Condensed Matter}, 12(22):4851, 2000.
+
 \bibitem{PV_history2}
 D.~W. Lane, K.~J. Hutchings, R.~McCracken, and I.~Forbes.
 \newblock {\em New Chalcogenide Materials for Thin Film Solar Cells}.
 \newblock The Royal Society of Chemistry, 2015.
+
+\bibitem{Germany_Lang}
+M.~Lang and A.~Lang.
+\newblock {\em Overview Renewable Energy Sources Act}, 2014 (Accessed on 05
+  May, 2016).
 
 \bibitem{LCOE2}
 D.~Ltd.
@@ -100,6 +191,10 @@ U.~D. of~Energy.
   market report.
 \newblock 2010.
 
+\bibitem{Germany_Oregon}
+U.~of~Oregon Investment~Group.
+\newblock {\em First Solar, Inc}, 2011 (Accessed on 05 May, 2016).
+
 \bibitem{MIT}
 M.~I. of~Technology.
 \newblock {\em The Future of Solar Energy}, 2015 (Accessed on June 9, 2015).
@@ -110,21 +205,51 @@ G.~Peng, X.~Xu, and G.~Xu.
   high efficiency solar cells.
 \newblock {\em Journal of Nanomaterials}, 2014.
 
+\bibitem{CIS1}
+C.~Persson and A.~Zunger.
+\newblock Anomalous grain boundary physics in polycrystalline
+  ${\mathrm{c}\mathrm{u}\mathrm{i}\mathrm{n}\mathrm{s}\mathrm{e}}_{2}$: The
+  existence of a hole barrier.
+\newblock {\em Phys. Rev. Lett.}, 91:266401, Dec 2003.
+
+\bibitem{CIS2}
+C.~Persson and A.~Zunger.
+\newblock {Compositionally induced valence-band offset at the grain boundary of
+  polycrystalline chalcopyrites creates a hole barrier}.
+\newblock {\em Appl. Phys. Lett.}, 87(21):211904, 2005.
+
 \bibitem{spectrum2}
 A.~Polman, M.~Knight, E.~C. Garnett, B.~Ehrler, and W.~C. Sinke.
 \newblock Photovoltaic materials: Present efficiencies and future challenges.
 \newblock {\em Science}, 352(6283), 2016.
+
+\bibitem{nonlinear_dielectric}
+P.~Poosanaas, K.~Tonooka, and K.~Uchino.
+\newblock Photostrictive actuators.
+\newblock {\em Mechatronics}, 10(4–5):467 -- 487, 2000.
 
 \bibitem{pathways_130}
 I.~E. A. P. P.~S. Programme.
 \newblock Trends in photovoltaic applications, 19th edition.
 \newblock 2014.
 
+\bibitem{rev_46}
+M.~Qin, Y.~C. Yao, Kand~Liang, and S.~Shannigrahi.
+\newblock {\em J. Appl. Phys.}, 101:014104--014108, 2007.
+
+\bibitem{CIS1_4}
+K.~Ramanathan and et~al.
+\newblock {\em Prog. Photovolt. Res. Appl.}, 2003.
+
 \bibitem{Si_rev}
 T.~Saga.
 \newblock {Advances in crystalline silicon solar cell technology for industrial
   mass production}.
 \newblock {\em NPG Asia Mater.}, 2(3):96--102, 2010.
+
+\bibitem{CIS1_3}
+H.~W. Schock.
+\newblock {\em Adv. Solid State Phys.}, page 147, 1994.
 
 \bibitem{CZTS_bandgap_exp}
 J.-S. Seol, S.-Y. Lee, J.-C. Lee, H.-D. Nam, and K.-H. Kim.
@@ -149,10 +274,24 @@ S.~Siebentritt and S.~Schorr.
 \newblock {Kesterites-a challenging material for solar cells}.
 \newblock {\em Prog. Photovoltaics Res. Appl.}, 20(February):512--519, 2012.
 
+\bibitem{keith_52}
+J.~E. Sipe and A.~I. Shkrebtii.
+\newblock Second-order optical response in semiconductors.
+\newblock {\em Phys. Rev. B}, 61:5337--5352, Feb 2000.
+
 \bibitem{PV_history1}
 T.~G.~E. Society.
 \newblock {\em Introduction and the hisotry of photovoltaics}.
 \newblock Routledge, 2013.
+
+\bibitem{keith_54}
+J.~Starkiewicz, L.~Sosnowski, and O.~Simpson.
+\newblock {\em Nature}, 158, 1946.
+
+\bibitem{depol_model}
+S.~Sun and P.~A. Fuierer.
+\newblock Modeling of depolarization in ferroelectric thin films.
+\newblock {\em Integrated Ferroelectrics}, 23(1-4):45--64, 1999.
 
 \bibitem{CZTS_record}
 S.~Tajima, T.~Itoh, H.~Hazama, K.~Ohishi, and R.~Asahi.
@@ -163,6 +302,20 @@ S.~Tajima, T.~Itoh, H.~Hazama, K.~Ohishi, and R.~Asahi.
 \bibitem{global_energy_fig}
 T.~Urban.
 \newblock {\em The Deal With Solar}, 2016 (Accessed on 23 April, 2016).
+
+\bibitem{keith_57}
+M.~D. Uspenskii, N.~G. Ivanova, and M.~I. E.
+\newblock {\em Sov. Phys.- Semicond}, page 1059, 1968.
+
+\bibitem{Germany_guardian_news}
+J.~Vidal.
+\newblock {\em UK and Germany break solar power records}, 2014 (Accessed on 04
+  May, 2016).
+
+\bibitem{Germany_PV}
+H.~Wirth.
+\newblock {\em Recent Facts about Photovoltaics in Germany}, 2015 (Accessed on
+  04 May, 2016).
 
 \bibitem{Jarv_7}
 R.~W. Wyckoff.
@@ -181,6 +334,36 @@ Y.~Yan, W.-J. Yin, T.~Shi, F.~Hong, J.~Ge, Y.~Yue, W.~Ke, D.~Zhao, and
   materials.
 \newblock In {\em Active-Matrix Flatpanel Displays and Devices (AM-FPD), 2015
   22nd International Workshop on}, pages 57--60, July 2015.
+
+\bibitem{rev_30}
+S.~Y. Yang, J.~Seidel, S.~J. Byrnes, P.~Shafer, C.~H. Yang, M.~D. Rossell,
+  P.~Yu, Y.~H. Chu, J.~F. Scott, and J.~W. Ager.
+\newblock {\em Nat. Nanotechnol.}, 5:143--147, 2010.
+
+\bibitem{Rappe}
+S.~M. Young and A.~M. Rappe.
+\newblock {First principles calculation of the shift current photovoltaic
+  effect in ferroelectrics}.
+\newblock {\em Phys. Rev. Lett.}, 109(11):1--5, 2012.
+
+\bibitem{keith_25}
+S.~M. Young, F.~Zheng, and A.~M. Rappe.
+\newblock First-principles calculation of the bulk photovoltaic effect in
+  bismuth ferrite.
+\newblock {\em Phys. Rev. Lett.}, 109:236601, Dec 2012.
+
+\bibitem{FE_PV_rev1}
+Y.~Yuan, Z.~Xiao, B.~Yang, and J.~Huang.
+\newblock {Arising applications of ferroelectric materials in photovoltaic
+  devices}.
+\newblock {\em J. Mater. Chem. A}, 2(17):6027, 2014.
+
+\bibitem{schottky_effect}
+J.~Zhang, X.~Su, M.~Shen, Z.~Dai, L.~Zhang, X.~He, W.~Cheng, M.~Cao, and
+  G.~Zou.
+\newblock Enlarging photovoltaic effect: combination of classic photoelectric
+  and ferroelectric photovoltaic effects.
+\newblock {\em Scientific Reports}, 3:2109, 2013.
 
 \bibitem{CZTS_bandgap_theory}
 H.~Zhao and C.~Persson.
