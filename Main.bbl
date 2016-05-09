@@ -1,9 +1,24 @@
 \begin{thebibliography}{10}
 
+\bibitem{AshcroftMermin2}
+N.~Ashcroft and N.~Mermin.
+\newblock {\em Crystal Lattices}.
+\newblock Saunders College Publishing, 1976.
+
+\bibitem{AshcroftMermin3}
+N.~Ashcroft and N.~Mermin.
+\newblock {\em The Reciprocal Lattice}.
+\newblock Saunders College Publishing, 1976.
+
 \bibitem{pathways_129}
 E.~P.~I. Association.
 \newblock Global market outlook for photovoltaics 2014-2018.
 \newblock 2014.
+
+\bibitem{transport}
+M.~Balkanski and R.~F. Wallis.
+\newblock {\em Introduction to Transport in Semiconductors}.
+\newblock OUP Oxford, 2000.
 
 \bibitem{CZTS_phases}
 W.~Bao and M.~Ichimura.
@@ -21,6 +36,16 @@ A.~Bhatnagar, A.~{Roy Chaudhuri}, Y.~{Heon Kim}, D.~Hesse, and M.~Alexe.
 \newblock {Role of domain walls in the abnormal photovoltaic effect in
   BiFeO₃.}
 \newblock {\em Nat. Commun.}, 4(May):2835, 2013.
+
+\bibitem{Blakemore1}
+J.~Blakemore.
+\newblock {\em Crystallinity and the Form of Solids: Reciprocal Space}.
+\newblock Cambridge University Press, 1985.
+
+\bibitem{Blakemore2}
+J.~Blakemore.
+\newblock {\em Electrons in Metals: The band Theory of Solids}.
+\newblock Cambridge University Press, 1985.
 
 \bibitem{Federico}
 F.~Brivio, A.~B. Walker, and A.~Walsh.
@@ -72,6 +97,10 @@ E.~S. Cortezon, R.~Aninat, and E.~Sanchez-cortezon.
 \newblock Kesterite-based photovoltaic devices: Challenges for scale-up.
 \newblock In {\em Proceedings of the IEEE Photovoltaic Specialist}, 2016.
 
+\bibitem{vasp-slides}
+A.~Eichler.
+\newblock {\em Sampling the Brillouin Zone}, 2014 (Accessed on April 28, 2015).
+
 \bibitem{LCOE}
 F.~I. for Solar Energy Systems~ISE.
 \newblock {\em Levelized Cost of Electricity Renewable Energy Technologies},
@@ -108,10 +137,19 @@ M.~Gr{\"a}tzel.
 \newblock {\em Inorganic Chemistry}, 44(20):6841--6851, 2005.
 \newblock PMID: 16180840.
 
+\bibitem{handbook}
+J.~L. Gray.
+\newblock {\em The Physics of the Solar Cell}, pages 61--112.
+\newblock John Wiley \& Sons, Ltd, 2005.
+
 \bibitem{emerging_pv}
 W.~Hermes, D.~Waldmann, M.~Agari, K.~Schierle-Arndt, and P.~Erk.
 \newblock {Emerging Thin-Film Photovoltaic Technologies}.
 \newblock {\em Chemie Ingenieur Technik}, 87(4):376--389, 2015.
+
+\bibitem{PVeducation}
+C.~Honsberg and S.~Bowden.
+\newblock {\em Open-Circuit Voltage}, 2014 (Accessed on April 28, 2015).
 
 \bibitem{rev_49}
 M.~Ichiki, H.~Furue, T.~Kobayashi, R.~Maeda, Y.~Morikawa, T.~Nakada, and
@@ -164,6 +202,16 @@ H.~R. Johnson, R.~H. Williams, and C.~H.~B. Mee.
 \newblock The anomalous photovoltaic effect in cadmium telluride.
 \newblock {\em Journal of Physics D: Applied Physics}, 8(13):1530, 1975.
 
+\bibitem{small_semiconductor1}
+A.~K. Jonscher.
+\newblock {\em The Electronic Structure of Solids}.
+\newblock Routledge \& Kegan Paul Ltd., 1965.
+
+\bibitem{small_semiconductor2}
+A.~K. Jonscher.
+\newblock {\em The Imperfect Solid}.
+\newblock Routledge \& Kegan Paul Ltd., 1965.
+
 \bibitem{shift_current}
 P.~Kral.
 \newblock Quantum kinetic theory of shift-current electron pumping in
@@ -180,10 +228,19 @@ M.~Lang and A.~Lang.
 \newblock {\em Overview Renewable Energy Sources Act}, 2014 (Accessed on 05
   May, 2016).
 
+\bibitem{new_FE_PV_1}
+M.~E. Lines and A.~M. Glass.
+\newblock Oxford University Press, 1977.
+
 \bibitem{LCOE2}
 D.~Ltd.
 \newblock {\em What is Levelised Cost of Energy (LCOE)?}, 2011 (Accessed on Aug
   10, 2015).
+
+\bibitem{Nelson1}
+J.~Nelson.
+\newblock {\em Introduction}.
+\newblock Imperial College Press, 2003.
 
 \bibitem{sus_book_5}
 U.~D. of~Energy.
@@ -198,6 +255,12 @@ U.~of~Oregon Investment~Group.
 \bibitem{MIT}
 M.~I. of~Technology.
 \newblock {\em The Future of Solar Energy}, 2015 (Accessed on June 9, 2015).
+
+\bibitem{new_FE_PV}
+C.~Paillard, X.~Bai, I.~C. Infante, M.~Guennou, G.~Geneste, M.~Alexe,
+  J.~Kreisel, and B.~Dkhil.
+\newblock {Photovoltaics with Ferroelectrics: Current Status and Beyond}.
+\newblock {\em Adv. Mater.}, apr 2016.
 
 \bibitem{MAPI}
 G.~Peng, X.~Xu, and G.~Xu.
@@ -299,6 +362,17 @@ S.~Tajima, T.~Itoh, H.~Hazama, K.~Ohishi, and R.~Asahi.
   using a two-layer structure.
 \newblock {\em Applied Physics Express}, 8(8):082302, 2015.
 
+\bibitem{Tilley}
+R.~J.~D. Tilley.
+\newblock {\em Colour in Metals, Semiconductors and Insulators}.
+\newblock John Wiley \& Sons, Ltd, 2011.
+
+\bibitem{bloch-thesis}
+P.~R. Tulip.
+\newblock {Dielectric and Lattice Dynamical Properties of Molecular Crystals
+  via Density Functional Perturbation Theory: Implementation within a First
+  Principles Code}, 2004.
+
 \bibitem{global_energy_fig}
 T.~Urban.
 \newblock {\em The Deal With Solar}, 2016 (Accessed on 23 April, 2016).
@@ -352,11 +426,21 @@ S.~M. Young, F.~Zheng, and A.~M. Rappe.
   bismuth ferrite.
 \newblock {\em Phys. Rev. Lett.}, 109:236601, Dec 2012.
 
+\bibitem{fund_semi}
+P.~Y. Yu and M.~Cardona.
+\newblock {\em Electronic Band Structures}.
+\newblock Springer-Verlag Berlin Heidelberg, 2010.
+
 \bibitem{FE_PV_rev1}
 Y.~Yuan, Z.~Xiao, B.~Yang, and J.~Huang.
 \newblock {Arising applications of ferroelectric materials in photovoltaic
   devices}.
 \newblock {\em J. Mater. Chem. A}, 2(17):6027, 2014.
+
+\bibitem{dielectric1}
+A.~A. Zaky and R.~Hawley.
+\newblock {\em Dielectric Solids}.
+\newblock Routledge \& Kegan Paul, Ltd, 1970.
 
 \bibitem{schottky_effect}
 J.~Zhang, X.~Su, M.~Shen, Z.~Dai, L.~Zhang, X.~He, W.~Cheng, M.~Cao, and

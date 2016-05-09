@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  5 MAY 2016 09:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  9 MAY 2016 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -113,7 +113,14 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 \c@definition=\count93
 \c@theorem=\count94
-) (./Main.aux)
+) (./Main.aux
+
+LaTeX Warning: Label `single_SE' multiply defined.
+
+
+LaTeX Warning: Label `bloch' multiply defined.
+
+)
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -283,35 +290,34 @@ ance of CZTS (Cu$[]$ZnSnS$[]$)
 
 ] [8
 
-] (./Main.lof)
+] (./Main.lof [9
+
+])
 \tf@lof=\write5
 \openout5 = `Main.lof'.
 
- [9
-
-] [10
-
-]
+ [10]
 (./introduction/introduction.tex
 Chapter 1.
 [1
+
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-<figures/global_energy.png, id=61, 602.25pt x 455.7025pt>
+<figures/global_energy.png, id=62, 602.25pt x 455.7025pt>
 File: figures/global_energy.png Graphic file (type png)
 
 <use figures/global_energy.png>
 Package pdftex.def Info: figures/global_energy.png used on input line 14.
 (pdftex.def)             Requested size: 362.77264pt x 274.50833pt.
 
+Underfull \vbox (badness 3579) has occurred while \output is active []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/LCOE.png, id=62, 2092.81876pt x 1473.505pt>
+ [2]
+<figures/LCOE.png, id=66, 2092.81876pt x 1473.505pt>
 File: figures/LCOE.png Graphic file (type png)
  <use figures/LCOE.png>
 Package pdftex.def Info: figures/LCOE.png used on input line 21.
@@ -325,169 +331,260 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-
-Underfull \vbox (badness 3579) has occurred while \output is active []
-
- [2]
-
-LaTeX Warning: Text page 3 contains only floats.
-
-
-Overfull \vbox (3.99533pt too high) has occurred while \output is active []
-
-
-[3 <./figures/global_energy.png (PNG copy)> <./figures/LCOE.png>] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[3 <./figures/global_energy.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--38
 
  []
 
-<figures/Si_cost.jpg, id=75, 652.4375pt x 806.01125pt>
+[4 <./figures/LCOE.png>] <figures/IV.png, id=76, 563.706pt x 291.489pt>
+File: figures/IV.png Graphic file (type png)
+
+<use figures/IV.png>
+Package pdftex.def Info: figures/IV.png used on input line 41.
+(pdftex.def)             Requested size: 314.40001pt x 162.5789pt.
+ [5 <./figures/IV.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+<figures/Si_cost.jpg, id=84, 652.4375pt x 806.01125pt>
 File: figures/Si_cost.jpg Graphic file (type jpg)
 
 <use figures/Si_cost.jpg>
-Package pdftex.def Info: figures/Si_cost.jpg used on input line 48.
+Package pdftex.def Info: figures/Si_cost.jpg used on input line 79.
 (pdftex.def)             Requested size: 435.32422pt x 537.81096pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-[5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./figures/Si_cost.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--64
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 [7]
-Underfull \vbox (badness 3579) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
-<figures/PV_generations.png, id=88, 560.0925pt x 375.65344pt>
+ [8 <./figures/Si_cost.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+<figures/PV_generations.png, id=98, 560.0925pt x 375.65344pt>
 File: figures/PV_generations.png Graphic file (type png)
 
 <use figures/PV_generations.png>
-Package pdftex.def Info: figures/PV_generations.png used on input line 70.
+Package pdftex.def Info: figures/PV_generations.png used on input line 101.
 (pdftex.def)             Requested size: 362.77264pt x 243.3235pt.
 
-<figures/SQ.png, id=89, 404.2302pt x 350.2686pt>
+<figures/SQ.png, id=99, 404.2302pt x 350.2686pt>
 File: figures/SQ.png Graphic file (type png)
  <use figures/SQ.png>
-Package pdftex.def Info: figures/SQ.png used on input line 78.
+Package pdftex.def Info: figures/SQ.png used on input line 109.
 (pdftex.def)             Requested size: 314.40001pt x 272.43343pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/solar_spectrum2.png, id=90, 875.27pt x 633.36626pt>
+<figures/solar_spectrum2.png, id=100, 875.27pt x 633.36626pt>
 File: figures/solar_spectrum2.png Graphic file (type png)
 
 <use figures/solar_spectrum2.png>
-Package pdftex.def Info: figures/solar_spectrum2.png used on input line 85.
+Package pdftex.def Info: figures/solar_spectrum2.png used on input line 116.
 (pdftex.def)             Requested size: 459.51054pt x 332.5126pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+[11 <./figures/PV_generations.png>] [12 <./figures/SQ.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+[13 <./figures/solar_spectrum2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9 <./figures/PV_generations.png>] [10 <./figures/SQ.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
-[11 <./figures/solar_spectrum2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 106--108
+[14]
+
+LaTeX Warning: Reference `PV' on page 15 undefined on input line 144.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--148
 
  []
 
 
 Underfull \vbox (badness 3579) has occurred while \output is active []
 
- [12]
+ [15]
+Underfull \vbox (badness 3579) has occurred while \output is active []
 
-LaTeX Warning: Reference `PV' on page 13 undefined on input line 112.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
-
- []
-
-[13]
+ [16]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 117.
+(Font)              <14.4> on input line 151.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 117.
+(Font)              <7> on input line 151.
 
-Overfull \hbox (1.58762pt too wide) in paragraph at lines 117--117
+Overfull \hbox (1.58762pt too wide) in paragraph at lines 151--151
 []\OT1/cmr/bx/n/14.4 Investigating Pos-si-ble Bot-tle-necks in the Per-for-manc
 e of CZTS
  []
 
-<figures/kesterite_bottlenecks.png, id=109, 434.37282pt x 384.6872pt>
+<figures/kesterite_bottlenecks.png, id=122, 434.37282pt x 384.6872pt>
 File: figures/kesterite_bottlenecks.png Graphic file (type png)
 
 <use figures/kesterite_bottlenecks.png>
 Package pdftex.def Info: figures/kesterite_bottlenecks.png used on input line 1
-23.
+57.
 (pdftex.def)             Requested size: 362.77264pt x 321.2919pt.
- [14 <./figures/kesterite_bottlenecks.png>] [15]) (./background/background.tex 
-[16]
+ [17 <./figures/kesterite_bottlenecks.png>] [18]) (./background/background.tex 
+[19]
 Chapter 2.
 
-Underfull \vbox (badness 8038) has occurred while \output is active []
-
- [17
-
-]
-
-Package natbib Warning: Citation `characterization_book' on page 18 undefined o
-n input line 20.
+LaTeX Warning: Reference `supercell_section' on page 20 undefined on input line
+ 7.
 
 
-Package natbib Warning: Citation `Gerschon' on page 18 undefined on input line 
-20.
+LaTeX Warning: Reference `DFT_section' on page 20 undefined on input line 7.
 
 
-Underfull \vbox (badness 6775) has occurred while \output is active []
-
- [18]
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--45
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-[19]) (./methodology/methodology.tex
+[20
+
+] <figures/Wigner-Seitz.png, id=136, 399.4122pt x 205.2468pt>
+File: figures/Wigner-Seitz.png Graphic file (type png)
+
+<use figures/Wigner-Seitz.png>
+Package pdftex.def Info: figures/Wigner-Seitz.png used on input line 17.
+(pdftex.def)             Requested size: 241.84843pt x 124.2796pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21] <figures/energy_dispersion.png, id=143, 508.7808pt x 332.442pt>
+File: figures/energy_dispersion.png Graphic file (type png)
+
+<use figures/energy_dispersion.png>
+Package pdftex.def Info: figures/energy_dispersion.png used on input line 49.
+(pdftex.def)             Requested size: 193.47578pt x 126.42058pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 7379) has occurred while \output is active []
+
+ [22 <./figures/Wigner-Seitz.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+[23 <./figures/energy_dispersion.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+
+ []
+
+<figures/bs1.png, id=156, 690.4194pt x 388.8126pt>
+File: figures/bs1.png Graphic file (type png)
+ <use figures/bs1.png>
+Package pdftex.def Info: figures/bs1.png used on input line 96.
+(pdftex.def)             Requested size: 338.58632pt x 190.67409pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \vbox (badness 1721) has occurred while \output is active []
+
+ [25 <./figures/bs1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+<figures/bs2.png, id=161, 638.8668pt x 410.9754pt>
+File: figures/bs2.png Graphic file (type png)
+ <use figures/bs2.png>
+Package pdftex.def Info: figures/bs2.png used on input line 107.
+(pdftex.def)             Requested size: 338.58632pt x 217.80965pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26]
+
+Package natbib Warning: Citation `characterization_book' on page 27 undefined o
+n input line 124.
+
+
+Package natbib Warning: Citation `Gerschon' on page 27 undefined on input line 
+124.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./figures/bs2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--149
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 150--155
+
+ []
+
+
+Underfull \vbox (badness 4391) has occurred while \output is active []
+
+ [29])
+(./methodology/methodology.tex
 Underfull \vbox (badness 3579) has occurred while \output is active []
 
- [20]
-[21]
+ [30]
+[31]
 Chapter 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 3.
-[22
+[32
 
-] [23]) (./results/results.tex [24]
+] [33]) (./results/results.tex [34]
 Chapter 4.
 
 Overfull \hbox (21.81871pt too wide) in paragraph at lines 2--2
@@ -501,19 +598,19 @@ Overfull \hbox (8.82257pt too wide) in paragraph at lines 3--3
 r Amongst
  []
 
-) (./conclusion/conclusion.tex [25
+) (./conclusion/conclusion.tex [35
 
-] [26]
+] [36]
 Chapter 5.
-) (./Main.bbl [27
+) (./Main.bbl [37
 
 ]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ç in font cmr12!
 Missing character: There is no É in font cmr12!
- [28
+ [38
 
-] [29] [30]
+] [39] [40] [41]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
@@ -523,41 +620,44 @@ Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ê in font cmr12!
- [31] [32])
+ [42] [43])
 
 Package natbib Warning: There were undefined citations.
 
-[33] (./Main.aux)
+[44] (./Main.aux)
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2889 strings out of 493117
- 41286 string characters out of 6135433
- 112009 words of memory out of 5000000
- 6261 multiletter control sequences out of 15000+600000
- 12077 words of font info for 46 fonts, out of 8000000 for 9000
+ 2986 strings out of 493117
+ 43028 string characters out of 6135433
+ 112428 words of memory out of 5000000
+ 6349 multiletter control sequences out of 15000+600000
+ 13316 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,9n,27p,1723b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,9n,27p,1723b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (43 pages, 1285200 bytes).
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Main.pdf (54 pages, 2116857 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
+ 272 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
