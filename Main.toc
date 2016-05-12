@@ -6,46 +6,41 @@
 \contentsline {subsection}{\numberline {1.1.2}Basic Operating Principles of a Solar Cell Device}{4}
 \contentsline {subsection}{\numberline {1.1.3}Key Properties \& Experimental Measurements to Assess Materials for Use in Solar Cell Devices}{7}
 \contentsline {subsection}{\numberline {1.1.4}Current Commercial Solar Cell Technologies \& Limitations}{8}
-\contentsline {section}{\numberline {1.2}The Role of Computational Modelling in Material Design}{12}
+\contentsline {section}{\numberline {1.2}The Role of Computational Modelling in Material Design}{13}
 \contentsline {section}{\numberline {1.3}Overview of this Study}{14}
 \contentsline {subsection}{\numberline {1.3.1}Promising Candidates for Solar Absorber Materials}{14}
 \contentsline {subsection}{\numberline {1.3.2}Investigating Possible Bottlenecks in the Performance of CZTS (Cu$_2$ZnSnS$_4$) Devices}{18}
-\contentsline {subsection}{\numberline {1.3.3}Predicting and Assessing the Properties of New Candidate Solar Absorber Materials}{19}
+\contentsline {subsection}{\numberline {1.3.3}Predicting and Assessing the Properties of New Candidate Solar Absorber Materials}{20}
 \contentsline {chapter}{\numberline {2}Background Theory}{21}
 \contentsline {section}{\numberline {2.1}The Description of Perfect Periodic Crystal Structures}{21}
-\contentsline {section}{\numberline {2.2}Crystal Imperfections of the First and Second Types}{24}
-\contentsline {section}{\numberline {2.3}Band Theory \& Band Structure}{24}
-\contentsline {section}{\numberline {2.4}Spin Orbit Interaction}{28}
-\contentsline {section}{\numberline {2.5}Photoluminescence Spectra of Solar Absorber Materials}{29}
-\contentsline {section}{\numberline {2.6}Band Tailing in Disordered Semiconductors}{29}
-\contentsline {section}{\numberline {2.7}Impact of Defects and Disorder on Photovoltaic Performance}{29}
-\contentsline {section}{\numberline {2.8}Photovoltaic-Ferroelectric Phenomena \& the Possibility of High Performance Solar Cells}{30}
+\contentsline {section}{\numberline {2.2}Crystal Imperfections \& Disorder}{24}
+\contentsline {section}{\numberline {2.3}Band Theory \& Band Structure of Semiconductors}{25}
+\contentsline {section}{\numberline {2.4}Emission Spectroscopies of Semiconductors}{28}
+\contentsline {section}{\numberline {2.5}Performance Bottlenecks Due to Crystal Imperfections}{29}
+\contentsline {subsection}{\numberline {2.5.1}Impact of Defects and Disorder on Photovoltaic Performance}{29}
+\contentsline {subsection}{\numberline {2.5.2}Band Tailing in Disordered Semiconductors}{29}
+\contentsline {section}{\numberline {2.6}Novel Optoelectronic Phenomena \& the Possibility of High Performance Solar Cells}{30}
+\contentsline {subsection}{\numberline {2.6.1}Spin Orbit Interaction \& Rashba Splitting}{30}
+\contentsline {subsection}{\numberline {2.6.2}Photovoltaic-Ferroelectric Phenomena}{30}
 \contentsline {chapter}{\numberline {3}Methodology}{33}
 \contentsline {section}{\numberline {3.1}Calculation of the Formation Energies of Defects in Cu$_2$ZnSnS$_4$}{33}
 \contentsline {subsection}{\numberline {3.1.1}Density Functional Theory \& Hybrid Functionals}{33}
-\contentsline {subsection}{\numberline {3.1.2}The Supercell Method \& Charged Defects}{33}
-\contentsline {subsection}{\numberline {3.1.3}Quasichemical Theory for Point Defects}{33}
-\contentsline {subsection}{\numberline {3.1.4}Chemical Potential and Defect Formation Energy as a Function of Temperature and Pressure for $V_S$}{34}
-\contentsline {section}{\numberline {3.2}Monte Carlo Simulation of On-Lattice Disorder in Cu$_2$ZnSnS$_4$}{34}
-\contentsline {subsection}{\numberline {3.2.1}Multi-Scale Monte Carlo Simulations of Thermodynamic Disorder}{34}
-\contentsline {subsection}{\numberline {3.2.2}Convergence Tests for the Model}{34}
-\contentsline {subsection}{\numberline {3.2.3}Calculation of Order Parameters}{35}
-\contentsline {subsection}{\numberline {3.2.4}Determination of Band Tailing from Monte Carlo Simulations}{35}
-\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{35}
-\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of Sulfosalt Materials}{35}
-\contentsline {chapter}{\numberline {4}Results}{36}
-\contentsline {section}{\numberline {4.1}Investigation of Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{36}
-\contentsline {subsection}{\numberline {4.1.1}Project1: Band Tailing due to Substitutional Disorder Amongst Cations}{36}
-\contentsline {subsection}{\numberline {4.1.2}Project2: Re-Assessing the Formation Energy of $V_S$}{36}
-\contentsline {subsection}{\numberline {4.1.3}Project3: Intrinsic Band Gap Broadening from Lattice Vibrations}{36}
-\contentsline {section}{\numberline {4.2}Prediction and Assessment of Optoelectronic Properties of Sulfosalt Materials for Photovoltaic Applications}{36}
-\contentsline {subsection}{\numberline {4.2.1}Band Structures \& Band Gap}{37}
-\contentsline {subsection}{\numberline {4.2.2}Effective Masses}{37}
-\contentsline {subsection}{\numberline {4.2.3}Dielectric Functions}{37}
-\contentsline {subsection}{\numberline {4.2.4}Absorption Coefficients}{37}
-\contentsline {chapter}{\numberline {5}Conclusion}{38}
-\contentsline {section}{\numberline {5.1}Project 1}{38}
-\contentsline {section}{\numberline {5.2}Project 2}{38}
-\contentsline {section}{\numberline {5.3}Project 3}{38}
-\contentsline {section}{\numberline {5.4}Future Work}{38}
-\contentsline {chapter}{Bibliography}{38}
+\contentsline {subsection}{\numberline {3.1.2}The Supercell Method \& Corrections for Charged Defects}{33}
+\contentsline {subsection}{\numberline {3.1.3}Defect Formation Energy as a Function of Atomic and Electronic Chemical Potentials}{33}
+\contentsline {section}{\numberline {3.2}Monte Carlo Simulation of Thermodynamic Disorder in Cu$_2$ZnSnS$_4$}{33}
+\contentsline {subsection}{\numberline {3.2.1}Multi-Scale Approach}{34}
+\contentsline {subsection}{\numberline {3.2.2}Quantification of Disorder Using Radial Distribution Functions}{34}
+\contentsline {subsection}{\numberline {3.2.3}Determination of Band Tailing from the Distribution of Electrostatic Potential}{34}
+\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{34}
+\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of Sulfosalt Materials}{34}
+\contentsline {chapter}{\numberline {4}Results}{35}
+\contentsline {section}{\numberline {4.1}Investigation of Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{35}
+\contentsline {subsection}{\numberline {4.1.1}Band Tailing Due to Disorder Amongst Copper and Zinc Cations}{35}
+\contentsline {subsection}{\numberline {4.1.2}Intrinsic Band Gap Broadening from Lattice Vibrations}{35}
+\contentsline {section}{\numberline {4.2}Prediction and Assessment of Optoelectronic Properties of Sulfosalt Materials for Photovoltaic Applications}{35}
+\contentsline {subsection}{\numberline {4.2.1}Band Structures \& Band Gap}{35}
+\contentsline {chapter}{\numberline {5}Conclusion}{36}
+\contentsline {section}{\numberline {5.1}Performance Bottlenecks of Cu$_2$ZnSnS$_4$Solar Cells}{36}
+\contentsline {section}{\numberline {5.2}Potential of Sulfosalt Materials for Solar Cell Devices}{36}
+\contentsline {section}{\numberline {5.3}Future Work}{36}
+\contentsline {chapter}{Bibliography}{36}

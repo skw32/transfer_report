@@ -11,7 +11,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces The Wigner-Seitz cell for the body-centred cubic Bravais lattice where there is a lattice point at its centre and on each vertex. The hexagonal faces bisect the lines joining the central point to the points on the vertices. The square faces bisect the lines joining the central point to the central points in each of the six neighbouring cubic cells. Figure taken from reference \citenum {AshcroftMermin2}.}}{23}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces The energy dispersion relation for electrons moving in a crystal, illustrating how the function can be approximately represented by a finite number of \textit {k}-points, which form an equally-spaced mesh. Figure adapted from reference \citenum {vasp-slides}.}}{24}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Energy-wave vector diagrams: (a) the free electron parabola, (b) modification due to a periodic crystal lattice. Figure taken from reference \citenum {small_semiconductor1}.}}{26}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Energy-wave vector diagrams: (a) the free electron parabola, (b) modification due to a periodic crystal lattice. Figure taken from reference \citenum {small_semiconductor1}.}}{27}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces The influence of increased donor impurity density on the conduction band profile showing low (a), medium (b) and high (c) densities of impurities. Figure taken from reference \citenum {small_semiconductor2}.}}{28}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
