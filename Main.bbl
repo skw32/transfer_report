@@ -47,6 +47,10 @@ J.~Blakemore.
 \newblock {\em Electrons in Metals: The band Theory of Solids}.
 \newblock Cambridge University Press, 1985.
 
+\bibitem{spatial_resolved_book}
+M.~Bokali\v{c} and M.~Topi\v{c}.
+\newblock {\em Spatially Resolved Characterization in Thin-Film Photovoltaics}.
+
 \bibitem{Federico}
 F.~Brivio, A.~B. Walker, and A.~Walsh.
 \newblock {Structural and electronic properties of hybrid perovskites for
@@ -239,6 +243,8 @@ D.~Ltd.
 
 \bibitem{PV_handbook}
 A.~McEvoy, T.~Markvart, and L.~C. {n}er.
+\newblock {\em Practical Handbook of Photovoltaics - Fundamentals and
+  Applications}.
 \newblock Elsevier, 2012.
 
 \bibitem{Nelson1}
@@ -348,7 +354,7 @@ J.~E. Sipe and A.~I. Shkrebtii.
 
 \bibitem{PV_history1}
 T.~G.~E. Society.
-\newblock {\em Introduction and the hisotry of photovoltaics}.
+\newblock {\em Introduction and the history of photovoltaics}.
 \newblock Routledge, 2013.
 
 \bibitem{keith_54}
