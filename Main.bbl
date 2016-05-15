@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{AshcroftMermin2}
 N.~Ashcroft and N.~Mermin.
@@ -26,6 +26,11 @@ W.~Bao and M.~Ichimura.
   Material Based on the First Principles Calculation}.
 \newblock {\em Int. J. Photoenergy}, 2014(c), 2014.
 
+\bibitem{Bechstedt}
+F.~Bechstedt.
+\newblock {\em Many-Body Approach to Electronic Excitations}.
+\newblock Springer, 2015.
+
 \bibitem{PGE}
 V.~Belinicher and B.~Sturman.
 \newblock {The photogalvanic effect in media lacking a center of symmetry}.
@@ -47,9 +52,19 @@ J.~Blakemore.
 \newblock {\em Electrons in Metals: The band Theory of Solids}.
 \newblock Cambridge University Press, 1985.
 
+\bibitem{thin_film_Boer}
+K.~W. B{\"o}er.
+\newblock {\em Handbook of the Physics of Thin-Film Solar Cells}.
+\newblock Springer, 2013.
+
 \bibitem{spatial_resolved_book}
 M.~Bokali\v{c} and M.~Topi\v{c}.
 \newblock {\em Spatially Resolved Characterization in Thin-Film Photovoltaics}.
+
+\bibitem{DK}
+R.~L. Bonewitz.
+\newblock {\em Minerals}.
+\newblock Dorling Kindersley, Ltd, 2012.
 
 \bibitem{Federico}
 F.~Brivio, A.~B. Walker, and A.~Walsh.
@@ -101,6 +116,16 @@ E.~S. Cortezon, R.~Aninat, and E.~Sanchez-cortezon.
 \newblock Kesterite-based photovoltaic devices: Challenges for scale-up.
 \newblock In {\em Proceedings of the IEEE Photovoltaic Specialist}, 2016.
 
+\bibitem{high_tp}
+S.~Curtarolo, G.~L.~W. Hart, M.~B. Nardelli, N.~Mingo, S.~Sanvito, and O.~Levy.
+\newblock {The high-throughput highway to computational materials design.}
+\newblock {\em Nat. Mater.}, 12(3):191--201, Mar. 2013.
+
+\bibitem{FE_subset}
+J.~P. Dakin and R.~G.~W. Brown.
+\newblock {\em Engineered Optical Materials}.
+\newblock CRC Press, 2010.
+
 \bibitem{vasp-slides}
 A.~Eichler.
 \newblock {\em Sampling the Brillouin Zone}, 2014 (Accessed on April 28, 2015).
@@ -131,6 +156,11 @@ J.~E. Girard.
 \newblock {\em Principles of Environmental Chemistry}.
 \newblock Jones \& Bartlett Learning, LLC, 2014.
 
+\bibitem{PV_Goetzberger}
+A.~Goetzberger and V.~U. Hoffmann.
+\newblock {\em Photovoltaic Solar Energy Generation}.
+\newblock Springer, 2005.
+
 \bibitem{keith_56}
 B.~Goldstein and L.~Pensak.
 \newblock {\em J. Appl. Phys.}, 155, 1959.
@@ -145,6 +175,11 @@ M.~Gr{\"a}tzel.
 J.~L. Gray.
 \newblock {\em The Physics of the Solar Cell}, pages 61--112.
 \newblock John Wiley \& Sons, Ltd, 2005.
+
+\bibitem{phys_semicond}
+M.~Grundmann.
+\newblock {\em The Physics of Semiconductors}.
+\newblock Springer, 2006.
 
 \bibitem{emerging_pv}
 W.~Hermes, D.~Waldmann, M.~Agari, K.~Schierle-Arndt, and P.~Erk.
@@ -252,6 +287,12 @@ J.~Nelson.
 \newblock {\em Introduction}.
 \newblock Imperial College Press, 2003.
 
+\bibitem{DFT_in_mat}
+J.~Neugebauer and T.~Hickel.
+\newblock {Density functional theory in materials science.}
+\newblock {\em Wiley Interdiscip. Rev. Comput. Mol. Sci.}, 3(5):438--448, sep
+  2013.
+
 \bibitem{sus_book_5}
 U.~D. of~Energy.
 \newblock Energy efficiency and renewable energy: 2008 solar technologies
@@ -291,7 +332,7 @@ C.~Persson and A.~Zunger.
   polycrystalline chalcopyrites creates a hole barrier}.
 \newblock {\em Appl. Phys. Lett.}, 87(21):211904, 2005.
 
-\bibitem{spectrum2}
+\bibitem{newPVrev}
 A.~Polman, M.~Knight, E.~C. Garnett, B.~Ehrler, and W.~C. Sinke.
 \newblock Photovoltaic materials: Present efficiencies and future challenges.
 \newblock {\em Science}, 352(6283), 2016.
@@ -332,10 +373,21 @@ J.-S. Seol, S.-Y. Lee, J.-C. Lee, H.-D. Nam, and K.-H. Kim.
   2003.
 \newblock \{PVSEC\} 12 Part \{II\}.
 
+\bibitem{high_tp2}
+W.~Setyawan and S.~Curtarolo.
+\newblock {High-throughput electronic band structure calculations: Challenges
+  and tools}.
+\newblock {\em Comput. Mater. Sci.}, 49(2):299--312, Apr. 2010.
+
 \bibitem{FE_PV_rev1_5}
 A.~Shah, P.~Torres, R.~Tscharner, N.~Wyrsch, and H.~Keppner.
 \newblock Photovoltaic technology: The case for thin-film solar cells.
 \newblock {\em Science}, 285(5428):692--698, 1999.
+
+\bibitem{PV_chart}
+Z.~Shahan.
+\newblock {\em 13 Charts On Solar Panel Cost \& Growth Trends}, 2014 (Accessed
+  on 15 May, 2016).
 
 \bibitem{SQ_1961}
 W.~Shockley and H.~J. Queisser.
