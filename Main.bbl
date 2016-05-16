@@ -96,6 +96,11 @@ K.~T. Butler, J.~M. Frost, and A.~Walsh.
   Revisited}.
 \newblock (December):1--11, 2014.
 
+\bibitem{stephanite_old}
+N.~I. Butsko, I.~D. Zhezhnich, and P.~M. M.
+\newblock {\em Some Physical Properties of Stephanite in the Phase Transition
+  Region}, 1973 (Accessed on September 3, 2015).
+
 \bibitem{CZTS_defects}
 S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
 \newblock {Defect physics of the kesterite thin-film solar cell absorber Cu[sub
@@ -125,6 +130,24 @@ S.~Curtarolo, G.~L.~W. Hart, M.~B. Nardelli, N.~Mingo, S.~Sanvito, and O.~Levy.
 J.~P. Dakin and R.~G.~W. Brown.
 \newblock {\em Engineered Optical Materials}.
 \newblock CRC Press, 2010.
+
+\bibitem{Dittrich2}
+H.~Dittrich, A.~Bieniok, U.~Brendel, M.~Grodzicki, and D.~Topa.
+\newblock {Sulfosalts — A new class of compound semiconductors for
+  photovoltaic applications}.
+\newblock {\em Thin Solid Films}, 515(15):5745--5750, May 2007.
+
+\bibitem{Dittrich1}
+H.~Dittrich, A.~Stadler, D.~Topa, H.~J. Schimper, and A.~Basch.
+\newblock {Progress in sulfosalt research}.
+\newblock {\em Phys. Status Solidi Appl. Mater. Sci.}, 206(5):1034--1041, 2009.
+
+\bibitem{Dong}
+Y.~Dong, A.~R. Khabibullin, K.~Wei, J.~R. Salvador, G.~S. Nolas, and L.~M.
+  Woods.
+\newblock Bournonite pbcusbs3: Stereochemically active lone-pair electrons that
+  induce low thermal conductivity.
+\newblock {\em ChemPhysChem}, pages n/a--n/a, 2015.
 
 \bibitem{vasp-slides}
 A.~Eichler.
@@ -185,6 +208,11 @@ M.~Grundmann.
 W.~Hermes, D.~Waldmann, M.~Agari, K.~Schierle-Arndt, and P.~Erk.
 \newblock {Emerging Thin-Film Photovoltaic Technologies}.
 \newblock {\em Chemie Ingenieur Technik}, 87(4):376--389, 2015.
+
+\bibitem{HSE}
+J.~Heyd, G.~E. Scuseria, and M.~Ernzerhof.
+\newblock {Hybrid functionals based on a screened Coulomb potential}.
+\newblock {\em J. Chem. Phys.}, 118(18):8207--8215, 2003.
 
 \bibitem{PVeducation}
 C.~Honsberg and S.~Bowden.
@@ -276,6 +304,12 @@ D.~Ltd.
 \newblock {\em What is Levelised Cost of Energy (LCOE)?}, 2011 (Accessed on Aug
   10, 2015).
 
+\bibitem{ores1}
+S.~Maske and B.~J. Skinner.
+\newblock Studies of the sulfosalts of copper; i, phases and phase relations in
+  the system cu-as-s.
+\newblock {\em Economic Geology}, 66:901--918, 1971.
+
 \bibitem{PV_handbook}
 A.~McEvoy, T.~Markvart, and L.~C. {n}er.
 \newblock {\em Practical Handbook of Photovoltaics - Fundamentals and
@@ -307,11 +341,23 @@ U.~of~Oregon Investment~Group.
 M.~I. of~Technology.
 \newblock {\em The Future of Solar Energy}, 2015 (Accessed on June 9, 2015).
 
+\bibitem{stephanite}
+A.~Orlova, R.~Gainov, A.~Dooglav, I.~Penkov, and E.~Korolev.
+\newblock Structure and transport properties of stephanite (ag5sbs4) according
+  to antimony nuclear quadrupole resonance.
+\newblock {\em JETP Letters}, 96(6):370--374, 2012.
+
 \bibitem{new_FE_PV}
 C.~Paillard, X.~Bai, I.~C. Infante, M.~Guennou, G.~Geneste, M.~Alexe,
   J.~Kreisel, and B.~Dkhil.
 \newblock {Photovoltaics with Ferroelectrics: Current Status and Beyond}.
 \newblock {\em Adv. Mater.}, apr 2016.
+
+\bibitem{enargite_properties}
+T.~Pauporte and D.~Lincot.
+\newblock {ChemInform Abstract: Electrical, Optical and Photoelectrochemical
+  Properties of Natural Enargite, Cu3AsS4.}
+\newblock {\em Adv. Mater. Opt. Electron.}, 5:289--298, 1995.
 
 \bibitem{MAPI}
 G.~Peng, X.~Xu, and G.~Xu.
@@ -365,6 +411,11 @@ T.~Saga.
 H.~W. Schock.
 \newblock {\em Adv. Solid State Phys.}, page 147, 1994.
 
+\bibitem{ab_1}
+I.~Science and T.~Directory.
+\newblock {\em List of Periodic Table Elements Sorted by Abundance in Earth's
+  crust}, 1999 (Accessed on September 2, 2015).
+
 \bibitem{CZTS_bandgap_exp}
 J.-S. Seol, S.-Y. Lee, J.-C. Lee, H.-D. Nam, and K.-H. Kim.
 \newblock Electrical and optical properties of cu2znsns4 thin films prepared by
@@ -372,12 +423,6 @@ J.-S. Seol, S.-Y. Lee, J.-C. Lee, H.-D. Nam, and K.-H. Kim.
 \newblock {\em Solar Energy Materials and Solar Cells}, 75(1–2):155 -- 162,
   2003.
 \newblock \{PVSEC\} 12 Part \{II\}.
-
-\bibitem{high_tp2}
-W.~Setyawan and S.~Curtarolo.
-\newblock {High-throughput electronic band structure calculations: Challenges
-  and tools}.
-\newblock {\em Comput. Mater. Sci.}, 49(2):299--312, Apr. 2010.
 
 \bibitem{FE_PV_rev1_5}
 A.~Shah, P.~Torres, R.~Tscharner, N.~Wyrsch, and H.~Keppner.
@@ -393,6 +438,11 @@ Z.~Shahan.
 W.~Shockley and H.~J. Queisser.
 \newblock Detailed balance limit of efficiency of p‐n junction solar cells.
 \newblock {\em Journal of Applied Physics}, 32(3), 1961.
+
+\bibitem{ores}
+R.~Shuey.
+\newblock {\em Semiconducting Ore Minerals}.
+\newblock Elsevier, 2012.
 
 \bibitem{SS}
 S.~Siebentritt and S.~Schorr.
@@ -418,6 +468,12 @@ S.~Sun and P.~A. Fuierer.
 \newblock Modeling of depolarization in ferroelectric thin films.
 \newblock {\em Integrated Ferroelectrics}, 23(1-4):45--64, 1999.
 
+\bibitem{bournonite_new}
+C.~Tablero.
+\newblock {The optical properties of CuPbSbS3-bournonite with photovoltaic
+  applications}.
+\newblock {\em Theor. Chem. Acc.}, 135(5):126, apr 2016.
+
 \bibitem{CZTS_record}
 S.~Tajima, T.~Itoh, H.~Hazama, K.~Ohishi, and R.~Asahi.
 \newblock Improvement of the open-circuit voltage of cu 2 znsns 4 solar cells
@@ -429,6 +485,11 @@ R.~J.~D. Tilley.
 \newblock {\em Colour in Metals, Semiconductors and Insulators}.
 \newblock John Wiley \& Sons, Ltd, 2011.
 
+\bibitem{abundance}
+A.~E.~I. to~the Knowledge~of Mineralogy.
+\newblock {\em Capacitive Circuits}.
+\newblock Collins and Co., 1818.
+
 \bibitem{bloch-thesis}
 P.~R. Tulip.
 \newblock {Dielectric and Lattice Dynamical Properties of Molecular Crystals
@@ -439,14 +500,30 @@ P.~R. Tulip.
 T.~Urban.
 \newblock {\em The Deal With Solar}, 2016 (Accessed on 23 April, 2016).
 
+\bibitem{ab_prod}
+USGS.
+\newblock {\em Commodity Statistics and Information}, 2014 (Accessed on
+  September 2, 2015).
+
 \bibitem{keith_57}
 M.~D. Uspenskii, N.~G. Ivanova, and M.~I. E.
 \newblock {\em Sov. Phys.- Semicond}, page 1059, 1968.
+
+\bibitem{enargite_EIS}
+P.~Vela.
+\newblock {SEM , EDX and EIS study of an electrochemically modified electrode
+  surface of natural enargite ( Cu 3 AsS 4 )}.
+\newblock 494:87--95, 2000.
 
 \bibitem{Germany_guardian_news}
 J.~Vidal.
 \newblock {\em UK and Germany break solar power records}, 2014 (Accessed on 04
   May, 2016).
+
+\bibitem{bournonite}
+K.~Wei, J.~Martin, J.~R. Salvador, and G.~S. Nolas.
+\newblock Synthesis and characterization of bournonite pbcusbs3 nanocrystals.
+\newblock {\em Crystal Growth \& Design}, 15(8):3762--3766, 2015.
 
 \bibitem{Germany_PV}
 H.~Wirth.
@@ -471,6 +548,13 @@ Y.~Yan, W.-J. Yin, T.~Shi, F.~Hong, J.~Ge, Y.~Yue, W.~Ke, D.~Zhao, and
 \newblock In {\em Active-Matrix Flatpanel Displays and Devices (AM-FPD), 2015
   22nd International Workshop on}, pages 57--60, July 2015.
 
+\bibitem{Shiyou}
+B.~Yang, L.~Wang, J.~Han, Y.~Zhou, H.~Song, S.~Chen, J.~Zhong, L.~Lv, D.~Niu,
+  and J.~Tang.
+\newblock Cusbs2 as a promising earth-abundant photovoltaic absorber material:
+  A combined theoretical and experimental study.
+\newblock {\em Chemistry of Materials}, 26(10):3135--3143, 2014.
+
 \bibitem{rev_30}
 S.~Y. Yang, J.~Seidel, S.~J. Byrnes, P.~Shafer, C.~H. Yang, M.~D. Rossell,
   P.~Yu, Y.~H. Chu, J.~F. Scott, and J.~W. Ager.
@@ -487,6 +571,11 @@ S.~M. Young, F.~Zheng, and A.~M. Rappe.
 \newblock First-principles calculation of the bulk photovoltaic effect in
   bismuth ferrite.
 \newblock {\em Phys. Rev. Lett.}, 109:236601, Dec 2012.
+
+\bibitem{Zunger}
+L.~Yu, R.~S. Kokenyesi, D.~a. Keszler, and A.~Zunger.
+\newblock {Inverse design of high absorption thin-film photovoltaic materials}.
+\newblock {\em Adv. Energy Mater.}, 3(1):43--48, 2013.
 
 \bibitem{fund_semi}
 P.~Y. Yu and M.~Cardona.
