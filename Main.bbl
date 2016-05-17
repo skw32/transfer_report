@@ -1,5 +1,11 @@
 \begin{thebibliography}{100}
 
+\bibitem{culprit_2}
+T.~Abzieher, T.~Schnabel, M.~Hetterich, M.~Powalla, and E.~Ahlswede.
+\newblock {Source and effects of sodium in solution-processed kesterite solar
+  cells}.
+\newblock {\em Phys. Status Solidi}, 11:n/a--n/a, 2015.
+
 \bibitem{AshcroftMermin2}
 N.~Ashcroft and N.~Mermin.
 \newblock {\em Crystal Lattices}.
@@ -42,6 +48,11 @@ A.~Bhatnagar, A.~{Roy Chaudhuri}, Y.~{Heon Kim}, D.~Hesse, and M.~Alexe.
   BiFeO₃.}
 \newblock {\em Nat. Commun.}, 4(May):2835, 2013.
 
+\bibitem{BIPV}
+BISEM.
+\newblock {\em SMUD \& BISEM-USA complete first ever PV Curtain Wall Retrofit
+  project in USA}, 2010 (Accessed on May 17, 2016).
+
 \bibitem{Blakemore1}
 J.~Blakemore.
 \newblock {\em Crystallinity and the Form of Solids: Reciprocal Space}.
@@ -65,6 +76,13 @@ M.~Bokali\v{c} and M.~Topi\v{c}.
 R.~L. Bonewitz.
 \newblock {\em Minerals}.
 \newblock Dorling Kindersley, Ltd, 2012.
+
+\bibitem{culprit}
+S.~Bourdais, C.~Chon{\'{e}}, B.~Delatouche, A.~Jacob, G.~Larramona, C.~Moisan,
+  A.~Lafond, F.~Donatini, G.~Rey, S.~Siebentritt, A.~Walsh, and G.~Dennler.
+\newblock {Is the Cu/Zn Disorder the Main Culprit for the Voltage Deficit in
+  Kesterite Solar Cells?}
+\newblock {\em Adv. Energy Mater.}, pages n/a--n/a, mar 2016.
 
 \bibitem{Federico}
 F.~Brivio, A.~B. Walker, and A.~Walsh.
@@ -101,11 +119,24 @@ N.~I. Butsko, I.~D. Zhezhnich, and P.~M. M.
 \newblock {\em Some Physical Properties of Stephanite in the Phase Transition
   Region}, 1973 (Accessed on September 3, 2015).
 
+\bibitem{jonathan_5}
+S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
+\newblock Electronic structure and stability of quaternary chalcogenide
+  semiconductors derived from cation cross-substitution of ii-vi and
+  $i-iii-vi_{2}$ compounds.
+\newblock {\em Phys. Rev. B}, 79:165211, Apr 2009.
+
 \bibitem{CZTS_defects}
 S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
 \newblock {Defect physics of the kesterite thin-film solar cell absorber Cu[sub
   2]ZnSnS[sub 4]}.
 \newblock {\em Appl. Phys. Lett.}, 96(2):021902, 2010.
+
+\bibitem{defect1}
+S.~Chen, J.-H. Yang, X.~G. Gong, A.~Walsh, and S.-H. Wei.
+\newblock {Intrinsic point defects and complexes in the quaternary kesterite
+  semiconductor $Cu_2ZnSnS_4$}.
+\newblock {\em Physical Review B}, 81(24):245204, June 2010.
 
 \bibitem{FE_PV_rev1_83}
 W.~S. Choi, M.~F. Chisholm, D.~J. Singh, T.~Choi, G.~E. Jellison, and H.~N.
@@ -170,6 +201,12 @@ J.~M. Frost, K.~T. Butler, F.~Brivio, C.~H. Hendon, M.~van Schilfgaarde, and
   solar cells.}
 \newblock {\em Nano Lett.}, 14(5):2584--90, May 2014.
 
+\bibitem{culprit_5_3}
+V.~Fthenakis.
+\newblock Sustainability of photovoltaics: The case for thin-film solar cells.
+\newblock {\em Renewable and Sustainable Energy Reviews}, 13(9):2746 -- 2750,
+  2009.
+
 \bibitem{sus_book}
 C.~D. Ginley, David~S.
 \newblock Cambridge University Press, 2012.
@@ -187,12 +224,6 @@ A.~Goetzberger and V.~U. Hoffmann.
 \bibitem{keith_56}
 B.~Goldstein and L.~Pensak.
 \newblock {\em J. Appl. Phys.}, 155, 1959.
-
-\bibitem{Gratzel}
-M.~Gr{\"a}tzel.
-\newblock Solar energy conversion by dye-sensitized photovoltaic cells.
-\newblock {\em Inorganic Chemistry}, 44(20):6841--6851, 2005.
-\newblock PMID: 16180840.
 
 \bibitem{handbook}
 J.~L. Gray.
@@ -249,6 +280,11 @@ K.~Ito.
 K.~Ito and T.~Nakazawa.
 \newblock {\em Jpn. J. Appl. Phys.}, 27:2094--2097, 1998.
 
+\bibitem{Adam_sulfur}
+A.~J. Jackson, D.~Tiana, and A.~Walsh.
+\newblock {A universal chemical potential for sulfur vapours}.
+\newblock {\em Chem. Sci.}, 00:1--11, 2015.
+
 \bibitem{pathways}
 J.~Jean, P.~R. Brown, R.~L. Jaffe, T.~Buonassisi, and V.~Bulovic.
 \newblock {Pathways for Solar Photovoltaics}.
@@ -278,6 +314,13 @@ A.~K. Jonscher.
 A.~K. Jonscher.
 \newblock {\em The Imperfect Solid}.
 \newblock Routledge \& Kegan Paul Ltd., 1965.
+
+\bibitem{culprit_3}
+J.~Kim, H.~Hiroi, T.~K. Todorov, O.~Gunawan, M.~Kuwahara, T.~Gokmen, D.~Nair,
+  M.~Hopstaken, B.~Shin, Y.~S. Lee, W.~Wang, H.~Sugimoto, and D.~B. Mitzi.
+\newblock High efficiency cu2znsn(s,se)4 solar cells by applying a double
+  in2s3/cds emitter.
+\newblock {\em Advanced Materials}, 26(44):7427--7431, 2014.
 
 \bibitem{shift_current}
 P.~Kral.
@@ -377,6 +420,11 @@ C.~Persson and A.~Zunger.
 \newblock {Compositionally induced valence-band offset at the grain boundary of
   polycrystalline chalcopyrites creates a hole barrier}.
 \newblock {\em Appl. Phys. Lett.}, 87(21):211904, 2005.
+
+\bibitem{culprit_5}
+A.~Polizzotti, I.~L. Repins, R.~Noufi, S.-H. Wei, and D.~B. Mitzi.
+\newblock The state and future prospects of kesterite photovoltaics.
+\newblock {\em Energy Environ. Sci.}, 6:3171--3182, 2013.
 
 \bibitem{newPVrev}
 A.~Polman, M.~Knight, E.~C. Garnett, B.~Ehrler, and W.~C. Sinke.
