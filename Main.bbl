@@ -119,13 +119,6 @@ N.~I. Butsko, I.~D. Zhezhnich, and P.~M. M.
 \newblock {\em Some Physical Properties of Stephanite in the Phase Transition
   Region}, 1973 (Accessed on September 3, 2015).
 
-\bibitem{jonathan_5}
-S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
-\newblock Electronic structure and stability of quaternary chalcogenide
-  semiconductors derived from cation cross-substitution of ii-vi and
-  $i-iii-vi_{2}$ compounds.
-\newblock {\em Phys. Rev. B}, 79:165211, Apr 2009.
-
 \bibitem{CZTS_defects}
 S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
 \newblock {Defect physics of the kesterite thin-film solar cell absorber Cu[sub
@@ -220,6 +213,11 @@ J.~E. Girard.
 A.~Goetzberger and V.~U. Hoffmann.
 \newblock {\em Photovoltaic Solar Energy Generation}.
 \newblock Springer, 2005.
+
+\bibitem{band_tail}
+T.~Gokmen, O.~Gunawan, T.~K. Todorov, and D.~B. Mitzi.
+\newblock Band tailing and efficiency limitation in kesterite solar cells.
+\newblock {\em Applied Physics Letters}, 103(10):--, 2013.
 
 \bibitem{keith_56}
 B.~Goldstein and L.~Pensak.

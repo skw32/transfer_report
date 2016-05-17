@@ -191,7 +191,7 @@ The Shockley-Queisser limit, which prevents any single p-n junction solar cell f
 \begin{figure}[h!]
   \centering
     \includegraphics[width=0.95\textwidth]{figures/solar_spectrum2.png}
-    \caption{AM1.5 solar spectrum with distinct dips due to molecular absorption in Earth’s atmosphere. The dashed line shows the band gap of silicon and fading indicates that photons with energies below the band gap will not be absorbed. Figure taken from reference \citenum{newPVrev}.}
+    \caption{AM1.5 solar spectrum with distinct dips due to molecular absorption in Earth’s atmosphere. The dashed line shows the band gap of silicon and fading to the left indicates that photons with energies below the band gap will not be absorbed and other fading indicates other loss mechanisms that prevent a solar cell from being unable to convert the full incident spectrum into electricity. Figure taken from reference \citenum{newPVrev}.}
   \label{solar_spectrum}
 \end{figure}
 
@@ -208,9 +208,9 @@ This then leads on to the second component of this study, which is an investigat
   \label{CZTS_cell}
 \end{figure}
 
-The ground state crystal structure of CZTS (Cu$_{2}$ZnSnS$_{4}$) is kesterite (space group $I\bar{4}$). The conventional unit cell of CZTS is shown in figure \ref{CZTS_cell}, where each S is surrounded by two Cu, one Zn, and one Sn to satisfy local charge neutrality and the valence-octet rule \cite{jonathan_5}.
-Kesterites meet two necessary conditions for efficient solar cells, which are a band gap that is both direct and relatively well-matched to the solar spectrum \cite{CZTS_book}.
-Over the last decade the power conversion efficiency of PV devices based on kesterite, Cu$_2$ZnSn(S$_x$Se$_{1-x}$)$_4$ (CZTSSe), compounds has improved greatly from around 5\% in 2004 to 12.6\% in 2013 \cite{culprit_2}. However, this is still far from the record efficiencies of Cu(In$_{1-y}$,Ga$_y$)Se$_2$ (CIGSe) devices of $>$20\%, where the materials have very similar band gaps to those of CZTSe \cite{culprit}. Furthermore, the rate of improvement seems to have slowed considerably recently with the last improvement in efficiency being reported in 2014 and with only a 0.1\% improvement \cite{culprit_3}. A large number of possible explanations have been proposed to explain the current difference in efficiency between CZTSSe and CIGSe devices, many of these are illustrated in figure \ref{kesterite_bottlenecks}. The majority of studies converge towards the low open circuit voltage (V$_{OC}$) relative to the band gap, i.e. the V$_{OC}$ deficit, being the main limiting factor on device performance. \\
+The ground state crystal structure of CZTS (Cu$_{2}$ZnSnS$_{4}$) is kesterite (space group $I\bar{4}$). The conventional unit cell of CZTS is shown in figure \ref{CZTS_cell}, where each S is surrounded by two Cu, one Zn, and one Sn to satisfy local charge neutrality and the valence-octet rule.
+Kesterites meet two necessary conditions for highly efficient solar cells, which are a band gap that is both direct and relatively well-matched to the solar spectrum \cite{CZTS_book}.
+Over the last decade the power conversion efficiency of PV devices based on kesterite, Cu$_2$ZnSn(S$_x$Se$_{1-x}$)$_4$ (CZTSSe), compounds has improved greatly from around 5\% in 2004 to 12.6\% in 2013 \cite{culprit_2}. However, this is still far from the record efficiencies of Cu(In$_{1-y}$,Ga$_y$)Se$_2$ (CIGSe) devices of $>$20\%, where the materials have very similar band gaps to those of CZTSSe \cite{culprit}. Furthermore, the rate of improvement seems to have slowed considerably recently with the last improvement in efficiency being reported in 2014 and with only a 0.1\% improvement \cite{culprit_3}. A large number of possible explanations have been proposed to explain the current difference in efficiency between CZTSSe and CIGSe devices, many of these are illustrated in figure \ref{kesterite_bottlenecks}. The majority of studies converge towards the low open circuit voltage (V$_{OC}$) relative to the band gap, i.e. the V$_{OC}$ deficit, being the main limiting factor on device performance. \\
 
 \begin{figure}[h!]
   \centering
@@ -222,6 +222,8 @@ Over the last decade the power conversion efficiency of PV devices based on kest
 As figure \ref{kesterite_bottlenecks} shows, there are many different possible causes of the  V$_{OC}$ deficit in kesterite solar cells. Developing fabrication techniques to reduce the deficit is therefore an even greater challenge when the exact cause is not yet known.
 This is an area in which computational materials simulation should be able to provide valuable insight to help pinpoint the specific sources of the V$_{OC}$ deficit in kesterite solar cells. The true power of simulation is the ability to take a perfect system and introduce various imperfections one and a time and then study the effect that particular imperfection could have on device performance. As opposed to in a real system in which there is a myriad of possible causes for each observation, as illustrated in figure \ref{kesterite_bottlenecks}.
 In our simulations we will start from the most simple system possible, before making any attempts to build up in complexity. Devices made from a compound of \CZTS and Cu$_2$ZnSnSe$_4$, i.e. Cu$_2$ZnSn(S$_x$Se$_{1-x}$)$_4$, so far have given the highest performance devices, however in this study we are currently focusing on just the pure selenide material, CZTS. Also although ultimately the aim is to make thin-film devices from CZTS, in which the material is likely to be highly polycrystalline with many grain boundaries, we are currently just focusing on the bulk material. We are doing this for two reasons. Firstly to improve the understanding of the fundamental material properties before attempting to understand a more complex system to ensure we start from a solid foundation. Secondly, it has been proposed that the V$_{OC}$ deficit in CZTSSe devices could actually be largely due to the natural bulk properties of the crystal \cite{culprit_5}. For the purposes of our study therefore measurements performed on single crystals will be the most directly relatable to our findings.\\
+
+In general, the main cause of V$_{OC}$ deficit in a PV device is the recombination of photogenerated charge carriers in the bulk material or at surfaces. The deficit is usually dominated by one particular recombination process. For instance in the case of CIGSe films it is trap-assisted Shockley-Read-Hall recombination \cite{culprit}.
 
 ** Review of defect literature (+ CZTS PL?), see culprit paper **
 \begin{itemize}
@@ -235,7 +237,23 @@ Ultimate aim of study is to unpick/ decipher the PL spectra of CZTS to determine
 \end{itemize}
 
 
-In this work we begin three investigations to explore some of the possible explanations for the V$_{OC}$ deficit in CZTS solar cells. Firstly, we examine possible causes of band gap broadening, which has been observed in electromodulation (??) measurements performed on CZTS crystals \cite{PVTEAM_paper}. We use materials modelling to determine the intrinsic band gap broadening to be expected even in perfect, bulk CZTS due to thermal lattice expansions. This contribution can then be subtracted from band gap broadening measured experimentally to determine how much of this effect is due to disorder and other factors. Strong band tailing has also be observed in CZTSSe \cite{band_tail} and as disorder amongst Cu and Zn ions, as discussed above, has not only be predicted to be very likely based on energetics but has also been observed experimentally; we use modelling to attempt to quantify the contribution of this type of disorder to band tailing. Lastly we re-investigate the formation energy of sulfur vacancies (V$_S$) in CZTS. This type of defect has been predicted to produce a mid-gap state in the band gap of the material \cite{defect1}, which could provide one explanation for the poor device performance. However in the same work this particular point defect was also predicted to have a high formation energy making it less likely to form. However, it is possible that the formation energy of this defect is reduced when considering the typical annealing conditions of CZTS in which S is in the gaseous phase. We therefore calculate the formation energy of a V$_S$ in CZTS as a function of the sulfur chemical potential, which has been calculated as a function of temperature and pressure \cite{Adam_sulfur}.
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.75\textwidth]{figures/Voc.png}
+    \caption{V$_{OC}$ versus band gap of high performance CZTSSe devices ($>$9\% efficiency) indicated by circles with best devices based on other photovoltaic materials shown for comparison by diamond symbols: Methyl-ammonium lead iodide (MAPI), amorphous silicon (a-Si), organic photovoltaic films (OPV), crystalline silicon (c-Si) and polycrystalline silicon (pc-Si). The oblique lines give a constant V$_{OC}$ deficit from 0.8 V to 0 V. The green points correspond to CZTSSe films that are partially ordered (PO) or partially disordered (PD) due to disorder amongst Cu and Zn. Figure take from reference \citenum{culprit}.}
+  \label{Voc}
+\end{figure}
+
+
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.75\textwidth]{figures/CZTS_PL.png}
+    \caption{Internal quantum efficiency (IQE) and photoluminescence (PL) spectra of CZTSSe thin-films showing the shift of the PL peak to energies below the band gap of the material. Figure take from reference \citenum{band_tail}.}
+  \label{CZTS_PL}
+\end{figure}
+
+
+In this work we begin three investigations to explore some of the possible explanations for the V$_{OC}$ deficit in CZTS solar cells. Firstly, we examine possible causes of band gap broadening, which has been observed in electromodulation (??) measurements performed on CZTS crystals \cite{PVTEAM_paper}. We use materials modelling to determine the intrinsic band gap broadening to be expected even in perfect, bulk CZTS due to thermal lattice expansions. This contribution can then be subtracted from band gap broadening measured experimentally to determine how much of this effect is due to disorder and other factors. Strong band tailing has also been observed in CZTSSe \cite{band_tail} and as disorder amongst Cu and Zn ions, as discussed above, has not only be predicted to be very likely based on energetics but has also been observed experimentally; we use modelling to attempt to quantify the contribution of this type of disorder to band tailing. Lastly we re-investigate the formation energy of sulfur vacancies (V$_S$) in CZTS. This type of defect has been predicted to produce a mid-gap state in the band gap of the material \cite{defect1}, which could provide one explanation for the poor device performance. However in the same work this particular point defect was also predicted to have a high formation energy making it less likely to form. However, it is possible that the formation energy of this defect is reduced when considering the typical annealing conditions of CZTS in which S is in the gaseous phase. We therefore calculate the formation energy of a V$_S$ in CZTS as a function of the sulfur chemical potential, which has been calculated as a function of temperature and pressure \cite{Adam_sulfur}.
 
 **Edit last paragraph once PVTEAM paper published so have more info**
  
@@ -273,7 +291,7 @@ Natural samples of enargite have been found to exhibit the electrical properties
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/unit_cells.png}
-    \caption{The 15 atom primitive unit cell of enargite ($Cu_{3}AsS_{4}$) (a), 19 atom primitive unit cell of stephanite ($Ag_{5}SbS_{4}$) (b) and 23 atom primitive unit cell of bournonite ($PbCuSbS_{3}$) (c).}
+    \caption{The 15 atom primitive unit cell of enargite (\enargite) (a), 19 atom primitive unit cell of stephanite (\stephanite) (b) and 23 atom primitive unit cell of bournonite (\bournonite) (c).}
   \label{unit_cells}
 \end{figure}
 
