@@ -119,6 +119,12 @@ N.~I. Butsko, I.~D. Zhezhnich, and P.~M. M.
 \newblock {\em Some Physical Properties of Stephanite in the Phase Transition
   Region}, 1973 (Accessed on September 3, 2015).
 
+\bibitem{Chen2009}
+S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
+\newblock Crystal and electronic band structure of cu2znsnx4 (x=s and se)
+  photovoltaic absorbers: First-principles insights.
+\newblock {\em Applied Physics Letters}, 94(4):--, 2009.
+
 \bibitem{CZTS_defects}
 S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
 \newblock {Defect physics of the kesterite thin-film solar cell absorber Cu[sub
@@ -176,6 +182,13 @@ Y.~Dong, A.~R. Khabibullin, K.~Wei, J.~R. Salvador, G.~S. Nolas, and L.~M.
 \bibitem{vasp-slides}
 A.~Eichler.
 \newblock {\em Sampling the Brillouin Zone}, 2014 (Accessed on April 28, 2015).
+
+\bibitem{neutron}
+F.~Espinosa-Faller.
+\newblock {Neutron Diffraction and X‑ray Absorption Fine Structure Evidence
+  for Local Lattice Distortions and Aperiodic Antisite Substitution in
+  Cu2ZnSnS4 Nanoparticles}.
+\newblock {\em The Journal of Physical Chemistry C}, 118:26292--26303, 2014.
 
 \bibitem{LCOE}
 F.~I. for Solar Energy Systems~ISE.
@@ -320,6 +333,12 @@ J.~Kim, H.~Hiroi, T.~K. Todorov, O.~Gunawan, M.~Kuwahara, T.~Gokmen, D.~Nair,
   in2s3/cds emitter.
 \newblock {\em Advanced Materials}, 26(44):7427--7431, 2014.
 
+\bibitem{kosyak}
+V.~Kosyak, N.~B. {Mortazavi Amiri}, A.~V. Postnikov, and M.~A. Scarpulla.
+\newblock {Model of native point defect equilibrium in Cu2ZnSnS4 and
+  application to one-zone annealing}.
+\newblock {\em J. Appl. Phys.}, 114(12), 2013.
+
 \bibitem{shift_current}
 P.~Kral.
 \newblock Quantum kinetic theory of shift-current electron pumping in
@@ -356,6 +375,18 @@ A.~McEvoy, T.~Markvart, and L.~C. {n}er.
 \newblock {\em Practical Handbook of Photovoltaics - Fundamentals and
   Applications}.
 \newblock Elsevier, 2012.
+
+\bibitem{pot_fluc}
+B.~G. Mendis, M.~D. Shannon, M.~C.~J. Goodman, J.~D. Major, A.~A. Taylor, D.~P.
+  Halliday, and K.~Durose.
+\newblock The nature of electrostatic potential fluctuations in cu 2 znsns 4
+  and their role on photovoltaic device performance.
+\newblock {\em Journal of Physics: Conference Series}, 471(1):012014, 2013.
+
+\bibitem{Nelson4}
+J.~Nelson.
+\newblock {\em Generation and Recombination}.
+\newblock Imperial College Press, 2003.
 
 \bibitem{Nelson1}
 J.~Nelson.
@@ -457,10 +488,31 @@ T.~Saga.
 H.~W. Schock.
 \newblock {\em Adv. Solid State Phys.}, page 147, 1994.
 
+\bibitem{Schorr}
+S.~Schorr.
+\newblock The crystal structure of kesterite type compounds: A neutron and
+  x-ray diffraction study.
+\newblock {\em Solar Energy Materials and Solar Cells}, 95(6):1482 -- 1488,
+  2011.
+\newblock Special Issue : Thin film and nanostructured solar cells.
+
+\bibitem{pot_fluc_4}
+S.~Schorr, H.-J. Hoebler, and M.~Tovar.
+\newblock A neutron diffraction study of the stannite-kesterite solid solution
+  series.
+\newblock {\em Eur. J. Miner.}, 19(65):65--73, 2007.
+
 \bibitem{ab_1}
 I.~Science and T.~Directory.
 \newblock {\em List of Periodic Table Elements Sorted by Abundance in Earth's
   crust}, 1999 (Accessed on September 2, 2015).
+
+\bibitem{Scragg}
+J.~J.~S. Scragg, L.~Choubrac, A.~Lafond, T.~Ericson, and
+  C.~Platzer-Bj\"{o}rkman.
+\newblock {A low-temperature order-disorder transition in Cu2ZnSnS4 thin
+  films}.
+\newblock {\em Appl. Phys. Lett.}, 104(4):041911, Jan. 2014.
 
 \bibitem{CZTS_bandgap_exp}
 J.-S. Seol, S.-Y. Lee, J.-C. Lee, H.-D. Nam, and K.-H. Kim.
@@ -484,6 +536,11 @@ Z.~Shahan.
 W.~Shockley and H.~J. Queisser.
 \newblock Detailed balance limit of efficiency of p‐n junction solar cells.
 \newblock {\em Journal of Applied Physics}, 32(3), 1961.
+
+\bibitem{SRH}
+W.~Shockley and W.~T. Read.
+\newblock Statistics of the recombinations of holes and electrons.
+\newblock {\em Phys. Rev.}, 87:835--842, Sep 1952.
 
 \bibitem{ores}
 R.~Shuey.
@@ -570,6 +627,13 @@ J.~Vidal.
 K.~Wei, J.~Martin, J.~R. Salvador, and G.~S. Nolas.
 \newblock Synthesis and characterization of bournonite pbcusbs3 nanocrystals.
 \newblock {\em Crystal Growth \& Design}, 15(8):3762--3766, 2015.
+
+\bibitem{CZTS_n-type}
+S.-Y. Wei, Y.-C. Liao, C.-H. Hsu, C.-H. Cai, W.-C. Huang, M.-C. Huang, and
+  C.-H. Lai.
+\newblock {Achieving high efficiency Cu2ZnSn(S,Se)4 solar cells by non-toxic
+  aqueous ink: Defect analysis and electrical modeling}.
+\newblock {\em Nano Energy}, 26:74--82, aug 2016.
 
 \bibitem{Germany_PV}
 H.~Wirth.
