@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  18 MAY 2016 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  18 MAY 2016 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -706,16 +706,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--308
  []
 
 [28 <./figures/Chen_pt_E-level.png>]
-<figures/venn_diagram.png, id=194, 409.53pt x 298.716pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29 <./figures/Chen_cluster_formE.png>]
+<figures/venn_diagram.png, id=199, 409.53pt x 298.716pt>
 File: figures/venn_diagram.png Graphic file (type png)
 
 <use figures/venn_diagram.png>
 Package pdftex.def Info: figures/venn_diagram.png used on input line 311.
 (pdftex.def)             Requested size: 241.84843pt x 176.40955pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29 <./figures/Chen_cluster_formE.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 316--319
 
  []
@@ -758,7 +758,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 338--341
 
  []
 
-[32 <./figures/abundance.png>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32 <./figures/abundance.png>]
 Underfull \vbox (badness 7186) has occurred while \output is active []
 
  [33 <./figures/unit_cells.png>]
@@ -877,53 +880,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
 
 Package natbib Warning: Citation `characterization_book' on page 43 undefined o
-n input line 98.
+n input line 99.
 
 
 Package natbib Warning: Citation `Gerschon' on page 43 undefined on input line 
-98.
+99.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-
- []
+Package natbib Warning: Citation `characterization_book_CH3' on page 43 undefin
+ed on input line 109.
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 144--148
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \vbox (badness 1259) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
- [45]
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 167--170
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--154
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
-[46]) (./methodology/methodology.tex [47]
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--181
+
+ []
+
+[47]) (./methodology/methodology.tex
+Underfull \vbox (badness 3579) has occurred while \output is active []
+
+ [48]
+[49]
 Chapter 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 3.
 
 Underfull \vbox (badness 3302) has occurred while \output is active []
 
- [48
+ [50
 
 ]
 Overfull \hbox (7.01085pt too wide) in paragraph at lines 41--41
@@ -934,8 +957,8 @@ Overfull \hbox (7.01085pt too wide) in paragraph at lines 41--41
 ) (./results/results.tex
 Underfull \vbox (badness 1412) has occurred while \output is active []
 
- [49]
-[50]
+ [51]
+[52]
 Chapter 4.
 
 Overfull \hbox (21.81871pt too wide) in paragraph at lines 2--2
@@ -952,54 +975,60 @@ ations
 ) (./conclusion/conclusion.tex
 Underfull \vbox (badness 4621) has occurred while \output is active []
 
- [51
+ [53
 
 ]
-[52]
+[54]
 Chapter 5.
-) (./Main.bbl [53
+) (./Main.bbl [55
 
 ]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ç in font cmr12!
 Missing character: There is no É in font cmr12!
- [54
+ [56
 
-] [55]
+] [57]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ë in font cmr12!
- [56] [57] [58] [59] [60]
+ [58] [59] [60] [61]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
+ [62]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
- [61]
+ [63]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [64]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ê in font cmr12!
- [62] [63])
+ [65] [66]
+[67])
 
 Package natbib Warning: There were undefined citations.
 
-[64] (./Main.aux)
+[68] (./Main.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3344 strings out of 493117
- 49353 string characters out of 6135433
- 114529 words of memory out of 5000000
- 6681 multiletter control sequences out of 15000+600000
+ 3376 strings out of 493117
+ 49820 string characters out of 6135433
+ 114699 words of memory out of 5000000
+ 6713 multiletter control sequences out of 15000+600000
  13316 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,14n,27p,1981b,762s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,14n,27p,1981b,838s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
@@ -1013,10 +1042,10 @@ xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (78 pages, 10355495 bytes).
+Output written on Main.pdf (82 pages, 10363082 bytes).
 PDF statistics:
- 373 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
+ 386 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 

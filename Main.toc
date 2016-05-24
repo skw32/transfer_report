@@ -16,33 +16,33 @@
 \contentsline {section}{\numberline {2.2}Band Theory \& Band Structure of Semiconductors}{38}
 \contentsline {section}{\numberline {2.3}Crystal Imperfections \& Disorder}{42}
 \contentsline {section}{\numberline {2.4}Emission Spectroscopies of Semiconductors}{43}
-\contentsline {subsection}{\numberline {2.4.1}Photoluminescence Spectra of Cu$_2$ZnSnS$_4$}{43}
-\contentsline {section}{\numberline {2.5}Solar Cell Performance Bottlenecks Due to Crystal Imperfections}{43}
-\contentsline {section}{\numberline {2.6}Novel Optoelectronic Phenomena \& the Possibility of High Performance Solar Cells}{44}
-\contentsline {subsection}{\numberline {2.6.1}Spin Orbit Interaction \& Rashba Splitting}{44}
-\contentsline {subsection}{\numberline {2.6.2}Photovoltaic-Ferroelectric Phenomena}{45}
-\contentsline {chapter}{\numberline {3}Methodology}{48}
-\contentsline {section}{\numberline {3.1}Calculation of the Formation Energy of Defects in Cu$_2$ZnSnS$_4$}{48}
-\contentsline {subsection}{\numberline {3.1.1}Density Functional Theory \& Hybrid Functionals}{48}
-\contentsline {subsection}{\numberline {3.1.2}The Supercell Method \& Corrections for Charged Defects}{48}
-\contentsline {subsection}{\numberline {3.1.3}Defect Formation Energy as a Function of Atomic and Electronic Chemical Potentials}{49}
-\contentsline {section}{\numberline {3.2}Monte Carlo Simulation of Thermodynamic Disorder Amongst Cu and Zn in Cu$_2$ZnSnS$_4$}{49}
-\contentsline {subsection}{\numberline {3.2.1}Multi-Scale Approach}{49}
-\contentsline {subsection}{\numberline {3.2.2}Quantification of Disorder Using Radial Distribution Functions}{49}
-\contentsline {subsection}{\numberline {3.2.3}Determination of Band Tailing from the Distribution of Electrostatic Potential}{50}
-\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{50}
-\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of New Candidate Solar Absorber Materials}{50}
-\contentsline {chapter}{\numberline {4}Results}{51}
-\contentsline {section}{\numberline {4.1}Investigation of Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{51}
-\contentsline {subsection}{\numberline {4.1.1}Formation Energy of Sulfur Vacancies}{51}
-\contentsline {subsection}{\numberline {4.1.2}Band Tailing Due to Disorder Amongst Copper and Zinc Cations}{51}
-\contentsline {subsection}{\numberline {4.1.3}Intrinsic Band Gap Broadening from Lattice Vibrations}{51}
-\contentsline {section}{\numberline {4.2}Prediction and Assessment of Optoelectronic Properties of Sulfosalt Materials for Photovoltaic Applications}{51}
-\contentsline {subsection}{\numberline {4.2.1}Band Structures \& Band Gaps}{52}
-\contentsline {subsection}{\numberline {4.2.2}Dielectric Functions}{52}
-\contentsline {subsection}{\numberline {4.2.3}Absorption Coefficients}{52}
-\contentsline {chapter}{\numberline {5}Conclusion}{53}
-\contentsline {section}{\numberline {5.1}Performance Bottlenecks of Cu$_2$ZnSnS$_4$Solar Cells}{53}
-\contentsline {section}{\numberline {5.2}Potential of Sulfosalt Materials for Solar Cell Devices}{53}
-\contentsline {section}{\numberline {5.3}Future Work}{53}
-\contentsline {chapter}{Bibliography}{53}
+\contentsline {subsection}{\numberline {2.4.1}Photoluminescence Spectra of Cu$_2$ZnSnS$_4$}{44}
+\contentsline {section}{\numberline {2.5}Solar Cell Performance Bottlenecks Due to Crystal Imperfections}{45}
+\contentsline {section}{\numberline {2.6}Novel Optoelectronic Phenomena \& the Possibility of High Performance Solar Cells}{46}
+\contentsline {subsection}{\numberline {2.6.1}Spin Orbit Interaction \& Rashba Splitting}{46}
+\contentsline {subsection}{\numberline {2.6.2}Photovoltaic-Ferroelectric Phenomena}{46}
+\contentsline {chapter}{\numberline {3}Methodology}{50}
+\contentsline {section}{\numberline {3.1}Calculation of the Formation Energy of Defects in Cu$_2$ZnSnS$_4$}{50}
+\contentsline {subsection}{\numberline {3.1.1}Density Functional Theory \& Hybrid Functionals}{50}
+\contentsline {subsection}{\numberline {3.1.2}The Supercell Method \& Corrections for Charged Defects}{50}
+\contentsline {subsection}{\numberline {3.1.3}Defect Formation Energy as a Function of Atomic and Electronic Chemical Potentials}{51}
+\contentsline {section}{\numberline {3.2}Monte Carlo Simulation of Thermodynamic Disorder Amongst Cu and Zn in Cu$_2$ZnSnS$_4$}{51}
+\contentsline {subsection}{\numberline {3.2.1}Multi-Scale Approach}{51}
+\contentsline {subsection}{\numberline {3.2.2}Quantification of Disorder Using Radial Distribution Functions}{51}
+\contentsline {subsection}{\numberline {3.2.3}Determination of Band Tailing from the Distribution of Electrostatic Potential}{52}
+\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{52}
+\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of New Candidate Solar Absorber Materials}{52}
+\contentsline {chapter}{\numberline {4}Results}{53}
+\contentsline {section}{\numberline {4.1}Investigation of Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{53}
+\contentsline {subsection}{\numberline {4.1.1}Formation Energy of Sulfur Vacancies}{53}
+\contentsline {subsection}{\numberline {4.1.2}Band Tailing Due to Disorder Amongst Copper and Zinc Cations}{53}
+\contentsline {subsection}{\numberline {4.1.3}Intrinsic Band Gap Broadening from Lattice Vibrations}{53}
+\contentsline {section}{\numberline {4.2}Prediction and Assessment of Optoelectronic Properties of Sulfosalt Materials for Photovoltaic Applications}{53}
+\contentsline {subsection}{\numberline {4.2.1}Band Structures \& Band Gaps}{54}
+\contentsline {subsection}{\numberline {4.2.2}Dielectric Functions}{54}
+\contentsline {subsection}{\numberline {4.2.3}Absorption Coefficients}{54}
+\contentsline {chapter}{\numberline {5}Conclusion}{55}
+\contentsline {section}{\numberline {5.1}Performance Bottlenecks of Cu$_2$ZnSnS$_4$Solar Cells}{55}
+\contentsline {section}{\numberline {5.2}Potential of Sulfosalt Materials for Solar Cell Devices}{55}
+\contentsline {section}{\numberline {5.3}Future Work}{55}
+\contentsline {chapter}{Bibliography}{55}

@@ -213,6 +213,18 @@ V.~Fthenakis.
 \newblock {\em Renewable and Sustainable Energy Reviews}, 13(9):2746 -- 2750,
   2009.
 
+\bibitem{Gershon1}
+T.~Gershon, B.~Shin, N.~Bojarczuk, T.~Gokmen, S.~Lu, and S.~Guha.
+\newblock {Photoluminescence characterization of a high-efficiency
+  $Cu_{2}ZnSnS_{4}$ device}.
+\newblock {\em J. Appl. Phys.}, 114(15):154905, 2013.
+
+\bibitem{Gershon2}
+T.~Gershon, B.~Shin, T.~Gokmen, S.~Lu, N.~Bojarczuk, and S.~Guha.
+\newblock {Relationship between $Cu_{2}ZnSnS_{4}$ quasi donor-acceptor pair
+  density and solar cell efficiency}.
+\newblock {\em Appl. Phys. Lett.}, 103(May):2012--2015, 2013.
+
 \bibitem{sus_book}
 C.~D. Ginley, David~S.
 \newblock Cambridge University Press, 2012.
@@ -232,6 +244,11 @@ T.~Gokmen, O.~Gunawan, T.~K. Todorov, and D.~B. Mitzi.
 \newblock Band tailing and efficiency limitation in kesterite solar cells.
 \newblock {\em Applied Physics Letters}, 103(10):--, 2013.
 
+\bibitem{Gokmen}
+T.~Gokmen, O.~Gunawan, T.~K. Todorov, and D.~B. Mitzi.
+\newblock {Band tailing and efficiency limitation in kesterite solar cells}.
+\newblock {\em Appl. Phys. Lett.}, 103(10):103506, 2013.
+
 \bibitem{keith_56}
 B.~Goldstein and L.~Pensak.
 \newblock {\em J. Appl. Phys.}, 155, 1959.
@@ -246,6 +263,13 @@ M.~Grundmann.
 \newblock {\em The Physics of Semiconductors}.
 \newblock Springer, 2006.
 
+\bibitem{Halliday}
+D.~P. Halliday, R.~Claridge, M.~C. Goodman, B.~G. Mendis, K.~Durose, and J.~D.
+  Major.
+\newblock {Luminescence of $Cu_{2}ZnSnS_{4}$ polycrystals described by the
+  fluctuating potential model}.
+\newblock {\em J. Appl. Phys.}, 113(22):2013, 2013.
+
 \bibitem{emerging_pv}
 W.~Hermes, D.~Waldmann, M.~Agari, K.~Schierle-Arndt, and P.~Erk.
 \newblock {Emerging Thin-Film Photovoltaic Technologies}.
@@ -255,6 +279,11 @@ W.~Hermes, D.~Waldmann, M.~Agari, K.~Schierle-Arndt, and P.~Erk.
 J.~Heyd, G.~E. Scuseria, and M.~Ernzerhof.
 \newblock {Hybrid functionals based on a screened Coulomb potential}.
 \newblock {\em J. Chem. Phys.}, 118(18):8207--8215, 2003.
+
+\bibitem{Hones}
+K.~H{\"{o}}nes, E.~Zscherpel, J.~Scragg, and S.~Siebentritt.
+\newblock {Shallow defects in $Cu_{2}ZnSnS_{4}$}.
+\newblock {\em Phys. B Condens. Matter}, 404(23-24):4949--4952, 2009.
 
 \bibitem{PVeducation}
 C.~Honsberg and S.~Bowden.
@@ -355,6 +384,19 @@ M.~Lang and A.~Lang.
 \newblock {\em Overview Renewable Energy Sources Act}, 2014 (Accessed on 05
   May, 2016).
 
+\bibitem{PL}
+J.~P. Leit{\~{a}}o, N.~M. Santos, P.~a. Fernandes, P.~M.~P. Salom{\'{e}}, a.~F.
+  da~Cunha, J.~C. Gonz{\'{a}}lez, G.~M. Ribeiro, and F.~M. Matinaga.
+\newblock {Photoluminescence and electrical study of fluctuating potentials in
+  $Cu_{2}ZnSnS_{4}$ -based thin films}.
+\newblock {\em Phys. Rev. B}, 84(2):024120, 2011.
+
+\bibitem{Levcenko}
+S.~Levcenko, V.~E. Tezlevan, E.~Arushanov, S.~Schorr, and T.~Unold.
+\newblock {Free-to-bound recombination in near stoichiometric $Cu_{2}ZnSnS_{4}$
+  single crystals}.
+\newblock {\em Phys. Rev. B}, 86(4):045206, 2012.
+
 \bibitem{new_FE_PV_1}
 M.~E. Lines and A.~M. Glass.
 \newblock Oxford University Press, 1977.
@@ -382,6 +424,12 @@ B.~G. Mendis, M.~D. Shannon, M.~C.~J. Goodman, J.~D. Major, A.~A. Taylor, D.~P.
 \newblock The nature of electrostatic potential fluctuations in cu 2 znsns 4
   and their role on photovoltaic device performance.
 \newblock {\em Journal of Physics: Conference Series}, 471(1):012014, 2013.
+
+\bibitem{Miyamoto}
+Y.~Miyamoto, K.~Tanaka, M.~Oonuki, N.~Moritake, and H.~Uchiki.
+\newblock {Optical Properties of $Cu_{2}ZnSnS_{4}$ Thin Films Prepared by
+  Sol–Gel and Sulfurization Method}.
+\newblock {\em Jpn. J. Appl. Phys.}, 47(1):596--597, 2008.
 
 \bibitem{Nelson4}
 J.~Nelson.
@@ -477,6 +525,12 @@ M.~Qin, Y.~C. Yao, Kand~Liang, and S.~Shannigrahi.
 \bibitem{CIS1_4}
 K.~Ramanathan and et~al.
 \newblock {\em Prog. Photovolt. Res. Appl.}, 2003.
+
+\bibitem{Romero}
+M.~J. Romero, H.~Du, G.~Teeter, Y.~Yan, and M.~M. Al-Jassim.
+\newblock {Comparative study of the luminescence and intrinsic point defects in
+  the kesterite $Cu_{2}ZnSnS_{4}$ and chalcopyrite $Cu(In,Ga)Se_{2}$ }.
+\newblock {\em Phys. Rev. B}, 84(16):165324, 2011.
 
 \bibitem{Si_rev}
 T.~Saga.
@@ -598,6 +652,14 @@ P.~R. Tulip.
 \newblock {Dielectric and Lattice Dynamical Properties of Molecular Crystals
   via Density Functional Perturbation Theory: Implementation within a First
   Principles Code}, 2004.
+
+\bibitem{Unold}
+T.~Unold, S.~Kretzschmar, J.~Just, O.~Zander, B.~Schubert, B.~Marsen, and H.-W.
+  Schock.
+\newblock {Correlation between composition and photovoltaic properties of
+  $Cu_{2}ZnSnS_{4}$ thin film solar cells}.
+\newblock {\em Photovolt. Spec. Conf. (PVSC), 2011 37th IEEE}, pages
+  2820--2823, 2011.
 
 \bibitem{global_energy_fig}
 T.~Urban.
