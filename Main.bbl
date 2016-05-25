@@ -374,6 +374,11 @@ P.~Kral.
   semiconductors.
 \newblock {\em Journal of Physics: Condensed Matter}, 12(22):4851, 2000.
 
+\bibitem{MC_Landau}
+D.~P. Landau and K.~Binder.
+\newblock {\em A Guide to Monte Carlo Simulations in Statistical Physics}.
+\newblock Cambridge University Press, 2015.
+
 \bibitem{PV_history2}
 D.~W. Lane, K.~J. Hutchings, R.~McCracken, and I.~Forbes.
 \newblock {\em New Chalcogenide Materials for Thin Film Solar Cells}.
@@ -390,6 +395,11 @@ J.~P. Leit{\~{a}}o, N.~M. Santos, P.~a. Fernandes, P.~M.~P. Salom{\'{e}}, a.~F.
 \newblock {Photoluminescence and electrical study of fluctuating potentials in
   $Cu_{2}ZnSnS_{4}$ -based thin films}.
 \newblock {\em Phys. Rev. B}, 84(2):024120, 2011.
+
+\bibitem{Lesar3}
+R.~Lesar.
+\newblock {\em The Monte Carlo Method}.
+\newblock Cambridge University Press, 2014.
 
 \bibitem{Levcenko}
 S.~Levcenko, V.~E. Tezlevan, E.~Arushanov, S.~Schorr, and T.~Unold.
@@ -425,6 +435,11 @@ B.~G. Mendis, M.~D. Shannon, M.~C.~J. Goodman, J.~D. Major, A.~A. Taylor, D.~P.
   and their role on photovoltaic device performance.
 \newblock {\em Journal of Physics: Conference Series}, 471(1):012014, 2013.
 
+\bibitem{Metropolis}
+N.~Metropolis, A.~W. Rosenbluth, M.~N. Rosenbluth, A.~H. Teller, and E.~Teller.
+\newblock {Equation of State Calculations by Fast Computing Machines}.
+\newblock {\em J. Chem. Phys.}, 21(6):1087--1092, 1953.
+
 \bibitem{Miyamoto}
 Y.~Miyamoto, K.~Tanaka, M.~Oonuki, N.~Moritake, and H.~Uchiki.
 \newblock {Optical Properties of $Cu_{2}ZnSnS_{4}$ Thin Films Prepared by
@@ -446,6 +461,11 @@ J.~Neugebauer and T.~Hickel.
 \newblock {Density functional theory in materials science.}
 \newblock {\em Wiley Interdiscip. Rev. Comput. Mol. Sci.}, 3(5):438--448, sep
   2013.
+
+\bibitem{MC}
+M.~E.~J. Newman and G.~T. Barkema.
+\newblock {\em The Ising Model and the Metropolis Algorithm}.
+\newblock Oxford University Press, 1999.
 
 \bibitem{sus_book_5}
 U.~D. of~Energy.

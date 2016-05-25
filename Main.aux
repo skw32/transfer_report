@@ -24,6 +24,8 @@
 \citation{small_semiconductor1}
 \citation{vasp-slides}
 \citation{small_semiconductor2}
+\citation{MC}
+\citation{MC_Landau}
 \citation{Germany_guardian_news}
 \citation{Germany_PV}
 \citation{Germany_Lang}
@@ -167,7 +169,7 @@
 \citation{SQ_1961}
 \citation{culprit_3}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.2}Investigating Possible Performance Bottlenecks of {Cu$_2$ZnSnS$_4$} Devices}{20}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces The conventional unit cell of CZTS (Cu$_{2}$ZnSnS$_{4}$) with the ground-state kesterite crystal structure (space group $I\mathaccent "7016\relax {4}$). The structure consists of alternating layers of Cu-Sn and Cu-Zn where Cu-Zn layers are at z=${\begingroup 1\endgroup \over 4}$ and z=${\begingroup 3\endgroup \over 4}$.}}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces The conventional unit cell of CZTS (Cu$_{2}$ZnSnS$_{4}$) with the ground-state kesterite crystal structure (space group $I\mathaccentV {bar}016{4}$). The structure consists of alternating layers of Cu-Sn and Cu-Zn where Cu-Zn layers are at z=$\frac  {1}{4}$ and z=$\frac  {3}{4}$.}}{20}}
 \newlabel{CZTS_cell}{{1.10}{20}}
 \citation{CZTS_scale_up}
 \citation{CZTS_scale_up}
@@ -225,9 +227,9 @@
 \citation{DK}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.17}{\ignorespaces The transition-energy levels of intrinsic defects in the band gap of Cu$_2$ZnSnS$_4$where the GGA band gap has been corrected to the experimental value 1.5 eV, and the donor levels are shifted together with the conduction band minimum (CBM) level. Figure taken from reference \citenum  {defect1}.}}{28}}
 \newlabel{Chen_pt2}{{1.17}{28}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.3.3}Predicting the Properties of New Candidate Solar Absorber Materials}{28}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.18}{\ignorespaces The formation energy of charge compensated defect complexes in Cu$_2$ZnSnS$_4$as a function of the chemical potential. Figure taken from reference \citenum  {defect1}.}}{29}}
 \newlabel{Chen_cluster1}{{1.18}{29}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3.3}Predicting the Properties of New Candidate Solar Absorber Materials}{29}}
 \citation{Dittrich2}
 \citation{enargite_properties}
 \citation{abundance}
@@ -239,6 +241,8 @@
 \citation{SS}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.19}{\ignorespaces The conduction band minimum (CBM) and valence band maximum (VBM) levels in eV of Cu$_2$ZnSnS$_4$with different charge-compensated defect complexes relative to the host material at 0 eV and 1.5 eV respectively. Figure taken from reference \citenum  {defect1}. }}{30}}
 \newlabel{Chen_cluster2}{{1.19}{30}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.20}{\ignorespaces Venn diagram showing the necessary (but not sufficient) conditions for a material to exhibit photoferroelectricity, where the dark colour suggests absorption of light in the visible range and a polar crystal structure is a requirement (but does not serve as a guarantee) for a material to exhibit ferroelectricity.}}{31}}
+\newlabel{vd}{{1.20}{31}}
 \citation{Shiyou}
 \citation{Shiyou}
 \citation{enargite_EIS}
@@ -250,8 +254,6 @@
 \citation{HSE}
 \citation{Zunger}
 \citation{CZTS_book}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.20}{\ignorespaces Venn diagram showing the necessary (but not sufficient) conditions for a material to exhibit photoferroelectricity, where the dark colour suggests absorption of light in the visible range and a polar crystal structure is a requirement (but does not serve as a guarantee) for a material to exhibit ferroelectricity.}}{31}}
-\newlabel{vd}{{1.20}{31}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.21}{\ignorespaces Comparison of element abundance and price between Cu, In, Ga, Cd, Sb, Sn, S, Se and Te. Figure taken from the supporting information of reference \citenum  {Shiyou}, where data was taken from the London Metal Exchange LME.}}{32}}
 \newlabel{abundance}{{1.21}{32}}
 \citation{stephanite}
@@ -390,37 +392,76 @@
 \newlabel{DFT_section}{{3.1.1}{50}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}The Supercell Method \& Corrections for Charged Defects}{50}}
 \newlabel{supercell_section}{{3.1.2}{50}}
+\citation{Schorr}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1.3}Defect Formation Energy \& Equilibrium Concentration}{51}}
+\newlabel{defect_section}{{3.1.3}{51}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.2}Monte Carlo Simulation of Thermodynamic Disorder in Cu$_2$ZnSnS$_4$}{51}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Multi-Scale Approach}{51}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}Quantification of Disorder Using Radial Distribution Functions}{51}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.3}Band Tailing from the Distribution of Electrostatic Potential}{52}}
-\@writefile{toc}{\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{52}}
-\@writefile{toc}{\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of Candidate Solar Absorber Materials}{52}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{53}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Mapping the Crystal Structure of { Cu$_2$ZnSnS$_4$} onto a Simple Lattice}{51}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces A supercell of the perfect{ Cu$_2$ZnSnS$_4$} crystal lattice, which can be described by inter-penetrating face-centred cubic sub-lattices: one of metal cations and one of sulfur anions. Green planes are used as guides to the eye to show planes of S anions that form one of the two face-centred cubic sub-lattices.}}{51}}
+\newlabel{CZTS_lattice_mapping}{{3.1}{51}}
+\citation{Metropolis}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces A 2-dimensional (x-y) slice of a 20x20x20 cation sub-lattice of ordered { Cu$_2$ZnSnS$_4$}. Sulfur anions are neglected from the simulations and the face-centred cubic cation lattice is mapped onto a simple cubic lattice by including empty sites in the lattice. Alternating layers in the z-direction are displaced by one lattice unit in order to reproduce the correct kesterite structure. `C', `Z', `T' and `.' represent copper, zinc, tin and an empty site respectively.}}{52}}
+\newlabel{eris_config_eg}{{3.2}{52}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}Monte Carlo Simulation with the Metropolis Algorithm}{52}}
+\citation{Lesar3}
+\citation{Metropolis}
+\citation{Lesar3}
+\newlabel{pot_E}{{3.1}{53}}
+\newlabel{av}{{3.2}{53}}
+\newlabel{prob}{{3.3}{53}}
+\newlabel{MC_av}{{3.4}{53}}
+\citation{Metropolis}
+\citation{Lesar3}
+\newlabel{dr}{{3.2.2}{54}}
+\newlabel{relative_prob}{{3.6}{54}}
+\newlabel{met}{{3.7}{54}}
+\newlabel{met2}{{3.8}{54}}
+\citation{MC}
+\citation{MC_Landau}
+\citation{MC}
+\citation{MC}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.3}Equilibration \& Finite Size Effects}{55}}
+\citation{MC}
+\citation{MC}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces The magnetization (upper curve) and internal energy (lower curve) per site of a two-dimensional Ising model simulated using the Metropolis algorithm (a). Magnetization as a function of time for two different simulations (b). Time is measured in Monte Carlo steps per lattice site. Figures taken from \citenum  {MC}.}}{56}}
+\newlabel{ising_equil}{{3.3}{56}}
+\citation{MC_Landau}
+\citation{MC_Landau}
+\citation{MC_Landau}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Typical periodic boundary conditions for the two-dimensional Ising model. Figure taken from \citenum  {MC_Landau}.}}{57}}
+\newlabel{MC_PBCs}{{3.4}{57}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.4}Multi-Scale Approach}{57}}
+\newlabel{eris_interaction}{{3.9}{58}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.5}Quantification of Disorder Using Radial Distribution Functions}{58}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.6}Band Tailing from the Distribution of Electrostatic Potential}{59}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{59}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of Candidate Solar Absorber Materials}{59}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{60}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Thermodynamic Disordering of Cu \& Zn Ions in Cu$_2$ZnSnS$_4$}{53}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Spatial Extent of Disorder Amongst Cu and Zn Cations}{53}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Band Tailing due to Fluctuations in Electrostatic Potential}{53}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Formation Energy of Sulfur Vacancies}{53}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}Intrinsic Band Gap Broadening from Lattice Vibrations}{53}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Optoelectronic Properties of Sulfosalt Materials}{54}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Thermodynamic Disordering of Cu \& Zn Ions in Cu$_2$ZnSnS$_4$}{60}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Spatial Extent of Disorder Amongst Cu and Zn Cations}{60}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Band Tailing due to Fluctuations in Electrostatic Potential}{60}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Formation Energy of Sulfur Vacancies}{60}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Perfect {Cu$_2$ZnSnS$_4$} supercell with S anion removed to form a sulfur vacancy (V$_S$) indicated by a crosshair (left) and the calculated partial charge density of two excess electrons present for the charge neutral V$_S$ (right).}}{61}}
+\newlabel{V_S-neutral-PARCHG}{{4.1}{61}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Intrinsic Band Gap Broadening from Lattice Vibrations}{61}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Optoelectronic Properties of Sulfosalt Materials}{62}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {5.1}Band Structures \& Band Gaps}{54}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.2}Dielectric Functions}{54}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.3}Absorption Coefficients}{54}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {6}Conclusions}{55}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Band Structures \& Band Gaps}{62}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Dielectric Functions}{62}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Absorption Coefficients}{62}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Conclusions}{63}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\newlabel{ch:conclusions}{{6}{55}}
-\@writefile{toc}{\contentsline {section}{\numberline {6.1}Performance Bottlenecks of {Cu$_2$ZnSnS$_4$} Solar Cells}{55}}
-\@writefile{toc}{\contentsline {section}{\numberline {6.2}Potential of Sulfosalt Materials for Solar Cell Devices}{55}}
-\@writefile{toc}{\contentsline {section}{\numberline {6.3}Future Work}{55}}
+\newlabel{ch:conclusions}{{6}{63}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}Performance Bottlenecks of {Cu$_2$ZnSnS$_4$} Solar Cells}{63}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.2}Potential of Sulfosalt Materials for Solar Cell Devices}{63}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.3}Future Work}{63}}
 \bibstyle{abbrv}
 \bibdata{bibliography/transfer_report_new}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{56}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{64}}
 \bibcite{culprit_2}{{1}{}{{}}{{}}}
 \bibcite{AshcroftMermin2}{{2}{}{{}}{{}}}
 \bibcite{AshcroftMermin3}{{3}{}{{}}{{}}}
@@ -492,77 +533,81 @@
 \bibcite{culprit_3}{{69}{}{{}}{{}}}
 \bibcite{kosyak}{{70}{}{{}}{{}}}
 \bibcite{shift_current}{{71}{}{{}}{{}}}
-\bibcite{PV_history2}{{72}{}{{}}{{}}}
-\bibcite{Germany_Lang}{{73}{}{{}}{{}}}
-\bibcite{PL}{{74}{}{{}}{{}}}
-\bibcite{Levcenko}{{75}{}{{}}{{}}}
-\bibcite{new_FE_PV_1}{{76}{}{{}}{{}}}
-\bibcite{LCOE2}{{77}{}{{}}{{}}}
-\bibcite{ores1}{{78}{}{{}}{{}}}
-\bibcite{PV_handbook}{{79}{}{{}}{{}}}
-\bibcite{pot_fluc}{{80}{}{{}}{{}}}
-\bibcite{Miyamoto}{{81}{}{{}}{{}}}
-\bibcite{Nelson4}{{82}{}{{}}{{}}}
-\bibcite{Nelson1}{{83}{}{{}}{{}}}
-\bibcite{DFT_in_mat}{{84}{}{{}}{{}}}
-\bibcite{sus_book_5}{{85}{}{{}}{{}}}
-\bibcite{Germany_Oregon}{{86}{}{{}}{{}}}
-\bibcite{MIT}{{87}{}{{}}{{}}}
-\bibcite{stephanite}{{88}{}{{}}{{}}}
-\bibcite{new_FE_PV}{{89}{}{{}}{{}}}
-\bibcite{enargite_properties}{{90}{}{{}}{{}}}
-\bibcite{MAPI}{{91}{}{{}}{{}}}
-\bibcite{CIS1}{{92}{}{{}}{{}}}
-\bibcite{CIS2}{{93}{}{{}}{{}}}
-\bibcite{culprit_5}{{94}{}{{}}{{}}}
-\bibcite{newPVrev}{{95}{}{{}}{{}}}
-\bibcite{nonlinear_dielectric}{{96}{}{{}}{{}}}
-\bibcite{pathways_130}{{97}{}{{}}{{}}}
-\bibcite{rev_46}{{98}{}{{}}{{}}}
-\bibcite{CIS1_4}{{99}{}{{}}{{}}}
-\bibcite{Romero}{{100}{}{{}}{{}}}
-\bibcite{Si_rev}{{101}{}{{}}{{}}}
-\bibcite{CIS1_3}{{102}{}{{}}{{}}}
-\bibcite{Schorr}{{103}{}{{}}{{}}}
-\bibcite{pot_fluc_4}{{104}{}{{}}{{}}}
-\bibcite{ab_1}{{105}{}{{}}{{}}}
-\bibcite{Scragg}{{106}{}{{}}{{}}}
-\bibcite{CZTS_bandgap_exp}{{107}{}{{}}{{}}}
-\bibcite{FE_PV_rev1_5}{{108}{}{{}}{{}}}
-\bibcite{PV_chart}{{109}{}{{}}{{}}}
-\bibcite{SQ_1961}{{110}{}{{}}{{}}}
-\bibcite{SRH}{{111}{}{{}}{{}}}
-\bibcite{ores}{{112}{}{{}}{{}}}
-\bibcite{SS}{{113}{}{{}}{{}}}
-\bibcite{keith_52}{{114}{}{{}}{{}}}
-\bibcite{PV_history1}{{115}{}{{}}{{}}}
-\bibcite{keith_54}{{116}{}{{}}{{}}}
-\bibcite{depol_model}{{117}{}{{}}{{}}}
-\bibcite{bournonite_new}{{118}{}{{}}{{}}}
-\bibcite{CZTS_record}{{119}{}{{}}{{}}}
-\bibcite{Tilley}{{120}{}{{}}{{}}}
-\bibcite{abundance}{{121}{}{{}}{{}}}
-\bibcite{bloch-thesis}{{122}{}{{}}{{}}}
-\bibcite{Unold}{{123}{}{{}}{{}}}
-\bibcite{global_energy_fig}{{124}{}{{}}{{}}}
-\bibcite{ab_prod}{{125}{}{{}}{{}}}
-\bibcite{keith_57}{{126}{}{{}}{{}}}
-\bibcite{enargite_EIS}{{127}{}{{}}{{}}}
-\bibcite{Germany_guardian_news}{{128}{}{{}}{{}}}
-\bibcite{bournonite}{{129}{}{{}}{{}}}
-\bibcite{CZTS_n-type}{{130}{}{{}}{{}}}
-\bibcite{Germany_PV}{{131}{}{{}}{{}}}
-\bibcite{Jarv_7}{{132}{}{{}}{{}}}
-\bibcite{3rd_gen}{{133}{}{{}}{{}}}
-\bibcite{CZTS_vs_MAPI}{{134}{}{{}}{{}}}
-\bibcite{Shiyou}{{135}{}{{}}{{}}}
-\bibcite{rev_30}{{136}{}{{}}{{}}}
-\bibcite{Rappe}{{137}{}{{}}{{}}}
-\bibcite{keith_25}{{138}{}{{}}{{}}}
-\bibcite{Zunger}{{139}{}{{}}{{}}}
-\bibcite{fund_semi}{{140}{}{{}}{{}}}
-\bibcite{FE_PV_rev1}{{141}{}{{}}{{}}}
-\bibcite{dielectric1}{{142}{}{{}}{{}}}
-\bibcite{schottky_effect}{{143}{}{{}}{{}}}
-\bibcite{CZTS_bandgap_theory}{{144}{}{{}}{{}}}
+\bibcite{MC_Landau}{{72}{}{{}}{{}}}
+\bibcite{PV_history2}{{73}{}{{}}{{}}}
+\bibcite{Germany_Lang}{{74}{}{{}}{{}}}
+\bibcite{PL}{{75}{}{{}}{{}}}
+\bibcite{Lesar3}{{76}{}{{}}{{}}}
+\bibcite{Levcenko}{{77}{}{{}}{{}}}
+\bibcite{new_FE_PV_1}{{78}{}{{}}{{}}}
+\bibcite{LCOE2}{{79}{}{{}}{{}}}
+\bibcite{ores1}{{80}{}{{}}{{}}}
+\bibcite{PV_handbook}{{81}{}{{}}{{}}}
+\bibcite{pot_fluc}{{82}{}{{}}{{}}}
+\bibcite{Metropolis}{{83}{}{{}}{{}}}
+\bibcite{Miyamoto}{{84}{}{{}}{{}}}
+\bibcite{Nelson4}{{85}{}{{}}{{}}}
+\bibcite{Nelson1}{{86}{}{{}}{{}}}
+\bibcite{DFT_in_mat}{{87}{}{{}}{{}}}
+\bibcite{MC}{{88}{}{{}}{{}}}
+\bibcite{sus_book_5}{{89}{}{{}}{{}}}
+\bibcite{Germany_Oregon}{{90}{}{{}}{{}}}
+\bibcite{MIT}{{91}{}{{}}{{}}}
+\bibcite{stephanite}{{92}{}{{}}{{}}}
+\bibcite{new_FE_PV}{{93}{}{{}}{{}}}
+\bibcite{enargite_properties}{{94}{}{{}}{{}}}
+\bibcite{MAPI}{{95}{}{{}}{{}}}
+\bibcite{CIS1}{{96}{}{{}}{{}}}
+\bibcite{CIS2}{{97}{}{{}}{{}}}
+\bibcite{culprit_5}{{98}{}{{}}{{}}}
+\bibcite{newPVrev}{{99}{}{{}}{{}}}
+\bibcite{nonlinear_dielectric}{{100}{}{{}}{{}}}
+\bibcite{pathways_130}{{101}{}{{}}{{}}}
+\bibcite{rev_46}{{102}{}{{}}{{}}}
+\bibcite{CIS1_4}{{103}{}{{}}{{}}}
+\bibcite{Romero}{{104}{}{{}}{{}}}
+\bibcite{Si_rev}{{105}{}{{}}{{}}}
+\bibcite{CIS1_3}{{106}{}{{}}{{}}}
+\bibcite{Schorr}{{107}{}{{}}{{}}}
+\bibcite{pot_fluc_4}{{108}{}{{}}{{}}}
+\bibcite{ab_1}{{109}{}{{}}{{}}}
+\bibcite{Scragg}{{110}{}{{}}{{}}}
+\bibcite{CZTS_bandgap_exp}{{111}{}{{}}{{}}}
+\bibcite{FE_PV_rev1_5}{{112}{}{{}}{{}}}
+\bibcite{PV_chart}{{113}{}{{}}{{}}}
+\bibcite{SQ_1961}{{114}{}{{}}{{}}}
+\bibcite{SRH}{{115}{}{{}}{{}}}
+\bibcite{ores}{{116}{}{{}}{{}}}
+\bibcite{SS}{{117}{}{{}}{{}}}
+\bibcite{keith_52}{{118}{}{{}}{{}}}
+\bibcite{PV_history1}{{119}{}{{}}{{}}}
+\bibcite{keith_54}{{120}{}{{}}{{}}}
+\bibcite{depol_model}{{121}{}{{}}{{}}}
+\bibcite{bournonite_new}{{122}{}{{}}{{}}}
+\bibcite{CZTS_record}{{123}{}{{}}{{}}}
+\bibcite{Tilley}{{124}{}{{}}{{}}}
+\bibcite{abundance}{{125}{}{{}}{{}}}
+\bibcite{bloch-thesis}{{126}{}{{}}{{}}}
+\bibcite{Unold}{{127}{}{{}}{{}}}
+\bibcite{global_energy_fig}{{128}{}{{}}{{}}}
+\bibcite{ab_prod}{{129}{}{{}}{{}}}
+\bibcite{keith_57}{{130}{}{{}}{{}}}
+\bibcite{enargite_EIS}{{131}{}{{}}{{}}}
+\bibcite{Germany_guardian_news}{{132}{}{{}}{{}}}
+\bibcite{bournonite}{{133}{}{{}}{{}}}
+\bibcite{CZTS_n-type}{{134}{}{{}}{{}}}
+\bibcite{Germany_PV}{{135}{}{{}}{{}}}
+\bibcite{Jarv_7}{{136}{}{{}}{{}}}
+\bibcite{3rd_gen}{{137}{}{{}}{{}}}
+\bibcite{CZTS_vs_MAPI}{{138}{}{{}}{{}}}
+\bibcite{Shiyou}{{139}{}{{}}{{}}}
+\bibcite{rev_30}{{140}{}{{}}{{}}}
+\bibcite{Rappe}{{141}{}{{}}{{}}}
+\bibcite{keith_25}{{142}{}{{}}{{}}}
+\bibcite{Zunger}{{143}{}{{}}{{}}}
+\bibcite{fund_semi}{{144}{}{{}}{{}}}
+\bibcite{FE_PV_rev1}{{145}{}{{}}{{}}}
+\bibcite{dielectric1}{{146}{}{{}}{{}}}
+\bibcite{schottky_effect}{{147}{}{{}}{{}}}
+\bibcite{CZTS_bandgap_theory}{{148}{}{{}}{{}}}
 \providecommand\NAT@force@numbers{}\NAT@force@numbers
