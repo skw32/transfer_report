@@ -1,11 +1,15 @@
 \chapter{Methodology}
 
 \section{Calculation of the Formation Energy of Defects in \CZTS}
-See Lany paper + Keith's posted paper + encyclopoedia of defects paper 
+See Lany paper + Keith's posted paper + encyclopoedia of defects paper \\
+
+As discussed in section \ref{defects_in_PV}, defects in a solar absorber material can heavily impact on the performance of a photovoltaic device composed of that material. In this study we perform first principles calculations of two types of defects in the solar absorber material { \CZTS }. We firstly performed calculations of the formation energy of the charge neutral Cu-on-Zn and Zn-on-Cu anti-site defect pair, [$Cu_{Zn}^- + Zn_{Cu}^+$], in order to parameterize our Monte Carlo simulations of thermodynamic Cu-Zn disorder, which is discussed further in section \ref{MC_section}. We also begin calculations of the formation energy of a sulfur vacancy in { \CZTS }. This defect can however take on three different charge states: $V_{S}^{0}$, $V_{S}^{+1}$ and $V_{S}^{+2}$, where electron occupancy varies from two to one to none respectively. We will then go on to calculate the formation energy as a function of the sulfur chemical potential to determine which charge state has the minimum formation energy at typical annealing conditions of { \CZTS }, in terms of temperature and pressure. This methodology is outlined in section \ref{defect_section}. However, special correction techniques must be applied when performing periodic calculations to simulate a bulk system with a finite unit cell when the unit cell possesses a net charge. This point is discussed in section \ref{supercell_section}.
 
 
 \subsection{Density Functional Theory \& Hybrid Functionals}\label{DFT_section}
-See Bechstedt book \cite{Bechstedt} + figures from Aron + discuss band gap underestimation in standard DFT (GGA mentioned during intro, also discuss GGA+U and limitations)
+See Bechstedt book \cite{Bechstedt} + figures from Aron + discuss band gap underestimation in standard DFT (GGA mentioned during intro, also discuss GGA+U and limitations)\\
+
+The description of the electrons in a system requires the use of QM... outline of standard DFT... situations in which standard DFT fails and why we need to use hybrid-DFT.
 
 \subsection{The Supercell Method \& Corrections for Charged Defects}\label{supercell_section}
 see Aron's lectures + DFT in materials science paper \cite{DFT_in_mat}
@@ -16,7 +20,7 @@ Show formula for defect formation E as a function of electronic and atomic chemi
 
 
 
-\section{Monte Carlo Simulation of Thermodynamic Disorder in \CZTS}
+\section{Monte Carlo Simulation of Thermodynamic Disorder in \CZTS}\label{MC_section}
 
 \subsection{Mapping the Crystal Structure of { \CZTS } onto a Simple Lattice}
 
@@ -27,13 +31,20 @@ Show formula for defect formation E as a function of electronic and atomic chemi
   \label{CZTS_lattice_mapping}
 \end{figure}
 
-In this study, we use a custom Monte Carlo code to simulate substitutional on-lattice disorder in {\CZTS } as a function of temperature. The crystal structure of {\CZTS } can be described by two inter-pentrating face-centred cubic (FCC) lattices: one of metal cations and one of sulfur anions, as shown in figure \ref{CZTS_lattice_mapping}. We consider the sulfur sub-lattice to be stationary because any substitution between ions in the cation sub-lattice and sulfur anion sub-lattice would be energetically infeasible and any substitutions amongst the sulfur anions in that sub-lattice would be energetically equivalent. The sulfur sub-lattice is therefore neglected during the Monte Carlo simulations but incorporated later in calculations of lattice electrostatics. This then reduces the problem of mapping the {\CZTS } crystal structure onto a lattice to just one FCC cation lattice. We then map this onto a simple cubic (SC) lattice for our simulations by introducing empty lattice sites into the SC lattice. The crystal structure of {\CZTS } can also be described by alternating layers of Cu-Zn and Cu-Sn \cite{Schorr}, as shown in figure \ref{CZTS_cell}. We therefore fill the lattice in this way in a checkerboard-like fashion when constructing a perfectly ordered on-lattice representation of the crystal structure, 2D slices of the ordered system is shown in figure \ref{eris_config_eg}. During our simulation the separation between lattice sites is one lattice unit but this is re-scaled for calculations of lattice electrostatics using our DFT-optimised lattice parameters of a = b = 5.44 \AA . Lattice parameter c for our model will then be approximated to 2a, which is very close to the DFT-optimised value of 10.86 \AA .
+In this study, we use a custom Monte Carlo code to simulate substitutional on-lattice disorder between Cu and Zn ions in {\CZTS } as a function of temperature. The crystal structure of {\CZTS } can be described by two inter-pentrating face-centred cubic (FCC) lattices: one of metal cations and one of sulfur anions, as shown in figure \ref{CZTS_lattice_mapping}. We consider the sulfur sub-lattice to be stationary because any substitution between ions in the cation sub-lattice and sulfur anion sub-lattice would be energetically infeasible and any substitutions amongst the sulfur anions in that sub-lattice would be energetically equivalent. The sulfur sub-lattice is therefore neglected during the Monte Carlo simulations but incorporated later in calculations of lattice electrostatics. This then reduces the problem of mapping the {\CZTS } crystal structure onto a simple lattice to just one FCC cation lattice. We then map this onto a simple cubic (SC) lattice for our simulations by introducing empty lattice sites into the SC lattice. The crystal structure of {\CZTS } can also be described by alternating layers of Cu-Zn and Cu-Sn \cite{Schorr}, as shown in figure \ref{CZTS_cell}. We therefore fill the lattice in this way in a checkerboard-like fashion when constructing a perfectly ordered on-lattice representation of the crystal structure, 2D slices of the ordered system are shown in figure \ref{eris_config_eg}. During our simulation the separation between lattice sites is one lattice unit but this is re-scaled for calculations of lattice electrostatics using our DFT-optimised lattice parameters of $\frac{a}{2}  = \frac{b}{2} = \frac{5.44}{2} \AA$. Where the lattice parameters are divided by 2 as empty sites are placed in between ions to map the FCC structure onto an SC lattice. Figure \ref{CZTS_lattice_scaling} shows flat representations of the crystal structure, with empty lattice sites marked out by crosses. Lattice parameter c for our model will then be approximated to 2a, which is very close to the DFT-optimised value of 10.86 \AA .  
 
 \begin{figure}[h!]
   \centering
     \includegraphics[width=0.95\textwidth]{figures/eris_config_eg.png}
-    \caption{A 2-dimensional (x-y) slice of a 20x20x20 cation sub-lattice of ordered { \CZTS }. Sulfur anions are neglected from the simulations and the face-centred cubic cation lattice is mapped onto a simple cubic lattice by including empty sites in the lattice. Alternating layers in the z-direction are displaced by one lattice unit in order to reproduce the correct kesterite structure. `C', `Z', `T' and `.' represent copper, zinc, tin and an empty site respectively.}
+    \caption{A two-dimensional (x-y) slice of a 20x20x20 cation sub-lattice of ordered { \CZTS }. Sulfur anions are neglected from the simulations and the face-centred cubic cation lattice is mapped onto a simple cubic lattice by including empty sites in the lattice. Alternating layers in the z-direction are displaced by one lattice unit in order to reproduce the correct kesterite structure. `C', `Z', `T' and `.' represent copper, zinc, tin and an empty site respectively.}
   \label{eris_config_eg}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.9\textwidth]{figures/CZTS_lattice_scaling.png}
+    \caption{Flat visuals of the { \CZTS } crystal structure showing positions of empty sites (denoted by x's) used to map the face-centred cubic lattice of the cations onto a simple cubic lattice. Lattice parameters obtained from hybrid density functional theory geometry optimizations are a = b = 5.43770 \AA and c = 10.85670 \AA, and so c is approximately 2a.}
+  \label{CZTS_lattice_scaling}
 \end{figure}
 
 
@@ -81,7 +92,7 @@ The Metropolis algorithm creates a list of configurations through configuration 
 \subsection{Equilibration \& Finite Size Effects}
 Our Monte Carlo model for Cu-Zn disorder is analogous to the Ising model of a magnet, descriptions of which can be found in many textbooks such as references \citenum{MC} and \citenum{MC_Landau}. In the case of an Ising model, the trial moves in the Metropolis algorithm are spin flips, whereas in our model the trial moves are swaps between Cu and Zn ions. In the case of the Ising model it is usually the average magnetization of the system or internal energy as a function of temperature that are the quantities of interest. In our system, it is the distribution of the electrostatic potential across the system that is of interest, as this can be related to the observed band tailing. We are also interested in the corresponding configuration of the ions (and extent of disorder) that results in such a distribution. In the case of the Ising model when, for example, determining the magnetization of a system at a given temperature, the simulation must be run for a suitably long time until the system has come to equilibrium at that temperature. This is referred to as the equilibration time and the point at which a system has attained equilibrium can be defined as being when the average probability of finding the system in any particular state $\alpha$ is proportional to the Boltzmann weight of that state, $e^{-\frac{E_\alpha}{k_bT}}$. Once the system has equilibrated, the quantity of interest such as the magnetization must then be again measured over a suitably long time and averaged \cite{MC}.
 
-To gauge if a system has reached equilibrium, in the case of the Ising model, it is common practice to run the simulation for a large number of Monte Carlo steps (MCS) (where one MCS corresponds to attempting a trial spin-flip at all sites in the system once) and looking for the point at which the value of a quantity of interest, such as the average magnetization across the system, which initially changes by a large amount as the simulation progresses, eventually converges to fluctuating about a steady average value. An example of this is shown in figure \ref{ising_equil}a. This is dependent upon the principle that a system in equilibrium spends the overwhelming majority of its time in a small subset of states in which its properties take a narrow range of values \cite{MC}. In the case of our system, it is the distribution in electrostatic potential across the system that is of interest so we will look for a point after which the variance of the distribution of electrostatic potentials across the system has reached a steady value.
+To gauge if a system has reached equilibrium, in the case of the Ising model, it is common practice to run the simulation for a large number of Monte Carlo steps (MCS) (where one MCS corresponds to attempting a trial spin-flip at all sites in the system once) and looking for how the value of a quantity of interest, such as the average magnetization across the system, changes with increasing number of MCS as the simulation progresses. Equilibration is often considered as the point at which the value of a quantity of interest, which initially changes by a large amount, eventually converges to fluctuating about a steady average value. An example of this is shown in figure \ref{ising_equil}a. This is dependent upon the principle that a system in equilibrium spends the overwhelming majority of its time in a small subset of states in which its properties take a narrow range of values \cite{MC}. In the case of our system, it is the distribution in electrostatic potential across the system that is of interest so we will look for a point after which the variance of the distribution of electrostatic potentials across the system has reached a steady value.
 
 \begin{figure}[h!]
   \centering
@@ -90,7 +101,7 @@ To gauge if a system has reached equilibrium, in the case of the Ising model, it
   \label{ising_equil}
 \end{figure}
 
-As this is a stochastic method, making use of sampling many times with random numbers in order to determine the minimum energy configuration of the system. Provided the simulation is allowed to run for a sufficiently long time to reach this minimum configuration, the final configuration for a given system at a given temperature should always be the same, this point is illustrated in figure \ref{ising_equil}b. However, the trajectory to reach this final configuration will by nature be random and so we can draw no conclusions from configurations of the system until the final configuration at the particular temperature is reached. Even then we must consider the possibility of our system finding local minima instead of global minima, and therefore giving a false impression of having equilibrated. For this reason we perform multiple runs of the simulations, each seeded with different random numbers to ensure that the same final configurations are obtained. 
+Provided the simulation is allowed to run for a sufficiently long time to reach this minimum configuration, the final configuration for a given system at a given temperature should always be the same, this point is illustrated in figure \ref{ising_equil}b. However,  as this is a stochastic method, making use of sampling many times with random numbers in order to determine the minimum energy configuration of the system, the trajectory to reach this final configuration will by nature be random and so we can draw no conclusions from configurations of the system until the final configuration at the particular temperature is reached. Even then we must consider the possibility of our system finding local minima instead of global minima, and therefore giving a false impression of having equilibrated. For this reason we perform multiple runs of the simulations, each seeded with different random numbers to ensure that the same final configurations, and associated equilibrium properties, are obtained. 
 
 As simulations are performed for finite lattices, in order to simulate a bulk system the edges or `boundaries' of the system must be treated carefully. The boundaries can be effectively eliminated through the use of periodic boundary conditions (PBCs). In the case of an Ising model, this means that the first spin in a row interacts with the last spin in the row as if it were a nearest neighbour, and vice versa \cite{MC_Landau}. This principle is illustrated in figure \ref{MC_PBCs}. Although this procedure effectively eliminates boundary effects, the system is still characterized by the finite lattice size, L, which limits the correlation length to $\frac{L}{2}$. Resultant properties of the system may then differ for the bulk system than for the simulated system. We therefore perform simulations with increasing system size to look for any differences in the quantities of interest.
 
@@ -101,21 +112,22 @@ As simulations are performed for finite lattices, in order to simulate a bulk sy
   \label{MC_PBCs}
 \end{figure}
 
-\subsection{Multi-Scale Approach}
-Equation \ref{eris_interaction} can be used to calculate the electrostatic interaction between a pairs of ions, where $q_1$ and $q_2$ are the bare formal charges, r is the separation of the point charges and $\epsilon_r$ is the bulk static relative dielectric constant of { \CZTS }. I is first calculated for this purely electrostatic case which gives a value of -0.284 eV using a value of 13.2 for $\epsilon_r$ and 3.8 $/AA$ for r, which is the separation of nearest-neighbour Cu-Zn ions.
-This accounts for only Coulombic interaction between the bare formal charges on the ions and as it uses the bulk dielectric constant of { \CZTS }, the model currently does not account for the effect of screening from the electronic structure during defect formation. In this study therefore we scale the interaction energy in the simulations by comparing the formation energy of a nearest-neighbour Cu-Zn antisite pairas calculated in the classical code GULP to that obtained using hybrid-density functional theory and the VASP code, where the electronic structure is included in the calculation. We found that the defect formation energy obtained using VASP was approximately 1.5 times that obtained with GULP, we therefore scaled the interaction energy by the same amount and so $I_{DFT} = 1.5 \times I_{electrostatic} = - 0.425$. Through doing this we aim to scale the macroscopic dielectric constant to be closer to the microscopic dielectric constant, for which the effects of the electronic structure will be much more significant.
-
-q$^2$/epsilon x d
-
-
+\subsection{Multi-Scale Approach with Density Functional Theory}
 \begin{equation}\label{eris_interaction}
-E_{electrostatic} = \frac{q_1q_2}{4\pi\epsilon_0\epsilon_r}e^2\frac{1}{r} = q_1q_2 I
+E_{electrostatic} = \frac{q_1q_2}{4\pi\epsilon_0\epsilon_r}e^2\frac{1}{r} = q_1q_2 I_{electrostatic}
 \end{equation}
+Equation \ref{eris_interaction} can be used to calculate the electrostatic interaction between a pairs of ions, where $q_1$ and $q_2$ are the bare formal charges, r is the separation of the point charges and $\epsilon_r$ is the bulk static relative dielectric constant. The interaction between all pairs of ions within the system are summed over when calculating the change in the energy of the system after performing a trial move in our Monte Carlo simulations.
+We separate out the parameter $I_{electrostatic}$ in our simulations. The value is first calculated considering a purely classical, electrostatic case where only the bare formal charges on the ions are considered and the bulk dielectric constant of { \CZTS } is used. Using a value of 13.2 for $\epsilon_r$ and 3.8 $\AA$ for r, which is the separation of nearest-neighbour Cu-Zn ions, gives a value of -0.284 eV for $I_{electrostatic}$.
+This treatment however only accounts for the Coulombic interaction between the point charges and neglects any changes in the electronic structure during defect formation. The screening effect of the electronic structure would be more significant for the microscopic dielectric constant than for the bulk, macroscopic dielectric constant.
+In this study therefore we scale the interaction energy, $I_{interaction}$, in the simulations by comparing the formation energy of a nearest-neighbour Cu-Zn anti-site defect pair calculated using the classical code GULP to that obtained using quantum mechanical hybrid-density functional theory and the VASP code, where effects of the electronic structure are included in the calculation. We found that the defect formation energy obtained using VASP was approximately 1.5 times that obtained with GULP, we therefore scaled the interaction energy by the same amount and so $I_{DFT} = 1.5 \times I_{electrostatic} = - 0.425$. Through doing this we aim to scale the macroscopic dielectric constant to be closer to the value of the microscopic dielectric constant.
+
 
 
 
 \subsection{Quantification of Disorder Using Radial Distribution Functions}
 \begin{itemize}
+\item Brief overview of what an RDF is
+\item See new lab book and make figures to explain
 \item Reproducing GS
 \item Cu-Zn RDF first peak to describe Cu Zn Cu layer
 \item Cu-Sn RDF first peak to describeCu Sn Cu layer

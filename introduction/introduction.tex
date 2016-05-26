@@ -111,13 +111,51 @@ A solar cell device consists of... (see Mirjana's thesis)
 Refer to: pg 3 \cite{spatial_resolved_book}, pg 253 \cite{fund_semi}, pg 57 \cite{PV_Goetzberger}\\
 
 \begin{itemize}
-\item PL
 \item band gap
 \item absorption coefficient
 \item effective mass
-\item dielectric function (screening of defects):   Why dielectric function is important - lower dielectric const in CZTS suggests electrostatic potential fluctuation is long ranged, material will be less `defect tolerant' - Look for textbook source!
+\item dielectric function (screening of defects + absorption coeff):   Why dielectric function is important - lower dielectric const in CZTS suggests electrostatic potential fluctuation is long ranged, material will be less `defect tolerant' - Look for textbook source!
 \end{itemize}
-Discussion of direct vs indirect band gap: Use e.g. of Si (flat band model + actual band structure), state that early figure is a simplification and use to discuss why Si is not ideal from indirect band gap, use rough calc from lecture? refer to later section on band theory for further discussion of electronic bands.
+Discussion of direct vs indirect band gap: Use e.g. of Si (flat band model + actual band structure), state that early figure is a simplification and use to discuss why Si is not ideal from indirect band gap, use rough calc from lecture? refer to later section on band theory for further discussion of electronic bands.\\
+
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.85\textwidth]{figures/solar_spectrum2.png}
+    \caption{AM1.5 solar spectrum with distinct dips due to molecular absorption in Earth’s atmosphere. The dashed line shows the band gap of silicon and fading to the left indicates that photons with energies below the band gap will not be absorbed and other fading indicates other loss mechanisms that prevent a solar cell from being unable to convert the full incident spectrum into electricity. Figure taken from reference \citenum{newPVrev}.}
+  \label{solar_spectrum}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.65\textwidth]{figures/SQ_new.png}
+    \caption{Theoretical Shockley-Queisser detailed-balance efficiency limit as a function of band gap\cite{SQ_1961} (highest black line). The record efficiencies for different materials are plotted for the corresponding band gaps, where materials below the lower two grey lines are achieving conversion efficiencies less than 75\% and 50\% of their theoretical efficiency limit respectively. Figure taken from reference \citenum{newPVrev}.}
+  \label{SQ}
+\end{figure}
+
+A solar (or photovoltaic) cell is an example of an optoelectronic device in which the solar absorber material of choice must allow for the manipulation of light, electrical current and their interaction. Metals are excellent electrical conductors, but do not allow light to travel inside. Glass and related dielectric materials can accommodate and guide light waves, as in electrical fibres, but are electrical insulators. Semiconductors are in between these two types of material as they can carry both electrical current as well as light waves. Furthermore, some semiconductors can be used to transform light into electrical current as discussed in the section above \cite{mat_prop1}. The two vital processes that must occur in a solar absorber material were also discussed above, which were: the excitation of an electron from the valence band into the conduction band in a semiconducting material by a photon and subsequent collection of the photoexcited charge carriers by an external circuit before the photoexcited electron-hole pair recombine. There are certain optical and electrical properties that are necessary for these processes to occur and then there are also certain properties that indicate how well a material is likely to perform in a solar cell device. In this section the band gap, effective mass, dielectric constant and absorption coefficient of a potential solar absorber material will be discussed.
+
+The most obvious necessary requirement for a solar absorber material is for it to be a semiconductor so that it possesses a band gap across which an electron can be excited. The value of this band gap must also be somewhere within the solar spectrum shown in figure \ref{solar_spectrum} so that sunlight can induce the photoexcitation of an electron-hole pair across the band gap. Secondly the material must allow for transport of charge carriers out of the absorber material and into a collection electrode and external circuit. Provided these necessary conditions are met, the material should exhibit the photovoltaic effect, but how well it will actually peform in a solar cell is determined by more stringent criteria and other material properties. Firstly the actual value of the band gap within the range of the solar spectrum is of importance. It is ideal for the value to be as close as possible to the region of photon energies that make up the majority of the solar spectrum. The optimal range for the band gap under typical radiation conditions is between 1.06 eV and 1.50 eV \cite{CZTS_book}. The limit of the power conversion efficiency (of incident photon energy to electrical energy) of a material based on its band gap was first calculated with Shockley and Quiesser in 1961 \cite{SQ_1961} and a plot of theoretical efficiency limit as a function of band gap is shown in figure \ref{SQ}.
+
+However, it is not only the value of the band gap that is of importance, whether the gap is direct or indirect is also of importance... e.g. of Si + calc from lectures
+
+
+
+The band gap determines which photons can be absorbed by a material, but it does not predict how strongly that material will absorb them
+
+SLME + absorption coeff + dielectric const
+
+Discuss dielectric const as measure of defect tolerance?
+
+
+
+Effective mass and carrier collection? (refer to figs from section above)
+Effective mass and electrical conductivity discussion.
+Although certain thin-film technologies discussed towards the end of section \ref{current_tech}
+
+
+
+
+
 
 \subsection{Current Commercial Solar Cell Technologies \& Limitations}\label{current_tech}
 It was first observed in 1839 by Edmond Becquerel that sunlight could be used to generate electricity. Becquerel discovered that if  silver chloride was placed in an acidic solution, connected to platinum electrodes and exposed to sunlight, an electric current flowed. However the effect was small and poorly understood before Albert Einstein's discovery of the photoelectric effect and explanation of the phenomena by the quantum nature of light in 1904 \cite{PV_history1}. Even then, it was not until the development of semiconductor technology during the silicon revolution of the 1950's that solar cells were fabricated which were able to generate significant amounts of electricity. The first silicon solar cell was created in 1954 in the Bell Laboratories with cells achieving efficiencies of 6\%. 
@@ -131,14 +169,6 @@ Originally solar cells were developed for terrestrial energy generation, such as
 \end{figure}
 
 In spite of this, crystalline silicon is still the dominant solar cell technology with mono- and poly-crystalline silicon photovoltaic cells comprising up to 90\% of all the solar cells produced in 2008  \cite{Si_rev}. Silicon is the second most abundant element in the Earth's crust \cite{Si_abundance}, making it a plausible material to use in large-scale solar power generation. Over 60 years of development have seen device efficiencies increase from 6\% to 25\% for the highest quality research devices and 15-18\% for the more common industrial cells \cite{Si_rev}. As can be seen from figure \ref{SQ}, the best performing silicon devices are now very close to achieving conversion efficiencies close to their theoretical limit, as predicted by Shockley-Quiesser \cite{SQ_1961}. More dramatic however is the fall in manufacturing costs which have halved since 2008 and are more than a hundred times lower than they were in 1977, as shown in figure \ref{Si_cost}. This development was largely aided by progress in semiconductor technology driven by the silicon chip industry, with the solar industry benefiting from advances in silicon manufacturing processes and even making use of waste silicon produced that was not of a high enough grade for silicon chips \cite{PV_history1}. Although the development of silicon-based technologies has clearly revolutionized the modern computer, the optical properties of silicon do not make it ideal for use as a solar absorber material in a photovoltaic device and despite the dramatic reduction in manufacturing costs, the technology is still not able to be cost-competitive with fossil-fuel power generation, as was shown in figure \ref{LCOE}.\\
-
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=0.65\textwidth]{figures/SQ_new.png}
-    \caption{Theoretical Shockley-Queisser detailed-balance efficiency limit as a function of band gap\cite{SQ_1961} (highest black line). The record efficiencies for different materials are plotted for the corresponding band gaps, where materials below the lower two grey lines are achieving conversion efficiencies less than 75\% and 50\% of their theoretical efficiency limit respectively. Figure taken from reference \citenum{newPVrev}.}
-  \label{SQ}
-\end{figure}
-
 
 The primary issue with silicon is that its band gap of 1.1 eV is indirect. The key consequence of this property is that silicon is therefore not a very strong absorber of sunlight (compared to for instance newer, thin-film technologies which are discussed later), resulting in a low optical absorption coefficient  compared to these newer technologies where both band gap and absorption coefficient were two of the key material properties for solar cells discussed in section \ref{PV_properties}. To absorb the same amount of sunlight with a silicon solar cell requires a thicker layer of the material than in thin-film technologies. Photovoltaic devices are very sensitive to defects and impurities. This point is discussed further in section \ref{defects_in_PV}, but the consequence for a thick layer of silicon is that very high quality, non-defective material is necessary to enable charge carrier collection before recombination occurs, which results in high manufacturing costs. The devices are made from flat sheets of crystalline or multicrystalline silicon called wafers that consist of very high quality silicon (99.999999\% pure) 
 \cite{sus_book_5}.
@@ -187,13 +217,6 @@ The BPE effect is distinctly different from the typical PV effect in semiconduct
 p-n junctions as it is the polarization electric field that is the driving force for the photocurrent in FE-PV devices \cite{FE_PV_rev1}. 
 The APE was first observed in PbS films in 1946 \cite{keith_54} and has since been reported in polycrystalline CdTe, ZnTe, InP \cite{keith_55, keith_56, keith_57}, where photovoltages output along the polarization direction can be significantly larger than the band gap of the material \cite{FE_PV_rev1}, which is usually the limit for a semiconductor PV material \cite{keith}. 
 The Shockley-Queisser limit, which prevents any single p-n junction solar cell from converting more than 33.7\% of the incident light into electricity, has not been predicted to apply for these photovoltaic phenomena. An upper limit for the theoretical power conversion efficiency (PCE) from this photovoltaic mechanism seems to still be an open question \cite{new_FE_PV}, although an ultimate maximum efficiency of any single-band gap absorber of 44\% has been set by thermodynamic considerations \cite{SQ_1961}. Theories to explain the PV phenomena observed in FE materials are discussed further in section \ref{FE_PV_section}.\\
-
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=0.95\textwidth]{figures/solar_spectrum2.png}
-    \caption{AM1.5 solar spectrum with distinct dips due to molecular absorption in Earth’s atmosphere. The dashed line shows the band gap of silicon and fading to the left indicates that photons with energies below the band gap will not be absorbed and other fading indicates other loss mechanisms that prevent a solar cell from being unable to convert the full incident spectrum into electricity. Figure taken from reference \citenum{newPVrev}.}
-  \label{solar_spectrum}
-\end{figure}
 
 The identification and understanding of such phenomena may open up the possibility of more efficient PV devices constructed from a number of different photoferroelectric materials. However, most of the commonly used ferroelectric materials such as LiNbO$_3$ and BaTiO$_3$ have band gaps larger than 3 eV and can therefore only absorb sunlight in the UV range to convert into electricity, which accounts for only around 3.5\% of the solar spectrum \cite{FE_PV_rev1}, which is illustrated in figure \ref{solar_spectrum}. The optimal range for the band gap in order to absorb the majority of the solar spectrum under typical radiation conditions is between 1.06 eV and 1.50 eV \cite{CZTS_book}. Research efforts have also gone into adjusting the optical absorption of ferroelectric materials without influencing the ferroelectric properties of the material through chemical doping or alloying \cite{FE_PV_rev1}. In Bi$_4$Ti$_3$O$_{12}$ (BiT) the optical band gap has been tuned in such a way, resulting in a decrease from 3.6 eV to 2.7 eV \cite{FE_PV_rev1_83}, although this is still considerably larger than the optimal range for a PV absorber material.\\
 
