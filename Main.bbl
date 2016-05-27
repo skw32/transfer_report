@@ -21,6 +21,12 @@ E.~P.~I. Association.
 \newblock Global market outlook for photovoltaics 2014-2018.
 \newblock 2014.
 
+\bibitem{dielectric_const1}
+T.~L. Bahers, M.~R{\'{e}}rat, and P.~Sautet.
+\newblock {Semiconductors used in Photovoltaic and Photocatalytic Devices:
+  Assessing Fundamental Properties from DFT}.
+\newblock {\em J. Phys. {\ldots}}, 2014.
+
 \bibitem{transport}
 M.~Balkanski and R.~F. Wallis.
 \newblock {\em Introduction to Transport in Semiconductors}.
@@ -83,6 +89,12 @@ S.~Bourdais, C.~Chon{\'{e}}, B.~Delatouche, A.~Jacob, G.~Larramona, C.~Moisan,
 \newblock {Is the Cu/Zn Disorder the Main Culprit for the Voltage Deficit in
   Kesterite Solar Cells?}
 \newblock {\em Adv. Energy Mater.}, pages n/a--n/a, mar 2016.
+
+\bibitem{defect_tolerance}
+R.~E. Brandt, V.~StevanoviÄ, D.~S. Ginley, and T.~Buonassisi.
+\newblock Identifying defect-tolerant semiconductors with high minority-carrier
+  lifetimes: beyond hybrid lead halide perovskites.
+\newblock {\em MRS Communications}, 5:265--275, 6 2015.
 
 \bibitem{Federico}
 F.~Brivio, A.~B. Walker, and A.~Walsh.
@@ -289,6 +301,11 @@ K.~H{\"{o}}nes, E.~Zscherpel, J.~Scragg, and S.~Siebentritt.
 C.~Honsberg and S.~Bowden.
 \newblock {\em Open-Circuit Voltage}, 2014 (Accessed on April 28, 2015).
 
+\bibitem{elec_prop_book}
+R.~E. Hummel.
+\newblock {\em Electronic Properties of Materials}.
+\newblock Springer Science+Business Media, 2012.
+
 \bibitem{rev_49}
 M.~Ichiki, H.~Furue, T.~Kobayashi, R.~Maeda, Y.~Morikawa, T.~Nakada, and
   K.~Nonaka.
@@ -467,6 +484,11 @@ M.~E.~J. Newman and G.~T. Barkema.
 \newblock {\em The Ising Model and the Metropolis Algorithm}.
 \newblock Oxford University Press, 1999.
 
+\bibitem{newnham}
+R.~E. Newnham.
+\newblock {\em Dielectric Constant}.
+\newblock Oxford University Press, 2005.
+
 \bibitem{sus_book_5}
 U.~D. of~Energy.
 \newblock Energy efficiency and renewable energy: 2008 solar technologies
@@ -517,6 +539,12 @@ C.~Persson and A.~Zunger.
 \newblock {Compositionally induced valence-band offset at the grain boundary of
   polycrystalline chalcopyrites creates a hole barrier}.
 \newblock {\em Appl. Phys. Lett.}, 87(21):211904, 2005.
+
+\bibitem{mat_prop1}
+J.~Piprek.
+\newblock {\em Semiconductor Optoelectronic Devices: Introduction to Physics
+  and Simulation}.
+\newblock Elsevier Science, 2003.
 
 \bibitem{culprit_5}
 A.~Polizzotti, I.~L. Repins, R.~Noufi, S.-H. Wei, and D.~B. Mitzi.
@@ -783,6 +811,11 @@ Y.~Yuan, Z.~Xiao, B.~Yang, and J.~Huang.
 \bibitem{dielectric1}
 A.~A. Zaky and R.~Hawley.
 \newblock {\em Dielectric Solids}.
+\newblock Routledge \& Kegan Paul, Ltd, 1970.
+
+\bibitem{dielectric2}
+A.~A. Zaky and R.~Hawley.
+\newblock {\em Dielectrics in Static Fields}.
 \newblock Routledge \& Kegan Paul, Ltd, 1970.
 
 \bibitem{schottky_effect}

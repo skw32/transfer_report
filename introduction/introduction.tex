@@ -108,15 +108,6 @@ For an efficient solar cell, it is desirable to have a high $I_{SC}$, a high $V_
 A solar cell device consists of... (see Mirjana's thesis)
 
 \subsection{Key Properties for Solar Absorber Materials}\label{PV_properties}
-Refer to: pg 3 \cite{spatial_resolved_book}, pg 253 \cite{fund_semi}, pg 57 \cite{PV_Goetzberger}\\
-
-\begin{itemize}
-\item band gap
-\item absorption coefficient
-\item effective mass
-\item dielectric function (screening of defects + absorption coeff):   Why dielectric function is important - lower dielectric const in CZTS suggests electrostatic potential fluctuation is long ranged, material will be less `defect tolerant' - Look for textbook source!
-\end{itemize}
-Discussion of direct vs indirect band gap: Use e.g. of Si (flat band model + actual band structure), state that early figure is a simplification and use to discuss why Si is not ideal from indirect band gap, use rough calc from lecture? refer to later section on band theory for further discussion of electronic bands.\\
 
 \begin{figure}[h!]
   \centering
@@ -134,25 +125,44 @@ Discussion of direct vs indirect band gap: Use e.g. of Si (flat band model + act
 
 A solar (or photovoltaic) cell is an example of an optoelectronic device in which the solar absorber material of choice must allow for the manipulation of light, electrical current and their interaction. Metals are excellent electrical conductors, but do not allow light to travel inside. Glass and related dielectric materials can accommodate and guide light waves, as in electrical fibres, but are electrical insulators. Semiconductors are in between these two types of material as they can carry both electrical current as well as light waves. Furthermore, some semiconductors can be used to transform light into electrical current as discussed in the section above \cite{mat_prop1}. The two vital processes that must occur in a solar absorber material were also discussed above, which were: the excitation of an electron from the valence band into the conduction band in a semiconducting material by a photon and subsequent collection of the photoexcited charge carriers by an external circuit before the photoexcited electron-hole pair recombine. There are certain optical and electrical properties that are necessary for these processes to occur and then there are also certain properties that indicate how well a material is likely to perform in a solar cell device. In this section the band gap, effective mass, dielectric constant and absorption coefficient of a potential solar absorber material will be discussed.
 
-The most obvious necessary requirement for a solar absorber material is for it to be a semiconductor so that it possesses a band gap across which an electron can be excited. The value of this band gap must also be somewhere within the solar spectrum shown in figure \ref{solar_spectrum} so that sunlight can induce the photoexcitation of an electron-hole pair across the band gap. Secondly the material must allow for transport of charge carriers out of the absorber material and into a collection electrode and external circuit. Provided these necessary conditions are met, the material should exhibit the photovoltaic effect, but how well it will actually peform in a solar cell is determined by more stringent criteria and other material properties. Firstly the actual value of the band gap within the range of the solar spectrum is of importance. It is ideal for the value to be as close as possible to the region of photon energies that make up the majority of the solar spectrum. The optimal range for the band gap under typical radiation conditions is between 1.06 eV and 1.50 eV \cite{CZTS_book}. The limit of the power conversion efficiency (of incident photon energy to electrical energy) of a material based on its band gap was first calculated with Shockley and Quiesser in 1961 \cite{SQ_1961} and a plot of theoretical efficiency limit as a function of band gap is shown in figure \ref{SQ}.
+The most obvious necessary requirement for a solar absorber material is for it to be a semiconductor so that it possesses a band gap across which an electron can be excited. The value of this band gap must also be somewhere within the solar spectrum shown in figure \ref{solar_spectrum} so that sunlight can induce the photoexcitation of an electron-hole pair across the band gap. Secondly the material must allow for transport of charge carriers out of the absorber material and into a collection electrode and external circuit. Provided these necessary conditions are met and some sort of bias is applied to drive the separation of the electron-hole pair, the material should exhibit the photovoltaic effect. However, how well it will actually peform in a solar cell is determined by more stringent criteria and other material properties. Firstly the actual value of the band gap within the range of the solar spectrum is of importance. It is ideal for the value to be as close as possible to the region of photon energies that make up the majority of the solar spectrum. The optimal range for the band gap under typical radiation conditions is between 1.06 eV and 1.50 eV \cite{CZTS_book}. The limit of the power conversion efficiency (of incident photon energy to electrical energy) of a material based on its band gap was first calculated with Shockley and Quiesser in 1961 \cite{SQ_1961} and a plot of theoretical efficiency limit as a function of band gap is shown in figure \ref{SQ}.
 
-However, it is not only the value of the band gap that is of importance, whether the gap is direct or indirect is also of importance... e.g. of Si + calc from lectures
+However, it is not only the value of the band gap that is of importance, whether the gap is direct or indirect is also of importance... e.g. of Si vs GaAs + calc from lectures\\
 
-
-
-The band gap determines which photons can be absorbed by a material, but it does not predict how strongly that material will absorb them
-
-SLME + absorption coeff + dielectric const
-
-Discuss dielectric const as measure of defect tolerance?
-
-
-
-Effective mass and carrier collection? (refer to figs from section above)
+Another property of importance that can be derived from the band structure of a material is the effective mass... The effective mass is related to the curvature of the band at the top of the valence band or at the bottom of the conduction band
+Effective mass + band curvature and carrier collection? (refer to figs from section above) - can give some info on carrier mobility
 Effective mass and electrical conductivity discussion.
-Although certain thin-film technologies discussed towards the end of section \ref{current_tech}
+Although certain thin-film technologies discussed towards the end of section \ref{current_tech} reduce the amount of absorber material the charge carrier must trvel through before being collected.
+The effective masses of electrons or holes are the masses they seem to carry for transport properties.
 
 
+
+
+Materials with ionic or covalent bonding, or a mixture of the two, are usually either insulators or intrinsic semiconductors. Due to this type of bonding, electrons are bound to the atomic structure and so are unable to move throughout the material when an electric field is applied as in a metal. However, these materials can be polarized by an applied electric field where electrons are displaced relative to their nuclei by small distances. When an external electric field is applied, the positive and negative charges experience electric forces tending to move them apart in the direction of the external field so that their centres of gravity no longer coincide \cite{dielectric2}. The material is now said to be polarized and an electric displacement field ($\vec{D}$) appears within it. The applied field ($\vec{E}$) and displacement field are linked by the dielectric function of the material, $\epsilon_r$, as shown by equation \ref{displacement_field} \cite{dielectric_const1}, which is a function of the frequency of the applied field.
+\begin{equation} \label{displacement_field}
+\vec{D} = \epsilon_0 \epsilon_r \vec{E}
+\end{equation}
+The dielectric function indicates the ability of a material to screen the external electric field by the apparition of a polarization. In a solid, this polarization comes from the re-organization of the electronic density or from the motion the ions that make up the material. These two mechanisms are illustrated in figure \ref{dielectric}a and associated frequencies of the applied field to induce particular polarization responses are shown in figure \ref{dielectric}b. The contribution to the dielectric constant from the electronic density is denoted as $\epsilon_{\infty}$ and the contribution of ionic motions is denoted $\epsilon_{vib}$ in equation \ref{dielectric_const} \cite{dielectric_const1}, and is sometimes referred to as the static dielectric function.
+\begin{equation} \label{dielectric_const}
+\epsilon_{r} = \epsilon_{\infty} + \epsilon_{vib}
+\end{equation}
+
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.9\textwidth]{figures/dielectric.png}
+    \caption{Polarization mechanisms in a crystalline solid: response of electronic density and motion of ions (a), figure taken from \citenum{newnham}. Typical frequencies of applied electric field to induce polarization mechanisms, where the response at high frequencies is only that of the electronic density (b), figure adapted from reference \citenum{elec_prop_book}.}
+  \label{dielectric}
+\end{figure}
+
+The dielectric constant is an important material property for a photovoltaic material for a number of reasons. Firstly, the electrostatic force between an electron-hole pair is reduced when the static $\epsilon_r$ is larger \cite{dielectric_const1}. This, therefore, will reduce the recombination of electron-hole pairs in a material. Another aspect of this property important for photovoltaic materials is that it can improve the defect tolerance of the material, as in the majority of cases producing perfectly defect-free materials is impractical, if not impossible. The impact of defects in a material on photovoltaic performance will be discussed more in section \ref{defects_in_PV}, but for now it is just worth noting that defects can trap charge carriers, enhance electron-hole recombination (reducing carrier lifetimes in the material) and therefore have the overall effect of reducing charge collection from a PV device, thereby decreasing the efficiency of the conversion of incident photons into electrical current.
+In reference to modelling electronic transport in a material in the presence of defects, $\epsilon_r$ has been referred to as the most important property of the material \cite{defect_tolerance}. A higher dielectric constant indicates a greater ability to screen charge. The capture cross-section for charge carriers by a charged defect will therefore be influenced by the value of $\epsilon_r$ of the material \cite{defect_tolerance}. This property can therefore indicate how well photo-excited charge carriers will be transported through a defective photovoltaic material, towards an electrode for carrier collection and on to do electrical work.
+
+The imaginary, high-frequency dielectric function of a material is also important when considering how strong the onset of absorption is.
+
+The band gap determines which photons can be absorbed by a material, but it does not predict how strongly that material will absorb them. As solar absorber materials can only absorb photons with energies larger than the band gap of the material, these materials typically have an abrupt edge in its absorption coefficient, however the onset of absorption can be more or less strong for different materials.
+The absorption coefficient depends on both the particular material and the energy of the light being absorbed.
+
+SLME + absorption coeff + dielectric const?
 
 
 
