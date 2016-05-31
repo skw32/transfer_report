@@ -207,6 +207,11 @@ F.~I. for Solar Energy Systems~ISE.
 \newblock {\em Levelized Cost of Electricity Renewable Energy Technologies},
   2013 (Accessed on Aug 3, 2015).
 
+\bibitem{dielectric_func_book1}
+M.~Fox.
+\newblock {\em Optical Properties of Solids}.
+\newblock Oxford University Press, 2010.
+
 \bibitem{Fridkin}
 V.~Fridkin.
 \newblock {\em Photo-ferroelectrics}.
@@ -797,6 +802,12 @@ L.~Yu, R.~S. Kokenyesi, D.~a. Keszler, and A.~Zunger.
 \newblock {Inverse design of high absorption thin-film photovoltaic materials}.
 \newblock {\em Adv. Energy Mater.}, 3(1):43--48, 2013.
 
+\bibitem{SLME}
+L.~Yu and A.~Zunger.
+\newblock Identification of potential photovoltaic absorbers based on
+  first-principles spectroscopic screening of materials.
+\newblock {\em Phys. Rev. Lett.}, 108:068701, Feb 2012.
+
 \bibitem{fund_semi}
 P.~Y. Yu and M.~Cardona.
 \newblock {\em Electronic Band Structures}.
@@ -831,5 +842,10 @@ H.~Zhao and C.~Persson.
 \newblock {\em Thin Solid Films}, 519(21):7508 -- 7512, 2011.
 \newblock Proceedings of the \{EMRS\} 2010 Spring Meeting Symposium M: Thin
   Film Chalcogenide Photovoltaic Materials.
+
+\bibitem{absorption_coeff_book1}
+H.~Zimmermann.
+\newblock {\em Integrated Silicon Optoelectronics}.
+\newblock Springer, 2010.
 
 \end{thebibliography}
