@@ -384,6 +384,13 @@ J.~Kim, H.~Hiroi, T.~K. Todorov, O.~Gunawan, M.~Kuwahara, T.~Gokmen, D.~Nair,
   in2s3/cds emitter.
 \newblock {\em Advanced Materials}, 26(44):7427--7431, 2014.
 
+\bibitem{effective_mass1}
+B.~Kolb and A.~M. Kolpak.
+\newblock {First-Principles Design and Analysis of an Efficient, Pb-Free
+  Ferroelectric Photovoltaic Absorber Derived from
+  ZnSnO{\textless}inf{\textgreater}3{\textless}/inf{\textgreater}}.
+\newblock {\em Chem. Mater.}, 27(17):5899--5906, 2015.
+
 \bibitem{kosyak}
 V.~Kosyak, N.~B. {Mortazavi Amiri}, A.~V. Postnikov, and M.~A. Scarpulla.
 \newblock {Model of native point defect equilibrium in Cu2ZnSnS4 and
@@ -429,6 +436,11 @@ S.~Levcenko, V.~E. Tezlevan, E.~Arushanov, S.~Schorr, and T.~Unold.
   single crystals}.
 \newblock {\em Phys. Rev. B}, 86(4):045206, 2012.
 
+\bibitem{heavy_holes}
+S.~S. Li.
+\newblock {\em Semiconductor Physical Electronics}.
+\newblock Plenum Press, New York, 1993.
+
 \bibitem{new_FE_PV_1}
 M.~E. Lines and A.~M. Glass.
 \newblock Oxford University Press, 1977.
@@ -437,6 +449,11 @@ M.~E. Lines and A.~M. Glass.
 D.~Ltd.
 \newblock {\em What is Levelised Cost of Energy (LCOE)?}, 2011 (Accessed on Aug
   10, 2015).
+
+\bibitem{PV_bands_book}
+A.~Luque and S.~Hegedus.
+\newblock {\em Handbook of Photovoltaic Science and Engineering}.
+\newblock John Wiely \& Sons, Ltd, 2011.
 
 \bibitem{ores1}
 S.~Maske and B.~J. Skinner.
