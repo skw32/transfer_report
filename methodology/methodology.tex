@@ -3,16 +3,37 @@
 \section{Calculation of the Formation Energy of Defects in \CZTS}
 See Lany paper + Keith's posted paper + encyclopoedia of defects paper \\
 
-As discussed in section \ref{defects_in_PV}, defects in a solar absorber material can heavily impact on the performance of a photovoltaic device composed of that material. In this study we perform first principles calculations of two types of defects in the solar absorber material { \CZTS }. We firstly performed calculations of the formation energy of the charge neutral Cu-on-Zn and Zn-on-Cu anti-site defect pair, [$Cu_{Zn}^- + Zn_{Cu}^+$], in order to parameterize our Monte Carlo simulations of thermodynamic Cu-Zn disorder, which is discussed further in section \ref{MC_section}. We also begin calculations of the formation energy of a sulfur vacancy in { \CZTS }. This defect can however take on three different charge states: $V_{S}^{0}$, $V_{S}^{+1}$ and $V_{S}^{+2}$, where electron occupancy varies from two to one to none respectively. We will then go on to calculate the formation energy as a function of the sulfur chemical potential to determine which charge state has the minimum formation energy at typical annealing conditions of { \CZTS }, in terms of temperature and pressure. This methodology is outlined in section \ref{defect_section}. However, special correction techniques must be applied when performing periodic calculations to simulate a bulk system with a finite unit cell when the unit cell possesses a net charge. This point is discussed in section \ref{supercell_section}.
+As discussed in section \ref{defects_in_PV}, defects in a solar absorber material can heavily impact on the performance of a photovoltaic device composed of that material. In this study we perform first principles calculations of two types of defects in the solar absorber material { \CZTS }. We firstly performed calculations of the formation energy of the charge neutral Cu-on-Zn and Zn-on-Cu anti-site defect pair, [$Cu_{Zn}^- + Zn_{Cu}^+$], in order to parameterize our Monte Carlo simulations of thermodynamic Cu-Zn disorder, which will be discussed further in section \ref{MC_section}. We also begin calculations of the formation energy of a sulfur vacancy in { \CZTS }. This defect can however take on three different charge states: $V_{S}^{0}$, $V_{S}^{+1}$ and $V_{S}^{+2}$, where electron occupancy varies from two to one to none respectively. We will then go on to calculate the formation energy as a function of the sulfur chemical potential to determine which charge state has the minimum formation energy at typical annealing conditions of { \CZTS }, in terms of temperature and pressure. This methodology is outlined in section \ref{defect_section}. However, special correction techniques must be applied when performing periodic calculations to simulate a bulk system with a finite unit cell when the unit cell possesses a net charge. This point is discussed in section \ref{supercell_section}.
+
+
+\cite{defects_tutorial}
+
 
 
 \subsection{Density Functional Theory \& Hybrid Functionals}\label{DFT_section}
-See Bechstedt book \cite{Bechstedt} + figures from Aron + discuss band gap underestimation in standard DFT (GGA mentioned during intro, also discuss GGA+U and limitations)\\
+Density functional theory (DFT) has been referred to as the most powerful method for assessing the properties of defects in materials \cite{defects_tutorial}. + refer to DFT in materials science paper?\\
 
-The description of the electrons in a system requires the use of QM... outline of standard DFT... situations in which standard DFT fails and why we need to use hybrid-DFT.
+The description of the electrons in a system requires the use of QM... outline of standard DFT...(explicitly introduce LDA and GGA)\\
+
+\begin{itemize}
+\item See Bechstedt book \cite{Bechstedt} + figures from Aron
+\item discuss band gap underestimation in standard DFT (GGA mentioned during intro, also discuss GGA+U and limitations
+\end{itemize}
+
+DFT calculations typically yield reliable information about the atomic structure of defective systems, including relaxation of the host atoms. However the electronic structure has proved to be a greater challenge \cite{defects_tutorial}. Traditional functionals such as the LDA and GGA used in standard DFT, which were outlined above, severely underestimate band gaps of semiconductors and insulators, which then leads to large uncertainties in the position of defect levels. This issue can be addressed by going beyond standard DFT, such as by making use of many-body perturbation theory, where the GW approach is typically used \cite{defects_tutorial_19}. This method however is usually computationally expensive and difficult to implement self-consistently, so it is usually used to address the electronic structure only when used on top of atomic structures obtained from DFT \cite{defects_tutorial_20, defects_tutorial_21}, which is often denoted as DFT@G0W0 **CHECK** \cite{defects_tutorial}.
+
+Hybrid functionals are another powerful way to overcome the limitations of standard DFT, they mix ... screened...
+Hybrid functionals firstly have been round to produce band structures and band gaps in much better agreement with experiment, but also provide much more reliable description of charge localization, which is necessary to accurately model low symmetry defects or structures that give rise to polaron formation. Whereas standard DFT suffers from the self interaction error where ...
+In particular, the screened hybrid functional of Heyd, Scuseria, and Ernzerhof (HSE) \cite{HSE} has proven reliable to predict formation energies and transition levels of native defects and impurities \cite{defects_tutorial}
+
+Brief outline of hybrid DFT...
+
 
 \subsection{The Supercell Method \& Corrections for Charged Defects}\label{supercell_section}
-see Aron's lectures + DFT in materials science paper \cite{DFT_in_mat}
+see Aron's lectures + DFT in materials science paper \cite{DFT_in_mat} + Lany paper\\
+
+Another important advance has been the ability to cor-
+rect for errors that arise from the use of supercells to describe charged defects. While these supercells can typically be made large enough to minimize interactions between a neu- tral defect and its mirror images, the long range of the Coulomb interaction renders this essentially impossible in the case of charged defects. Explicit correction schemes are therefore essential, and a supercell-size correction scheme based on the rigorous treatment of electrostatics was described in Refs. 31 and 32. \cite{defects_tutorial}
 
 
 \subsection{Defect Formation Energy \& Equilibrium Concentration}\label{defect_section}
@@ -128,14 +149,15 @@ In this study therefore we scale the interaction energy, $I_{interaction}$, in t
 \begin{itemize}
 \item Brief overview of what an RDF is
 \item See new lab book and make figures to explain
-\item Reproducing GS
-\item Cu-Zn RDF first peak to describe Cu Zn Cu layer
-\item Cu-Sn RDF first peak to describeCu Sn Cu layer
+\item Reproducing GS: Cu-Zn RDF first peak to describe Cu Zn Cu layer, Cu-Sn RDF first peak to describe Cu Sn Cu layer nearest neighbours
+\item Using RDFs from initial, perfectly ordered system as a reference point: Cu-Sn and Cu-Zn perfectly overlayed, but expect to separate with disorder. First peak (near-neighbours) for Cu-Sn should remain same as Sn is fixed, but Cu-Zn first peak will change as will subsequent peaks for both.
+\item Need to normalize to recover coordination number for first peak?
+\item Increasing intensity of new nearest neighbour Cu-Cu and Zn-Zn peaks for disordered systems with increasing disorder
 \end{itemize}
 
 
 \subsection{Band Tailing from the Distribution of Electrostatic Potential}
-
+May later move this to further work so methodology not necessary? + need to alter end of intro section on CZTS performance bottlenecks
 
 
 
@@ -144,5 +166,10 @@ In this study therefore we scale the interaction energy, $I_{interaction}$, in t
 
 
 \section{Calculation of Optoelectronic Properties of Candidate Solar Absorber Materials}\label{properties_methods}
+\begin{itemize}
+\item Hybrid geometry optimization with lattice fixed (but ions allowed to relax), starting from high quality XRD data and our own for stephanite performed by Prof Mark Weller (refer to original sources)
+\item Hybrid band structure calculations with FHI-aims
+\item Calculation of effective masses?
+\end{itemize}
 
                             

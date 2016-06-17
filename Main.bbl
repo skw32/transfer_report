@@ -1,10 +1,19 @@
 \begin{thebibliography}{100}
 
+\bibitem{defects_tutorial_20}
+0.
+
 \bibitem{culprit_2}
 T.~Abzieher, T.~Schnabel, M.~Hetterich, M.~Powalla, and E.~Ahlswede.
 \newblock {Source and effects of sodium in solution-processed kesterite solar
   cells}.
 \newblock {\em Phys. Status Solidi}, 11:n/a--n/a, 2015.
+
+\bibitem{defects_tutorial}
+A.~Alkauskas, M.~D. McCluskey, and C.~G. {Van de Walle}.
+\newblock {Tutorial: Defects in semiconductors—Combining experiment and
+  theory}.
+\newblock {\em Journal of Applied Physics}, 119(18):181101, 2016.
 
 \bibitem{AshcroftMermin2}
 N.~Ashcroft and N.~Mermin.
@@ -148,6 +157,11 @@ S.~Chen, J.-H. Yang, X.~G. Gong, A.~Walsh, and S.-H. Wei.
 \newblock {Intrinsic point defects and complexes in the quaternary kesterite
   semiconductor $Cu_2ZnSnS_4$}.
 \newblock {\em Physical Review B}, 81(24):245204, June 2010.
+
+\bibitem{defects_tutorial_21}
+W.~Chen and A.~Pasquarello.
+\newblock {}.
+\newblock {\em J Phys: Condens Matt}, 27:133202, 2015.
 
 \bibitem{FE_PV_rev1_83}
 W.~S. Choi, M.~F. Chisholm, D.~J. Singh, T.~Choi, G.~E. Jellison, and H.~N.
@@ -310,6 +324,11 @@ C.~Honsberg and S.~Bowden.
 R.~E. Hummel.
 \newblock {\em Electronic Properties of Materials}.
 \newblock Springer Science+Business Media, 2012.
+
+\bibitem{defects_tutorial_19}
+M.~S. Hybertsen and S.~G. Louie.
+\newblock {}.
+\newblock {\em Phys Rev B}, 34:5390, 1986.
 
 \bibitem{rev_49}
 M.~Ichiki, H.~Furue, T.~Kobayashi, R.~Maeda, Y.~Morikawa, T.~Nakada, and
