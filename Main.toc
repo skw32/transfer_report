@@ -29,24 +29,24 @@
 \contentsline {subsection}{\numberline {3.1.3}Defect Formation Energy \& Equilibrium Concentration}{59}
 \contentsline {section}{\numberline {3.2}Monte Carlo Simulation of Thermodynamic Disorder in Cu$_2$ZnSnS$_4$}{60}
 \contentsline {subsection}{\numberline {3.2.1}Mapping the Crystal Structure of { Cu$_2$ZnSnS$_4$} onto a Simple Lattice}{60}
-\contentsline {subsection}{\numberline {3.2.2}Monte Carlo Simulation with the Metropolis Algorithm}{61}
-\contentsline {subsection}{\numberline {3.2.3}Equilibration \& Finite Size Effects}{64}
-\contentsline {subsection}{\numberline {3.2.4}Multi-Scale Approach with Density Functional Theory}{67}
-\contentsline {subsection}{\numberline {3.2.5}Quantification of Disorder Using Radial Distribution Functions}{68}
-\contentsline {subsection}{\numberline {3.2.6}Band Tailing from the Distribution of Electrostatic Potential}{68}
-\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{69}
-\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of Candidate Solar Absorber Materials}{69}
-\contentsline {chapter}{\numberline {4}Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{70}
-\contentsline {section}{\numberline {4.1}Thermodynamic Disordering of Cu \& Zn Ions in Cu$_2$ZnSnS$_4$}{70}
-\contentsline {subsection}{\numberline {4.1.1}Spatial Extent of Disorder Amongst Cu and Zn Cations}{70}
-\contentsline {subsection}{\numberline {4.1.2}Band Tailing due to Fluctuations in Electrostatic Potential}{70}
-\contentsline {section}{\numberline {4.2}Formation Energy of Sulfur Vacancies}{70}
-\contentsline {section}{\numberline {4.3}Intrinsic Band Gap Broadening from Lattice Vibrations}{71}
-\contentsline {chapter}{\numberline {5}Optoelectronic Properties of Sulfosalt Materials}{72}
-\contentsline {section}{\numberline {5.1}Band Structures \& Band Gaps}{72}
-\contentsline {section}{\numberline {5.2}Effective Masses}{72}
-\contentsline {chapter}{\numberline {6}Conclusions}{73}
-\contentsline {section}{\numberline {6.1}Performance Bottlenecks of {Cu$_2$ZnSnS$_4$} Solar Cells}{73}
-\contentsline {section}{\numberline {6.2}Potential of Sulfosalt Materials for Solar Cell Devices}{73}
-\contentsline {section}{\numberline {6.3}Future Work}{73}
-\contentsline {chapter}{Bibliography}{74}
+\contentsline {subsection}{\numberline {3.2.2}Monte Carlo Simulation with the Metropolis Algorithm}{62}
+\contentsline {subsection}{\numberline {3.2.3}Equilibration \& Finite Size Effects}{65}
+\contentsline {subsection}{\numberline {3.2.4}Multi-Scale Approach with Density Functional Theory}{68}
+\contentsline {subsection}{\numberline {3.2.5}Quantification of Disorder Using Radial Distribution Functions}{69}
+\contentsline {subsection}{\numberline {3.2.6}Band Tailing from the Distribution of Electrostatic Potential}{69}
+\contentsline {section}{\numberline {3.3}Calculation of Intrinsic Band Gap Broadening in Cu$_2$ZnSnS$_4$}{70}
+\contentsline {section}{\numberline {3.4}Calculation of Optoelectronic Properties of Candidate Solar Absorber Materials}{70}
+\contentsline {chapter}{\numberline {4}Performance Bottlenecks in Cu$_2$ZnSnS$_4$}{71}
+\contentsline {section}{\numberline {4.1}Thermodynamic Disordering of Cu \& Zn Ions in Cu$_2$ZnSnS$_4$}{71}
+\contentsline {subsection}{\numberline {4.1.1}Spatial Extent of Disorder Amongst Cu and Zn Cations}{71}
+\contentsline {subsection}{\numberline {4.1.2}Band Tailing due to Fluctuations in Electrostatic Potential}{71}
+\contentsline {section}{\numberline {4.2}Formation Energy of Sulfur Vacancies}{71}
+\contentsline {section}{\numberline {4.3}Intrinsic Band Gap Broadening from Lattice Vibrations}{72}
+\contentsline {chapter}{\numberline {5}Optoelectronic Properties of Sulfosalt Materials}{73}
+\contentsline {section}{\numberline {5.1}Band Structures \& Band Gaps}{73}
+\contentsline {section}{\numberline {5.2}Effective Masses}{73}
+\contentsline {chapter}{\numberline {6}Conclusions}{74}
+\contentsline {section}{\numberline {6.1}Performance Bottlenecks of {Cu$_2$ZnSnS$_4$} Solar Cells}{74}
+\contentsline {section}{\numberline {6.2}Potential of Sulfosalt Materials for Solar Cell Devices}{74}
+\contentsline {section}{\numberline {6.3}Future Work}{74}
+\contentsline {chapter}{Bibliography}{75}
