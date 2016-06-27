@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  27 JUN 2016 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  27 JUN 2016 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -635,256 +635,251 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--235
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 236--238
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 239--245
 
  []
 
-[24]
+
 Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
-
-Underfull \vbox (badness 3579) has occurred while \output is active []
-
- [25]
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
 <figures/CZTS_cell.png, id=178, 547.8066pt x 358.941pt>
 File: figures/CZTS_cell.png Graphic file (type png)
 
 <use figures/CZTS_cell.png>
-Package pdftex.def Info: figures/CZTS_cell.png used on input line 255.
+Package pdftex.def Info: figures/CZTS_cell.png used on input line 258.
 (pdftex.def)             Requested size: 338.58632pt x 221.86195pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--263
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
 
  []
 
-[26] <figures/kesterite_bottlenecks.png, id=183, 434.37282pt x 384.6872pt>
+[26 <./figures/CZTS_cell.png>]
+<figures/kesterite_bottlenecks.png, id=184, 434.37282pt x 384.6872pt>
 File: figures/kesterite_bottlenecks.png Graphic file (type png)
 
 <use figures/kesterite_bottlenecks.png>
 Package pdftex.def Info: figures/kesterite_bottlenecks.png used on input line 2
-66.
+69.
 (pdftex.def)             Requested size: 362.77264pt x 321.2919pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/Voc.png, id=184, 776.9025pt x 619.31375pt>
+<figures/Voc.png, id=185, 776.9025pt x 619.31375pt>
 File: figures/Voc.png Graphic file (type png)
  <use figures/Voc.png>
-Package pdftex.def Info: figures/Voc.png used on input line 273.
+Package pdftex.def Info: figures/Voc.png used on input line 276.
 (pdftex.def)             Requested size: 411.14528pt x 327.75278pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--281
+Underfull \hbox (badness 10000) in paragraph at lines 281--284
 
  []
 
-
-Underfull \vbox (badness 4899) has occurred while \output is active []
-
- [27 <./figures/CZTS_cell.png>]
+[27 <./figures/kesterite_bottlenecks.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28 <./figures/kesterite_bottlenecks.png>]
-<figures/CZTS_PL.png, id=193, 468.7914pt x 367.1316pt>
+ [28 <./figures/Voc.png>] <figures/CZTS_PL.png, id=194, 468.7914pt x 367.1316pt
+>
 File: figures/CZTS_PL.png Graphic file (type png)
 
 <use figures/CZTS_PL.png>
-Package pdftex.def Info: figures/CZTS_PL.png used on input line 284.
+Package pdftex.def Info: figures/CZTS_PL.png used on input line 287.
 (pdftex.def)             Requested size: 338.58632pt x 265.16364pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29 <./figures/Voc.png>] <figures/SRH.png, id=199, 402.7848pt x 382.0674pt>
+ <figures/SRH.png, id=195, 402.7848pt x 382.0674pt>
 File: figures/SRH.png Graphic file (type png)
 
 <use figures/SRH.png>
-Package pdftex.def Info: figures/SRH.png used on input line 291.
+Package pdftex.def Info: figures/SRH.png used on input line 294.
 (pdftex.def)             Requested size: 217.66211pt x 206.46489pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--298
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
-[30 <./figures/CZTS_PL.png> <./figures/SRH.png>]
-<figures/band_tail_fig.png, id=205, 645.41125pt x 277.035pt>
+[29 <./figures/CZTS_PL.png>]
+<figures/band_tail_fig.png, id=201, 645.41125pt x 277.035pt>
 File: figures/band_tail_fig.png Graphic file (type png)
 
 <use figures/band_tail_fig.png>
-Package pdftex.def Info: figures/band_tail_fig.png used on input line 301.
+Package pdftex.def Info: figures/band_tail_fig.png used on input line 304.
 (pdftex.def)             Requested size: 435.32422pt x 186.85527pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `defect_sections' on page 31 undefined on input line 3
-06.
+LaTeX Warning: Reference `defect_sections' on page 30 undefined on input line 3
+09.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
 
  []
 
-
-Underfull \vbox (badness 3579) has occurred while \output is active []
-
- [31]
-[32 <./figures/band_tail_fig.png>]
-<figures/Chen_pt_formE.png, id=213, 557.08125pt x 618.31pt>
+[30 <./figures/SRH.png>] [31 <./figures/band_tail_fig.png>]
+<figures/Chen_pt_formE.png, id=210, 557.08125pt x 618.31pt>
 File: figures/Chen_pt_formE.png Graphic file (type png)
 
 <use figures/Chen_pt_formE.png>
-Package pdftex.def Info: figures/Chen_pt_formE.png used on input line 313.
+Package pdftex.def Info: figures/Chen_pt_formE.png used on input line 316.
 (pdftex.def)             Requested size: 386.95897pt x 429.50249pt.
 
-<figures/Chen_pt_E-level.png, id=214, 607.26875pt x 334.24875pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/Chen_pt_E-level.png, id=211, 607.26875pt x 334.24875pt>
 File: figures/Chen_pt_E-level.png Graphic file (type png)
 
 <use figures/Chen_pt_E-level.png>
-Package pdftex.def Info: figures/Chen_pt_E-level.png used on input line 320.
+Package pdftex.def Info: figures/Chen_pt_E-level.png used on input line 323.
 (pdftex.def)             Requested size: 386.95897pt x 212.99022pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/Chen_cluster_formE.png, id=215, 636.3775pt x 581.17125pt>
+<figures/Chen_cluster_formE.png, id=212, 636.3775pt x 581.17125pt>
 File: figures/Chen_cluster_formE.png Graphic file (type png)
 
 <use figures/Chen_cluster_formE.png>
-Package pdftex.def Info: figures/Chen_cluster_formE.png used on input line 327.
+Package pdftex.def Info: figures/Chen_cluster_formE.png used on input line 330.
 
 (pdftex.def)             Requested size: 386.95897pt x 353.38771pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/Chen_cluster_E-level.png, id=216, 483.8075pt x 403.5075pt>
+<figures/Chen_cluster_E-level.png, id=213, 483.8075pt x 403.5075pt>
 File: figures/Chen_cluster_E-level.png Graphic file (type png)
 
 <use figures/Chen_cluster_E-level.png>
 Package pdftex.def Info: figures/Chen_cluster_E-level.png used on input line 33
-4.
+7.
 (pdftex.def)             Requested size: 338.58632pt x 282.3979pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--343
-
- []
-
-[33 <./figures/Chen_pt_formE.png>]
-
-Package natbib Warning: Citation `PVTEAM_paper' on page 34 undefined on input l
-ine 344.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--348
-
- []
-
-
-Underfull \vbox (badness 2478) has occurred while \output is active []
-
- [34 <./figures/Chen_pt_E-level.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35 <./figures/Chen_cluster_formE.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 354--359
-
- []
-
-[36 <./figures/Chen_cluster_E-level.png>]
-<figures/venn_diagram.png, id=234, 409.53pt x 298.716pt>
-File: figures/venn_diagram.png Graphic file (type png)
-
-<use figures/venn_diagram.png>
-Package pdftex.def Info: figures/venn_diagram.png used on input line 362.
-(pdftex.def)             Requested size: 241.84843pt x 176.40955pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--370
-
- []
-
-[37 <./figures/venn_diagram.png>]
-<figures/abundance.png, id=239, 608.9952pt x 429.2838pt>
-File: figures/abundance.png Graphic file (type png)
-
-<use figures/abundance.png>
-Package pdftex.def Info: figures/abundance.png used on input line 373.
-(pdftex.def)             Requested size: 338.58632pt x 238.67455pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--381
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
 
  []
 
 
 Underfull \vbox (badness 3579) has occurred while \output is active []
 
- [38]
-<figures/unit_cells.png, id=243, 722.7pt x 317.5062pt>
-File: figures/unit_cells.png Graphic file (type png)
+ [32]
 
-<use figures/unit_cells.png>
-Package pdftex.def Info: figures/unit_cells.png used on input line 384.
-(pdftex.def)             Requested size: 483.69687pt x 212.50517pt.
+Package natbib Warning: Citation `PVTEAM_paper' on page 33 undefined on input l
+ine 347.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 390.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 389--392
+Underfull \hbox (badness 10000) in paragraph at lines 347--351
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39 <./figures/abundance.png>]
-Underfull \vbox (badness 7186) has occurred while \output is active []
-
- [40 <./figures/unit_cells.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 393--397
+ [33 <./figures/Chen_pt_formE.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 357--362
 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34 <./figures/Chen_pt_E-level.png>]
+Underfull \vbox (badness 1024) has occurred while \output is active []
+
+ [35 <./figures/Chen_cluster_formE.png>]
+<figures/venn_diagram.png, id=230, 409.53pt x 298.716pt>
+File: figures/venn_diagram.png Graphic file (type png)
+
+<use figures/venn_diagram.png>
+Package pdftex.def Info: figures/venn_diagram.png used on input line 365.
+(pdftex.def)             Requested size: 241.84843pt x 176.40955pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--373
+
+ []
+
+
+Underfull \vbox (badness 1117) has occurred while \output is active []
+
+ [36 <./figures/Chen_cluster_E-level.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37 <./figures/venn_diagram.png>]
+<figures/abundance.png, id=239, 608.9952pt x 429.2838pt>
+File: figures/abundance.png Graphic file (type png)
+
+<use figures/abundance.png>
+Package pdftex.def Info: figures/abundance.png used on input line 376.
+(pdftex.def)             Requested size: 338.58632pt x 238.67455pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--384
+
+ []
+
+[38 <./figures/abundance.png>]
+<figures/unit_cells.png, id=244, 722.7pt x 317.5062pt>
+File: figures/unit_cells.png Graphic file (type png)
+
+<use figures/unit_cells.png>
+Package pdftex.def Info: figures/unit_cells.png used on input line 387.
+(pdftex.def)             Requested size: 483.69687pt x 212.50517pt.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 393.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--395
+
+ []
+
+[39 <./figures/unit_cells.png>]
+
+LaTeX Warning: Reference `SOC_section' on page 40 undefined on input line 398.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--400
+
+ []
+
+
+Underfull \vbox (badness 3579) has occurred while \output is active []
+
+ [40]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 399.
+               Default added (so using `tbp') on input line 402.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--419
+Underfull \hbox (badness 10000) in paragraph at lines 421--424
 
  []
 
-[41]) (./background/background.tex [42]
+) (./background/background.tex [41]
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
@@ -901,15 +896,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
-[43
+[42
 
-] <figures/Wigner-Seitz.png, id=262, 399.4122pt x 205.2468pt>
+] <figures/Wigner-Seitz.png, id=259, 399.4122pt x 205.2468pt>
 File: figures/Wigner-Seitz.png Graphic file (type png)
 
 <use figures/Wigner-Seitz.png>
 Package pdftex.def Info: figures/Wigner-Seitz.png used on input line 17.
 (pdftex.def)             Requested size: 241.84843pt x 124.2796pt.
- [44 <./figures/Wigner-Seitz.png>]
+ [43 <./figures/Wigner-Seitz.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
@@ -919,7 +914,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-<figures/band_Elevels.png, id=268, 722.7pt x 275.5896pt>
+<figures/band_Elevels.png, id=265, 722.7pt x 275.5896pt>
 File: figures/band_Elevels.png Graphic file (type png)
 
 <use figures/band_Elevels.png>
@@ -929,15 +924,15 @@ Package pdftex.def Info: figures/band_Elevels.png used on input line 33.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[45]
+[44]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46 <./figures/band_Elevels.png>]
+ [45 <./figures/band_Elevels.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 54--56
 
  []
 
-<figures/bs1.png, id=278, 690.4194pt x 388.8126pt>
+<figures/bs1.png, id=274, 690.4194pt x 388.8126pt>
 File: figures/bs1.png Graphic file (type png)
  <use figures/bs1.png>
 Package pdftex.def Info: figures/bs1.png used on input line 59.
@@ -947,12 +942,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-[47 <./figures/bs1.png>]
+[46 <./figures/bs1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
-<figures/energy_dispersion.png, id=283, 508.7808pt x 332.442pt>
+<figures/energy_dispersion.png, id=280, 508.7808pt x 332.442pt>
 File: figures/energy_dispersion.png Graphic file (type png)
 
 <use figures/energy_dispersion.png>
@@ -963,14 +958,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[48 <./figures/energy_dispersion.png>]
-<figures/bs2.png, id=288, 638.8668pt x 410.9754pt>
+[47 <./figures/energy_dispersion.png>]
+<figures/bs2.png, id=285, 638.8668pt x 410.9754pt>
 File: figures/bs2.png Graphic file (type png)
  <use figures/bs2.png>
 Package pdftex.def Info: figures/bs2.png used on input line 80.
 (pdftex.def)             Requested size: 338.58632pt x 217.80965pt.
 
-[49 <./figures/bs2.png>]
+[48 <./figures/bs2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
@@ -991,13 +986,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
-[50]
+[49]
 
-Package natbib Warning: Citation `characterization_book' on page 51 undefined o
+Package natbib Warning: Citation `characterization_book' on page 50 undefined o
 n input line 114.
 
 
-Package natbib Warning: Citation `Gerschon' on page 51 undefined on input line 
+Package natbib Warning: Citation `Gerschon' on page 50 undefined on input line 
 114.
 
 
@@ -1005,7 +1000,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-[51]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
@@ -1015,47 +1010,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
-[52]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--194
-
- []
-
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 195--199
-
- []
-
-
-Underfull \vbox (badness 1259) has occurred while \output is active []
-
- [54]
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 202--205
-
- []
-
-[55]) (./methodology/methodology.tex [56]
+) (./methodology/methodology.tex [52]
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[57
+[53
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
@@ -1067,12 +1039,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-[58]
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
-<figures/CZTS_lattice_mapping.png, id=322, 330.5148pt x 251.0178pt>
+<figures/CZTS_lattice_mapping.png, id=309, 330.5148pt x 251.0178pt>
 File: figures/CZTS_lattice_mapping.png Graphic file (type png)
 
 <use figures/CZTS_lattice_mapping.png>
@@ -1082,12 +1054,12 @@ Package pdftex.def Info: figures/CZTS_lattice_mapping.png used on input line 50
 
 Underfull \vbox (badness 3148) has occurred while \output is active []
 
- [59]
+ [55]
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-<figures/eris_config_eg.png, id=326, 677.8926pt x 280.4076pt>
+<figures/eris_config_eg.png, id=313, 677.8926pt x 280.4076pt>
 File: figures/eris_config_eg.png Graphic file (type png)
 
 <use figures/eris_config_eg.png>
@@ -1102,8 +1074,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-[60 <./figures/CZTS_lattice_mapping.png>]
-<figures/unit_cell_eris_supercell.png, id=331, 545.8794pt x 295.8252pt>
+[56 <./figures/CZTS_lattice_mapping.png>]
+<figures/unit_cell_eris_supercell.png, id=318, 545.8794pt x 295.8252pt>
 File: figures/unit_cell_eris_supercell.png Graphic file (type png)
 
 <use figures/unit_cell_eris_supercell.png>
@@ -1113,11 +1085,11 @@ e 68.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61 <./figures/eris_config_eg.png>]
+ [57 <./figures/eris_config_eg.png>]
 
 LaTeX Warning: Command \r invalid in math mode on input line 75.
 
-<figures/CZTS_lattice_scaling.png, id=336, 705.837pt x 468.3096pt>
+<figures/CZTS_lattice_scaling.png, id=323, 705.837pt x 468.3096pt>
 File: figures/CZTS_lattice_scaling.png Graphic file (type png)
 
 <use figures/CZTS_lattice_scaling.png>
@@ -1128,14 +1100,14 @@ Package pdftex.def Info: figures/CZTS_lattice_scaling.png used on input line 79
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[62 <./figures/unit_cell_eris_supercell.png>]
+[58 <./figures/unit_cell_eris_supercell.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63 <./figures/CZTS_lattice_scaling.png>]
+ [59 <./figures/CZTS_lattice_scaling.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
-[65] <figures/ising_equil.png, id=356, 669.702pt x 273.6624pt>
+ [60]
+[61] <figures/ising_equil.png, id=343, 669.702pt x 273.6624pt>
 File: figures/ising_equil.png Graphic file (type png)
 
 <use figures/ising_equil.png>
@@ -1145,7 +1117,7 @@ Package pdftex.def Info: figures/ising_equil.png used on input line 133.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[66] <figures/MC_PBCs.png, id=360, 308.15125pt x 329.23pt>
+[62] <figures/MC_PBCs.png, id=347, 308.15125pt x 329.23pt>
 File: figures/MC_PBCs.png Graphic file (type png)
 
 <use figures/MC_PBCs.png>
@@ -1158,41 +1130,41 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67 <./figures/ising_equil.png>]
+ [63 <./figures/ising_equil.png>]
 
 LaTeX Warning: Command \r invalid in math mode on input line 154.
 
 
 Underfull \vbox (badness 1038) has occurred while \output is active []
 
- [68 <./figures/MC_PBCs.png>] [69]) (./results/project1_results.tex [70]
+ [64 <./figures/MC_PBCs.png>] [65]) (./results/project1_results.tex [66]
 Chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-[71
+[67
 
-] <figures/V_S-neutral-PARCHG.png, id=379, 653.3208pt x 350.7504pt>
+] <figures/V_S-neutral-PARCHG.png, id=366, 653.3208pt x 350.7504pt>
 File: figures/V_S-neutral-PARCHG.png Graphic file (type png)
 
 <use figures/V_S-neutral-PARCHG.png>
 Package pdftex.def Info: figures/V_S-neutral-PARCHG.png used on input line 19.
 (pdftex.def)             Requested size: 435.32422pt x 233.71172pt.
-) (./results/project2_results.tex [72 <./figures/V_S-neutral-PARCHG.png>]
+) (./results/project2_results.tex [68 <./figures/V_S-neutral-PARCHG.png>]
 Chapter 5.
-) (./conclusion/conclusion.tex [73
+) (./conclusion/conclusion.tex [69
 
 ]
 Chapter 6.
-[74
+[70
 
-]) (./Main.bbl [75]
+]) (./Main.bbl [71]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
- [76
+ [72
 
 ]
 Missing character: There is no â in font cmr12!
@@ -1202,14 +1174,14 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no „ in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no ‡ in font cmr12!
- [77] [78]
+ [73] [74]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ‘ in font cmr12!
- [79] [80] [81]
+ [75] [76] [77]
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 410.
 
 
@@ -1218,36 +1190,36 @@ File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 410.
- [82]
+ [78]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [83]
-[84]
+ [79]
+[80]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [85]
+ [81]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no  in font cmr12!
- [86] [87] [88])
+ [82] [83] [84])
 
 Package natbib Warning: There were undefined citations.
 
-[89] (./Main.aux)
+[85] (./Main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4157 strings out of 493117
- 60578 string characters out of 6135433
- 126712 words of memory out of 5000000
- 7458 multiletter control sequences out of 15000+600000
+ 4156 strings out of 493117
+ 60563 string characters out of 6135433
+ 124686 words of memory out of 5000000
+ 7457 multiletter control sequences out of 15000+600000
  16555 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,14n,27p,2017b,910s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1268,10 +1240,10 @@ e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (104 pages, 13449433 bytes).
+Output written on Main.pdf (100 pages, 13440814 bytes).
 PDF statistics:
- 496 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
+ 483 PDF objects out of 1000 (max. 8388607)
+ 286 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
