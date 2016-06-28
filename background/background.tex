@@ -3,7 +3,7 @@
 
 \label{ch:background}
 
-\section{Models of Perfect Periodic Crystal Structures}
+\section{Models of Perfect Periodic Crystal Structures}\label{perfect_periodic}
 Refer to: pg 28 29 35 \cite{thin_film_Boer}\\
 
 Theoretical models of crystalline solids are based around the existence of translational symmetry in a crystal lattice such that the lattice can be constructed by periodically repeating a unit cell of atoms. The Bravais lattice specifies the periodic array in which the repeated units of the crystal are arranged. A crystal lattice can therefore be described by its underlying Bravais lattice and the arrangement of atoms, ions or molecules within a particular unit cell, i.e. the basis \cite{AshcroftMermin2}. This principle is used in a number of ways during this study. Firstly, this process is performed on a finite scale to construct a 64 atom supercell of CZTS from the 8 atom primitive unit cell for use in density functional theory (DFT) calculations to predict defect formation energy. This process is discussed further in section \ref{supercell_section}. The principle is also used in all DFT calculations of solid state systems through the implementation of periodic boundary conditions to simulate an infinite, bulk system using only a finite unit cell.\\
@@ -73,7 +73,57 @@ Electron wavefunctions will be almost identical for values of $\mathbf{k}$ that 
   \label{energy_dispersion}
 \end{figure}
 
-The energy band model has been successful in explaining many aspects of the behaviour of solids and a large amount of experimental data collected has supported the theoretical predictions made using the model. Its main drawback however is that is assumes a perfect, or nearly perfect, crystal lattice. It applies well to single crystals and polycrystalline substances, but cannot be applied to materials that are amorphous or heavily disordered so that the structure deviates significantly from the periodicity of the crystal \cite{small_semiconductor1}. Low concentrations of impurities and defects can be modelled by considering, for example, the introduction of additional donor and acceptor energy levels within the band gap of a material and the scattering of electrons and holes in the solid. However, at higher defect concentrations the band profile can be modified as shown in figure \ref{bs2} to give rise to conductivity even at temperatures that are too low to produce excitation of carriers into the free conduction bands, called impurity band conduction \cite{small_semiconductor2}.\\
+A useful concept used to simplify the dynamics of an electron in a crystal lattice in the band theory of solids is that of effective mass, which was first mentioned in section \ref{PV_properties} as a key material property for a solar absorber material. The effective mass is a convenient parameter which accounts for the influence of a periodic lattice on a free carrier, enabling an electron in a periodic crystal to be treated as though it were a free particle but with a different mass in calculations of charge transport. Values of effective mass in semiconductors usually vary between 0.01 and 1 times the mass of a free electron and it is determined by the curvature of the energy graph in \textit{k}-vector space \cite{small_semiconductor2}. The effective mass is a parameter that can influence the efficiency of a solar cell, in particular, the effective mass of holes in the valence band and electrons in the conduction band (i.e. minority charge carriers) are of interest. The mobility of charge carriers is inversely proportional to the effective mass and the mobility of charge carriers in a PV material is important for efficient charge collection \cite{transport}.
+ 
+ 
+ \section{Vibrational Properties of Semiconductors}
+In section \ref{PV_properties}, effective mass and dielectric function were discussed for the insight these properties can provide for the likely PV performance of a material due to mobility of charge carriers in that material. However these are certainly not the only features of a real material at finite temperatures that need to be considered to understand carrier mobility in a material. At finite temperatures...lattice vibrations...called phonons. Electron-phonon interactions can heavily influence the optoelectronic properties of materials.
+ 
+ 'the interaction of charge carriers with lattice vibrations (phonons) is currently still a subject of intense debate16,17. Such electron–phonon interactions matter,
+because they set a fundamental intrinsic limit to charge-carrier
+mobilities in the absence of extrinsic scattering off impurities or interfaces18. `
+ \cite{MAPI_Eg_broadening}
+ 
+`charge-carriermobility m, which was found21–24
+to scale with Tm with m in the range between ?1.4 and ?1.6. Several groups16,17,24 therefore proposed that electron–phonon coupling at room temperature is almost solely governed by deformation potential scattering with acoustic phonons, which is known18,25 to theoretically result in mpT?3/2.'
+ \cite{MAPI_Eg_broadening}
+ 
+ `In general, the two major mechanisms governing the electron–
+phonon coupling in inorganic semiconductors are deformation potential scattering, in which distortions of the lattice change the electronic band structure'
+ \cite{MAPI_Eg_broadening}
+ As optical phonons in semiconductors typically have energies of the order of tens of meV (ref. 18), their population at low temperatures (To100 K) is very small; thus, homogeneous broadening in this regime predominantly results from acoustic phonons18,49
+  \cite{MAPI_Eg_broadening}
+  Long-wavelength acoustic phonons induce atomic displacements, which can correspond to macroscopic crystal deformation
+   \cite{MAPI_Eg_broadening}
+
+
+ 
+\section{Electronic Properties of Defects in Semiconductors}
+Refer to: pg 160 \cite{fund_semi}, pg 51, 52, 64 \cite{thin_film_Boer}, pg 63 + 65 \cite{phys_semicond}\\
+
+Although the main framework for materials modelling of solid-state systems (as was outlined in section \ref{perfect_periodic}) is built around perfect, periodic systems; in reality absolutely perfect systems do not exist. There is an energy cost associated with the creation of a defect, but in many cases the free energy of a system can be lowered by the incorporation of a certain concentration of defects due to an increase in the configurational entropy of the system \cite{AshcroftMermin_general}. 
+At this point it is worth distinguishing between different types of defects for the purpose of later discussions.
+Firstly, if a defect does not involve any atoms that are foreign to the host crystal, then the defect is called an intrinsic or native defect. Defects involving foreign atoms, or impurities, are referred to as extrinsic defects. In our study on {\CZTS} as we are first interested in the fundamental material properties we are currently only concerned with intrinsic impurities, although in real systems impurities are often unintentionally present in the growth or processing environment.
+Defects are usually classified as point or line defects. Point defects usually involve isolated atoms in localized regions of a host crystal, whereas line defects involve rows of atoms, such as a dislocation defect. Another possible type of defect is a defect complex, which is composed of a small number of point defects. Some examples of defect complexes in {\CZTS} were shown in figure \ref{Chen_cluster1}. Defect complexes can be particularly interesting to study as there is some speculation in the literature that defects which are energetically less likely to form, could be more likely to form if they form a defect complex with defects that are more likely to form **find ref**.
+There are then a number of different possible point defects, such as: vacancies, interstitials and antisites. In the case of our study on defects in {\CZTS}, it is sulfur vacancies ($V_{S}^{0}$, $V_{S}^{+}$, $V_{S}^{2+}$) and copper-on-zinc ($Cu_{Zn}^{-}$) and zinc-on-copper ($Zn_{Cu}^{+}$) antisites that are of interest, where  $Cu_{Zn}^{-}$ and $Zn_{Cu}^{+}$ form the charge neutral defect complex [$Cu_{Zn}^{-}$ + $Zn_{Cu}^{+}$]. The sulfur vacancy is an example of an electrically active defect. In this case the defect can contribute two free electrons to the host crystal and so is a donor or n-type defect.
+**check** The free electrons can then either be fairly localized on the defect site to form a small polaron, or extended across several sites to form a large polaron, or be completely delocalized across the system **find ref**.\\
+
+The electrical properties of semiconductors can be modified significantly by the incorporation of very small amounts of impurities or defects. It is often the case that less than one defect per million of host atoms is sufficient to alter the properties of a semiconductor \cite{fund_semi}. This sensitivity to defects is one of the reasons why semiconductors find many uses in device applications. For example, luminescence centres in wide-band-gap materials can be used to emit light at specific wavelengths or single-spin centres provided by defects can act as artificial atoms and serve as a qubit in a quantum information system \cite{defects_tutorial}. In order to control the electrical properties of a material by introducing defects, typically processes must first be developed to produce a fairly defect-free material, before introducing particular defects \cite{fund_semi}. However in the case of solar cell devices the presence of defects is typically detrimental. Various ways in which defects in the absorber material can impede solar cell performance are discussed further in section \ref{defects_in_PV} and more general characteristics of defects in semiconductors are discussed in the next section.
+
+%\begin{itemize}
+%\item Notes from A. Guinier 'X-Ray Diffraction' CH6 + Ziman
+%\item Mention many types of disorder possible for multicomponent, especially for multi-component, compound semiconductor. e.g. of many types of possible defects for CdTe from Ken's work - and that's just binary!
+%\item Extended defects usually detectable? 
+%\item Discuss frozen in disorder and Scragg's work?
+%\end{itemize}
+
+
+
+\subsection{Impact of Defects on the Band Structure \& Optical Spectra}\label{PL_section}
+ **See defect tutorial paper**\\
+
+
+The energy band model, which was discussed in section \ref{band_theory}, has been successful in explaining many aspects of the behaviour of solids and a large amount of experimental data collected has supported the theoretical predictions made using the model. Its main drawback however is that is assumes a perfect, or nearly perfect, crystal lattice. It applies well to single crystals and polycrystalline substances, but cannot be applied to materials that are amorphous or heavily disordered so that the structure deviates significantly from the periodicity of the crystal \cite{small_semiconductor1}. Low concentrations of impurities and defects can be modelled by considering, for example, the introduction of additional donor and acceptor energy levels within the band gap of a material and the scattering of electrons and holes in the solid. However, at higher defect concentrations the band profile can be modified as shown in figure \ref{bs2} to give rise to conductivity even at temperatures that are too low to produce excitation of carriers into the free conduction bands, called impurity band conduction \cite{small_semiconductor2}.\\
 
 \begin{figure}[h!]
   \centering
@@ -82,41 +132,8 @@ The energy band model has been successful in explaining many aspects of the beha
   \label{bs2}
 \end{figure}
 
-A useful concept used to simplify the dynamics of an electron in a crystal lattice in the band theory of solids is that of effective mass, which was first mentioned in section \ref{PV_properties} as a key material property for a solar absorber material. The effective mass is a convenient parameter which accounts for the influence of a periodic lattice on a free carrier, enabling an electron in a periodic crystal to be treated as though it were a free particle but with a different mass in calculations of charge transport. Values of effective mass in semiconductors usually vary between 0.01 and 1 times the mass of a free electron and it is determined by the curvature of the energy graph in \textit{k}-vector space \cite{small_semiconductor2}. The effective mass is a parameter that can influence the efficiency of a solar cell, in particular, the effective mass of holes in the valence band and electrons in the conduction band (i.e. minority charge carriers) are of interest. The mobility of charge carriers is inversely proportional to the effective mass and the mobility of charge carriers in a PV material is important for efficient charge collection \cite{transport}.
- 
- 
- 
-\section{Crystal Imperfections \& Disorder}
-Refer to: pg 160 \cite{fund_semi}, pg 51, 52, 64 \cite{thin_film_Boer}, pg 63 + 65 \cite{phys_semicond}\\
+**Add in band tailing discussion from PL JC talk**\\
 
-\begin{itemize}
-\item Notes from A. Guinier 'X-Ray Diffraction' CH6 + Ziman
-\item Mention many types of disorder possible for multicomponent, especially for multi-component, compound semiconductor. e.g. of many types of possible defects for CdTe from Ken's work - and that's just binary!
-\item Extended defects usually detectable? 
-\item Discuss frozen in disorder and Scragg's work?
-\end{itemize}
-
-
-General intro to defects from tutorial paper.
-
-
-
-\subsection{Characterization of Defects}
- **See defect tutorial paper**\\
-%\subsection{First-Principles Calculations}
-
-\subsection{Emission Spectroscopies of Semiconductors}\label{PL_section}
-Refer to: pg 10 \cite{spatial_resolved_book}, pg 345 \cite{fund_semi}\\
-
-\begin{itemize}
-\item See above books + old transfer report
-\item Cardona, S7.1 Emission Spectroscopies
-\item Photoluminescence (PL) imaging is becoming a popular method to inspect solar cell materials, it does not require a full functioning device and can be a powerful tool for probing defects in semiconductors \cite{characterization_book, Gerschon}. The PL spectra of \CZTS (CZTS) provides clear evidence of disorder in the material.
-\item Overview of technique, information gained from technique, T dependent PL, PL spectra of CZTS: single crystal and thin film.
-\end{itemize}
-
-Photoluminescence (PL) spectroscopy is an example of a spatially resolved characterization technique, which can be used to give spatial information on the inhomogeneities in a PV device that cause a reduction in expected performance parameters, such as the $V_{OC}$.
-PL is an imaging technique involving a one-step acquisition of the local properties of a whole PV device using an imaging device, compared to the typically lengthy step-by-step procedures required in scanning techniques, such as electron beam induced current (EBIC) and light beam induced current (LBIC). Luminescence imaging techniques involve using an imaging device to capture the photons emitted by radiative recombinations following the excitation of charge carriers in PV devices. In the case of PL, light is used for the excitation whereas in electroluminescence (EL) charge carriers are electrically excited. For an EL measurement therefore, the PV material must have electrical contacts. PL however is a contactless method and so firstly neglects the effects of the contacts on the conversion efficiency distribution but secondly can be carried out during earlier stages of the manufacturing, i.e. before the electrical contacts have been made \cite{spatial_resolved_book}.
 
 
 
@@ -142,10 +159,22 @@ Band Tailing in Disordered Semiconductors:
 \end{itemize}
 
 
-
-
 \subsection{Photoluminescence Spectra of \CZTS}\label{CZTS_PL_section}
 See word doc overview\\
+
+Refer to: pg 10 \cite{spatial_resolved_book}, pg 345 \cite{fund_semi}\\
+
+\begin{itemize}
+\item See above books + old transfer report
+\item Cardona, S7.1 Emission Spectroscopies
+\item Photoluminescence (PL) imaging is becoming a popular method to inspect solar cell materials, it does not require a full functioning device and can be a powerful tool for probing defects in semiconductors \cite{characterization_book, Gerschon}. The PL spectra of \CZTS (CZTS) provides clear evidence of disorder in the material.
+\item Overview of technique, information gained from technique, T dependent PL, PL spectra of CZTS: single crystal and thin film.
+\end{itemize}
+
+Photoluminescence (PL) spectroscopy is an example of a spatially resolved characterization technique, which can be used to give spatial information on the inhomogeneities in a PV device that cause a reduction in expected performance parameters, such as the $V_{OC}$.
+PL is an imaging technique involving a one-step acquisition of the local properties of a whole PV device using an imaging device, compared to the typically lengthy step-by-step procedures required in scanning techniques, such as electron beam induced current (EBIC) and light beam induced current (LBIC). Luminescence imaging techniques involve using an imaging device to capture the photons emitted by radiative recombinations following the excitation of charge carriers in PV devices. In the case of PL, light is used for the excitation whereas in electroluminescence (EL) charge carriers are electrically excited. For an EL measurement therefore, the PV material must have electrical contacts. PL however is a contactless method and so firstly neglects the effects of the contacts on the conversion efficiency distribution but secondly can be carried out during earlier stages of the manufacturing, i.e. before the electrical contacts have been made \cite{spatial_resolved_book}.
+
+
 
 PL is a particularly common characterisation technique used on CZTS with several such studies having been performed already. References \citenum{Gershon2, Gokmen, Halliday, PL, Romero} are just some examples of such studies. Low temperature PL specifically is a powerful tool for probing defects in semiconductors \cite{Gershon1} and ...\\
 Notes from Pankove, notes from JC talk, figure showing common PL recombination mechanisms.
@@ -178,8 +207,7 @@ However, there is some disagreement in the literature about the main recombinati
 %\subsection{Photovoltaic-Ferroelectric Phenomena}\label{FE_PV_section}
 
 %Ferroelectric PV materials are currently receiving a great deal of research interest, however the origin of their PV properties are considered to be unresolved \cite{Rappe}. A large number of theories have been proposed in an attempt to explain the two observed ferroelectric-photovoltaic (FE-PV) phenomena: the bulk PV effect (BPE), also referred to as the photogalvanic effect, and the anomalous PV effect (APE). In the BPE, a direct current appears in a homogeneous medium under uniform illumination and this can occur in all materials without a center of symmetry  \cite{PGE}. Ferroelectric materials exhibit this effect strongly \cite{Rappe} and the first observation of this effect was in 1956 with photovoltages measured in un-doped single crystals of the ferroelectric material BaTiO$_3$ \cite{keith_46}. In the case of the APE, photovoltages have been measured that are orders of magnitude larger than the band gap of the material \cite{keith_54}, but has been observed to disappear when the sample undergoes a phase transition to a paraelectric phase \cite{nonlinear_dielectric}, and so no longer exhibits spontaneous electric polarization. Theories have been developed to explain the FE-PV phenomena based around experimental observations of factors that have been shown to influence the photovoltage of FE-PV devices, such as:  the distance between the two opposite electrodes \cite{rev_28,rev_46}, intensity of incident light \cite{rev_47}, electrical conductivity \cite{Fridkin}, remnant polarization of the
-%ferroelectric crystals \cite{rev_48}, crystallographic orientation \cite{rev_49}, the dimension or size of the crystals \cite{rev_46, rev_50}, domain walls \cite{rev_30}
-and the interface between the FE material and the electrode \cite{rev_37}.\\
+%ferroelectric crystals \cite{rev_48}, crystallographic orientation \cite{rev_49}, the dimension or size of the crystals \cite{rev_46, rev_50}, domain walls \cite{rev_30} and the interface between the FE material and the electrode \cite{rev_37}.\\
 
 %Models have been proposed to explain the BPE in ferroelectric materials based upon the built-in asymmetry of non-centrosymmetric crystals. One model is based on asymmetric scattering centres in the materials \cite{PGE}. In non-centrosymmetric crystals, the rate of the generation of charge carriers with momenta $\pm$k can be different due to asymmetric electron-hole scattering. A `ballistic current' can then be generated due to the momentum imbalance \cite{shift_current}.
 %Another model, the shift current model \cite{shift_current}, has been proposed, which is based on the asymmetry of the electron density \cite{keith}.
