@@ -103,12 +103,12 @@ Refer to: pg 160 \cite{fund_semi}, pg 51, 52, 64 \cite{thin_film_Boer}, pg 63 + 
 
 Although the main framework for materials modelling of solid-state systems (as was outlined in section \ref{perfect_periodic}) is built around perfect, periodic systems; in reality absolutely perfect systems do not exist. There is an energy cost associated with the creation of a defect, but in many cases the free energy of a system can be lowered by the incorporation of a certain concentration of defects due to an increase in the configurational entropy of the system \cite{AshcroftMermin_general}. 
 At this point it is worth distinguishing between different types of defects for the purpose of later discussions.
-Firstly, if a defect does not involve any atoms that are foreign to the host crystal, then the defect is called an intrinsic or native defect. Defects involving foreign atoms, or impurities, are referred to as extrinsic defects. In our study on {\CZTS} as we are first interested in the fundamental material properties we are currently only concerned with intrinsic impurities, although in real systems impurities are often unintentionally present in the growth or processing environment.
+Firstly, if a defect does not involve any atoms that are foreign to the host crystal, then the defect is called an intrinsic or native defect. Defects involving foreign atoms, or impurities, are referred to as extrinsic defects. In our study on {\CZTS} as we are first interested in the fundamental material properties so we are currently only concerned with intrinsic impurities, although in real systems impurities are often unintentionally present in the growth or processing environment.
 Defects are usually classified as point or line defects. Point defects usually involve isolated atoms in localized regions of a host crystal, whereas line defects involve rows of atoms, such as a dislocation defect. Another possible type of defect is a defect complex, which is composed of a small number of point defects. Some examples of defect complexes in {\CZTS} were shown in figure \ref{Chen_cluster1}. Defect complexes can be particularly interesting to study as there is some speculation in the literature that defects which are energetically less likely to form, could be more likely to form if they form a defect complex with defects that are more likely to form **find ref**.
 There are then a number of different possible point defects, such as: vacancies, interstitials and antisites. In the case of our study on defects in {\CZTS}, it is sulfur vacancies ($V_{S}^{0}$, $V_{S}^{+}$, $V_{S}^{2+}$) and copper-on-zinc ($Cu_{Zn}^{-}$) and zinc-on-copper ($Zn_{Cu}^{+}$) antisites that are of interest, where  $Cu_{Zn}^{-}$ and $Zn_{Cu}^{+}$ form the charge neutral defect complex [$Cu_{Zn}^{-}$ + $Zn_{Cu}^{+}$]. The sulfur vacancy is an example of an electrically active defect. In this case the defect can contribute two free electrons to the host crystal and so is a donor or n-type defect.
 **check** The free electrons can then either be fairly localized on the defect site to form a small polaron, or extended across several sites to form a large polaron, or be completely delocalized across the system **find ref**.\\
 
-The electrical properties of semiconductors can be modified significantly by the incorporation of very small amounts of impurities or defects. It is often the case that less than one defect per million of host atoms is sufficient to alter the properties of a semiconductor \cite{fund_semi}. This sensitivity to defects is one of the reasons why semiconductors find many uses in device applications. For example, luminescence centres in wide-band-gap materials can be used to emit light at specific wavelengths or single-spin centres provided by defects can act as artificial atoms and serve as a qubit in a quantum information system \cite{defects_tutorial}. In order to control the electrical properties of a material by introducing defects, typically processes must first be developed to produce a fairly defect-free material, before introducing particular defects \cite{fund_semi}. However in the case of solar cell devices the presence of defects is typically detrimental. Various ways in which defects in the absorber material can impede solar cell performance are discussed further in section \ref{defects_in_PV} and more general characteristics of defects in semiconductors are discussed in the next section.
+The electrical properties of semiconductors can be modified significantly by the incorporation of very small amounts of impurities or defects. It is often the case that less than one defect per million of host atoms is sufficient to alter the properties of a semiconductor \cite{fund_semi}. This sensitivity to defects is one of the reasons why semiconductors find many uses in device applications. For example, luminescence centres in wide-band-gap materials can be used to emit light at specific wavelengths or single-spin centres provided by defects can act as artificial atoms and serve as a qubit in a quantum information system \cite{defects_tutorial}. In order to control the electrical properties of a material by introducing defects, typically processes must first be developed to produce a fairly defect-free material, before intentionally introducing particular defects \cite{fund_semi}. However in the case of solar cell devices the presence of defects is typically detrimental. Various ways in which defects in the absorber material can impede solar cell performance are discussed further in section \ref{defects_in_PV} and more general characteristics of defects in semiconductors are discussed in the next section.
 
 %\begin{itemize}
 %\item Notes from A. Guinier 'X-Ray Diffraction' CH6 + Ziman
@@ -120,10 +120,9 @@ The electrical properties of semiconductors can be modified significantly by the
 
 
 \subsection{Impact of Defects on the Band Structure \& Optical Spectra}\label{PL_section}
- **See defect tutorial paper**\\
+The energy band model, which was discussed in section \ref{band_theory}, has been successful in explaining many aspects of the behaviour of solids and a large amount of experimental data collected has supported the theoretical predictions made using the model. Its main drawback however is that is assumes a perfect, or nearly perfect, crystal lattice. It applies well to single crystals and polycrystalline substances, but cannot be applied to materials that are amorphous or heavily disordered so that the structure deviates significantly from the periodicity of the crystal \cite{small_semiconductor1}. \\
 
-
-The energy band model, which was discussed in section \ref{band_theory}, has been successful in explaining many aspects of the behaviour of solids and a large amount of experimental data collected has supported the theoretical predictions made using the model. Its main drawback however is that is assumes a perfect, or nearly perfect, crystal lattice. It applies well to single crystals and polycrystalline substances, but cannot be applied to materials that are amorphous or heavily disordered so that the structure deviates significantly from the periodicity of the crystal \cite{small_semiconductor1}. Low concentrations of impurities and defects can be modelled by considering, for example, the introduction of additional donor and acceptor energy levels within the band gap of a material and the scattering of electrons and holes in the solid. However, at higher defect concentrations the band profile can be modified as shown in figure \ref{bs2} to give rise to conductivity even at temperatures that are too low to produce excitation of carriers into the free conduction bands, called impurity band conduction \cite{small_semiconductor2}.\\
+Some defects result in additional energy levels in between the valance-band maximum and conduction-band minimum, i.e. within the band gap of the material. Electrically active defects have at least one defect level in the band gap. This level then has an associated defect wavefunction, a state to which the electron is added to or removed when the charge state of the defect changes. If the defect level is positioned relative to the band edges such that the defect is likely to be thermally ionized at room temperature then the defect is conventionally referred to as a shallow level. Otherwise it is a referred to as a deep level. Typically deep levels are thought to be the most detrimental to solar cell device performance, which will be discussed further in section \ref{defects_in_PV}. Another way of defining a defect as `shallow' or `deep' is based on the degree of localization of the wavefunction. If a defect wavefunction is delocalized (on the order of many lattice constants) then the defect has the characteristics of a shallow defect. If the wavefunction is instead localized on the length scale of an atomic bond then this indicates a deep level defect \cite{defects_tutorial}.\\
 
 \begin{figure}[h!]
   \centering
@@ -132,14 +131,46 @@ The energy band model, which was discussed in section \ref{band_theory}, has bee
   \label{bs2}
 \end{figure}
 
-**Add in band tailing discussion from PL JC talk**\\
+Low concentrations of impurities and defects can be modelled by considering, for example, the introduction of distinct additional donor and acceptor energy levels within the band gap of a material and the scattering of electrons and holes in the solid. However, at higher defect concentration, these local levels interact to form a band. For high n-type doping, for example, the impurity band merges with the conduction band, causing a rigid shift of the conduction band towards the valence band \cite{Pankove}. The band profile can be modified with increasing donor density as shown in figure \ref{bs2} to give rise to conductivity even at temperatures that are too low to produce excitation of carriers into the free conduction bands, called impurity band conduction \cite{small_semiconductor2}.
+In heavily-doped semiconductors it is possible to observe a phenomena called `band tailing', where the valence and conduction bands are shifted towards each other resulting in a narrowing of the band gap, as shown in figure \ref{pankove_band_tailing} \cite{Pankove}. The heavy-doping effects then result in a different emitted spectrum which can be detected by techniques such as photoluminescence (PL) spectroscopy. \\
 
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.4\textwidth]{figures/pankove_band_tailing.png}
+    \caption{Schematic of the laser operation at T=0 K in GaAs. $\zeta_{n,p}$ are the quasi-Fermi level for electrons and holes respectively. The narrow line denotes the unperturbed DOS, while the heavy line depicts the DOS modified by heavy-doping effects. Both valence and conduction bands are shifted towards each other to give a narrowing of the band gap and the DOS is distorted, showing band tails. Heavy doping effects result in a different emitted spectrum. Figure taken from reference \citenum{Pankove}.}
+  \label{pankove_band_tailing}
+\end{figure}
 
+In a PL experiment, photons with energies larger than that of the band gap excite electrons from the valence band to the conduction band, as shown in figure \ref{PL_transitions}a. In addition, electrons can be excited from or to defect levels, as shown in figure \ref{PL_transitions}b. When the excited electrons transition to lower energy levels, they can emit light to conserve energy, resulting in a peak in the PL spectrum. In a photoluminescence excitation (PLE) experiment, the PL intensity is measured as a function of excitation photon energy. This gives an absorption profile for the defect. PL measurements are able to pick up optical signatures of defects even if they are only present at low concentrations with high resolution \cite{defects_tutorial}. A review of some of the photoluminesence spectra for {\CZTS} in the literature and the implications for PV device performance is discussed in sections \ref{CZTS_PL_section}. PL measurements alone however cannot be used to identify the character of a defect, this is an area where first-principles defect calculations (which are discussed in the methodology section) can provide valuable insight \cite{defects_tutorial}.
 
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=1.0\textwidth]{figures/PL_transitions.png}
+    \caption{Basic optical transitions involved in a measurement during photoluminescence spectroscopy (a). Common emission transitions detected during photoluminescence measurements, including transitions involving defect levels (b). Figures taken from reference \citenum{} and \citenum{Pankove} respectively.}
+  \label{PL_transitions}
+\end{figure}
+
+Observed band tailing can be caused by either spatial band gap variations or electrostatic potential fluctuations in the material \cite{band_tail}. In the case of the latter, it is the inhomogenous distribution of ionized defects that cause the fluctuations. An ionized donor exerts and attractive force on conduction electrons and a repulsive force on valence holes. As the defects are distributed randomly, the local interaction varies depending on the crowding of the defects. In this case the energy gap between the valence band and conduction band is maintained, as shown in figure \ref{pankove_elec_fluc} and the states of each tail are spatially separated \cite{Pankove}. Defects can also result in fluctuations in the band gap of a material. For example, if an impurity atom is of a different size to the atoms of the host lattice, then this can result in a local mechanical strain, as shown in figure \ref{pankove_band_fluc}b which results in a deformation potential, such as that shown in figure \ref{pankove_band_fluc}c for an edge dislocation defect. Local strains can alter the separation of atoms in the crystal, and as figure \ref{pankove_band_fluc}a shows the atomic separation within a crystal has a significant impact on the band structure.
+
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.6\textwidth]{figures/pankove_elec_fluc.png}
+    \caption{The perturbation of the band edges by Coulomb interaction with inhomogeneously distributed impurities (left), leading to the formation of tail states (right). Dashed lined show the distribution of states in the unperturbed case. Figure taken from reference \citenum{Pankove}.}
+  \label{pankove_elec_fluc}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=1.0\textwidth]{figures/pankove_band_fluc.png}
+    \caption{Energy banding of allowed levels in diamond as a function of spacing between atoms (a). Compressional strain induced in a crystal lattice by the incorporation of a large impurity atom (b). Deformation potential in the band structure due to compressional and dilational strain from an edge dislocation defect (c). Figures taken from reference \citenum{Pankove}.}
+  \label{pankove_band_fluc}
+\end{figure}
 
 
 \subsection{Impact of Defects on Solar Cell Performance}\label{defects_in_PV}
 Refer to: pg 217 221 \cite{thin_film_Boer}\\
+
+Urbach tails from band gap fluctuations \cite{band_gap_broadening}
 
 Impact of Defects and Disorder on Photovoltaic Performance:
 \begin{itemize}
@@ -160,30 +191,27 @@ Band Tailing in Disordered Semiconductors:
 
 
 \subsection{Photoluminescence Spectra of \CZTS}\label{CZTS_PL_section}
-See word doc overview\\
+Photoluminescence (PL) spectroscopy is a popular method to inspect solar cell materials as it does not require a full functioning device and can be a powerful tool for probing defects in semiconductors \cite{characterization_book, Gerschon}.
+Several such studies have been performed on samples of {\CZTS}. References \citenum{Gershon2, Gokmen, Halliday, PL, Romero} are just some examples of such studies. Low temperature PL specifically is a powerful tool for probing defects in semiconductors \cite{Gershon1} and ...
 
-Refer to: pg 10 \cite{spatial_resolved_book}, pg 345 \cite{fund_semi}\\
-
-\begin{itemize}
-\item See above books + old transfer report
-\item Cardona, S7.1 Emission Spectroscopies
-\item Photoluminescence (PL) imaging is becoming a popular method to inspect solar cell materials, it does not require a full functioning device and can be a powerful tool for probing defects in semiconductors \cite{characterization_book, Gerschon}. The PL spectra of \CZTS (CZTS) provides clear evidence of disorder in the material.
-\item Overview of technique, information gained from technique, T dependent PL, PL spectra of CZTS: single crystal and thin film.
-\end{itemize}
-
-Photoluminescence (PL) spectroscopy is an example of a spatially resolved characterization technique, which can be used to give spatial information on the inhomogeneities in a PV device that cause a reduction in expected performance parameters, such as the $V_{OC}$.
-PL is an imaging technique involving a one-step acquisition of the local properties of a whole PV device using an imaging device, compared to the typically lengthy step-by-step procedures required in scanning techniques, such as electron beam induced current (EBIC) and light beam induced current (LBIC). Luminescence imaging techniques involve using an imaging device to capture the photons emitted by radiative recombinations following the excitation of charge carriers in PV devices. In the case of PL, light is used for the excitation whereas in electroluminescence (EL) charge carriers are electrically excited. For an EL measurement therefore, the PV material must have electrical contacts. PL however is a contactless method and so firstly neglects the effects of the contacts on the conversion efficiency distribution but secondly can be carried out during earlier stages of the manufacturing, i.e. before the electrical contacts have been made \cite{spatial_resolved_book}.
-
-
-
-PL is a particularly common characterisation technique used on CZTS with several such studies having been performed already. References \citenum{Gershon2, Gokmen, Halliday, PL, Romero} are just some examples of such studies. Low temperature PL specifically is a powerful tool for probing defects in semiconductors \cite{Gershon1} and ...\\
-Notes from Pankove, notes from JC talk, figure showing common PL recombination mechanisms.
+The PL spectra of \CZTS (CZTS) provides clear evidence of disorder in the material.
 
 PL measurements have been performed on both polycrystalline CZTS \cite{Romero, Miyamoto, Unold} and single crystals of CZTS \cite{Halliday, Levcenko, Hones}. Polycrystalline samples are more similar to those likely to be used in thin-film CZTS photovoltaic devices, however comparison between those measurements with single crystal measurements could enable the isolation of recombination at grain boundaries from those due to bulk defects and secondary phases present within a single grain... relate to earlier section on polycrystalline thin-film PV\\
 
 However, there is some disagreement in the literature about the main recombination mechanisms that could explain the observed PL spectra.
 
 (mention two models of QDAP and elec pot fluc, Eg and charged defect induced + relate to Cu-Zn disorder)\\
+
+Photoluminescence measurements (PL) conducted on CZTSSe samples usually feature a much broader peak than those observed in standard CIGSe.[6,22,78]
+Moreover, the energy of the maximum of the PL peak (EPL) of CZTSSe samples is usually noticeably red-shifted compared to their bandgap. These two features are generally attributed to band tailing, arising from either spatial bandgap variations or electrostatic potential fluctuations in the semiconductor (i.e., a constant bandgap with parallel shifts in the valence and conduc- tion band energies).[6] Both effects lead to a non-zero density of states (DOS) within the band gap. The bandgap is either the energetic distance between the band edges, which is constant in the case of electrostatic potential fluctuations, or the average bandgap in the case of bandgap fluctuation
+\cite{culprit}
+
+
+
+
+
+
+
 
 
 %\subsection{Modulation Spectroscopy \& Band Gap Broadening}
