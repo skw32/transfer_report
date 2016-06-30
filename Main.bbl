@@ -186,6 +186,10 @@ F.~Espinosa-Faller.
   Cu2ZnSnS4 Nanoparticles}.
 \newblock {\em The Journal of Physical Chemistry C}, 118:26292--26303, 2014.
 
+\bibitem{defects_fig1}
+H.~F\"{o}ll.
+\newblock {\em Point Defects}, (Accessed on 30 June, 2016).
+
 \bibitem{LCOE}
 F.~I. for Solar Energy Systems~ISE.
 \newblock {\em Levelized Cost of Electricity Renewable Energy Technologies},
@@ -202,13 +206,13 @@ V.~Fthenakis.
 \newblock {\em Renewable and Sustainable Energy Reviews}, 13(9):2746 -- 2750,
   2009.
 
-\bibitem{Gershon1}
+\bibitem{Gershon_ref18}
 T.~Gershon, B.~Shin, N.~Bojarczuk, T.~Gokmen, S.~Lu, and S.~Guha.
 \newblock {Photoluminescence characterization of a high-efficiency
   $Cu_{2}ZnSnS_{4}$ device}.
 \newblock {\em J. Appl. Phys.}, 114(15):154905, 2013.
 
-\bibitem{Gershon2}
+\bibitem{Gershon}
 T.~Gershon, B.~Shin, T.~Gokmen, S.~Lu, N.~Bojarczuk, and S.~Guha.
 \newblock {Relationship between $Cu_{2}ZnSnS_{4}$ quasi donor-acceptor pair
   density and solar cell efficiency}.
@@ -232,11 +236,6 @@ A.~Goetzberger and V.~U. Hoffmann.
 T.~Gokmen, O.~Gunawan, T.~K. Todorov, and D.~B. Mitzi.
 \newblock Band tailing and efficiency limitation in kesterite solar cells.
 \newblock {\em Applied Physics Letters}, 103(10):--, 2013.
-
-\bibitem{Gokmen}
-T.~Gokmen, O.~Gunawan, T.~K. Todorov, and D.~B. Mitzi.
-\newblock {Band tailing and efficiency limitation in kesterite solar cells}.
-\newblock {\em Appl. Phys. Lett.}, 103(10):103506, 2013.
 
 \bibitem{keith_56}
 B.~Goldstein and L.~Pensak.
@@ -366,13 +365,6 @@ M.~Lang and A.~Lang.
 \newblock {\em Overview Renewable Energy Sources Act}, 2014 (Accessed on 05
   May, 2016).
 
-\bibitem{PL}
-J.~P. Leit{\~{a}}o, N.~M. Santos, P.~a. Fernandes, P.~M.~P. Salom{\'{e}}, a.~F.
-  da~Cunha, J.~C. Gonz{\'{a}}lez, G.~M. Ribeiro, and F.~M. Matinaga.
-\newblock {Photoluminescence and electrical study of fluctuating potentials in
-  $Cu_{2}ZnSnS_{4}$ -based thin films}.
-\newblock {\em Phys. Rev. B}, 84(2):024120, 2011.
-
 \bibitem{Lesar3}
 R.~Lesar.
 \newblock {\em The Monte Carlo Method}.
@@ -409,11 +401,26 @@ S.~Maske and B.~J. Skinner.
   the system cu-as-s.
 \newblock {\em Economic Geology}, 66:901--918, 1971.
 
+\bibitem{band_gap_broadening}
+J.~Mattheis, U.~Rau, and J.~H. Werner.
+\newblock {Light absorption and emission in semiconductors with band gap
+  fluctuations—A study on Cu(In,Ga)Se[sub 2] thin films}.
+\newblock {\em J. Appl. Phys.}, 101(11):113519, 2007.
+
 \bibitem{PV_handbook}
 A.~McEvoy, T.~Markvart, and L.~C. {n}er.
 \newblock {\em Practical Handbook of Photovoltaics - Fundamentals and
   Applications}.
 \newblock Elsevier, 2012.
+
+\bibitem{CZTS_TEM}
+B.~G. Mendis, M.~D. Shannon, M.~C. Goodman, J.~D. Major, R.~Claridge, D.~P.
+  Halliday, and K.~Durose.
+\newblock Direct observation of cu, zn cation disorder in cu2znsns4 solar cell
+  absorber material using aberration corrected scanning transmission electron
+  microscopy.
+\newblock {\em Progress in Photovoltaics: Research and Applications},
+  22(1):24--34, 2014.
 
 \bibitem{pot_fluc}
 B.~G. Mendis, M.~D. Shannon, M.~C.~J. Goodman, J.~D. Major, A.~A. Taylor, D.~P.
@@ -500,6 +507,10 @@ T.~Pauporte and D.~Lincot.
 \newblock {ChemInform Abstract: Electrical, Optical and Photoelectrochemical
   Properties of Natural Enargite, Cu3AsS4.}
 \newblock {\em Adv. Mater. Opt. Electron.}, 5:289--298, 1995.
+
+\bibitem{defects_fig2}
+N.~Pearson.
+\newblock {\em Crystal Defects}, 2014 (Accessed on 30 June, 2016).
 
 \bibitem{CIS1}
 C.~Persson and A.~Zunger.
@@ -687,6 +698,12 @@ P.~Vela.
 J.~Vidal.
 \newblock {\em UK and Germany break solar power records}, 2014 (Accessed on 04
   May, 2016).
+
+\bibitem{CZTS_Xray}
+T.~Washio, H.~Nozaki, T.~Fukano, T.~Motohiro, K.~Jimbo, and H.~Katagiri.
+\newblock Analysis of lattice site occupancy in kesterite structure of
+  cu2znsns4 films using synchrotron radiation x-ray diffraction.
+\newblock {\em J. Appl. Phys.}, 110:074511, 2011.
 
 \bibitem{bournonite}
 K.~Wei, J.~Martin, J.~R. Salvador, and G.~S. Nolas.
