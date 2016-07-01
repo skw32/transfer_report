@@ -175,6 +175,14 @@ Y.~Dong, A.~R. Khabibullin, K.~Wei, J.~R. Salvador, G.~S. Nolas, and L.~M.
   induce low thermal conductivity.
 \newblock {\em ChemPhysChem}, pages n/a--n/a, 2015.
 
+\bibitem{CZTS_phase_diagram}
+H.~Du, F.~Yan, M.~Young, B.~To, C.-S. Jiang, P.~Dippo, D.~Kuciauskas, Z.~Chi,
+  E.~A. Lun, C.~Hancock, W.~M.~H. OO, M.~A. Scarpulla, and G.~Teeter.
+\newblock Investigation of combinatorial coevaporated thin film
+  cu$_2$znsns$_4$. i. temperature effect, crystalline phases, morphology, and
+  photoluminescence.
+\newblock {\em Journal of Applied Physics}, 115:173502, 2014.
+
 \bibitem{vasp-slides}
 A.~Eichler.
 \newblock {\em Sampling the Brillouin Zone}, 2014 (Accessed on April 28, 2015).
@@ -381,6 +389,11 @@ S.~S. Li.
 \newblock {\em Semiconductor Physical Electronics}.
 \newblock Plenum Press, New York, 1993.
 
+\bibitem{Lifshitz1964}
+I.~Lifshitz.
+\newblock {\em {The energy spectrum of disordered systems}}, volume~13.
+\newblock 1964.
+
 \bibitem{new_FE_PV_1}
 M.~E. Lines and A.~M. Glass.
 \newblock Oxford University Press, 1977.
@@ -400,12 +413,6 @@ S.~Maske and B.~J. Skinner.
 \newblock Studies of the sulfosalts of copper; i, phases and phase relations in
   the system cu-as-s.
 \newblock {\em Economic Geology}, 66:901--918, 1971.
-
-\bibitem{band_gap_broadening}
-J.~Mattheis, U.~Rau, and J.~H. Werner.
-\newblock {Light absorption and emission in semiconductors with band gap
-  fluctuations—A study on Cu(In,Ga)Se[sub 2] thin films}.
-\newblock {\em J. Appl. Phys.}, 101(11):113519, 2007.
 
 \bibitem{PV_handbook}
 A.~McEvoy, T.~Markvart, and L.~C. {n}er.
@@ -556,6 +563,12 @@ M.~J. Romero, H.~Du, G.~Teeter, Y.~Yan, and M.~M. Al-Jassim.
   the kesterite $Cu_{2}ZnSnS_{4}$ and chalcopyrite $Cu(In,Ga)Se_{2}$ }.
 \newblock {\em Phys. Rev. B}, 84(16):165324, 2011.
 
+\bibitem{Katharina}
+K.~Rudisch, Y.~Ren, C.~Platzer-Bj\"{o}rkman, and J.~Scragg.
+\newblock Order-disorder transition in b-type cu$_2$znsns$_4$ and limitations
+  of ordering through thermal treatments.
+\newblock {\em Applied Physics Letters}, 108:231902, 2016.
+
 \bibitem{Si_rev}
 T.~Saga.
 \newblock {Advances in crystalline silicon solar cell technology for industrial
@@ -625,6 +638,11 @@ R.~Shuey.
 \newblock {\em Semiconducting Ore Minerals}.
 \newblock Elsevier, 2012.
 
+\bibitem{SandS}
+S.~Siebentritt and S.~Schorr.
+\newblock {Kesterites - a challenging material for solar cells}.
+\newblock {\em Prog. Photovoltaics Res. Appl.}, 20(February):512--519, 2012.
+
 \bibitem{SS}
 S.~Siebentritt and S.~Schorr.
 \newblock {Kesterites-a challenging material for solar cells}.
@@ -675,6 +693,12 @@ T.~Unold, S.~Kretzschmar, J.~Just, O.~Zander, B.~Schubert, B.~Marsen, and H.-W.
 \newblock {\em Photovolt. Spec. Conf. (PVSC), 2011 37th IEEE}, pages
   2820--2823, 2011.
 
+\bibitem{Urbach1953}
+F.~Urbach.
+\newblock The long-wavelength edge of photographic sensitivity and of the
+  electronic absorption of solids.
+\newblock {\em Phys. Rev.}, 92:1324--1324, Dec 1953.
+
 \bibitem{global_energy_fig}
 T.~Urban.
 \newblock {\em The Deal With Solar}, 2016 (Accessed on 23 April, 2016).
@@ -721,6 +745,15 @@ S.-Y. Wei, Y.-C. Liao, C.-H. Hsu, C.-H. Cai, W.-C. Huang, M.-C. Huang, and
 H.~Wirth.
 \newblock {\em Recent Facts about Photovoltaics in Germany}, 2015 (Accessed on
   04 May, 2016).
+
+\bibitem{UrbachE_Voc}
+S.~D. Wolf, J.~Holovsky, S.-J. Moon, P.~LÃ¶per, B.~Niesen, M.~Ledinsky, F.-J.
+  Haug, J.-H. Yum, and C.~Ballif.
+\newblock Organometallic halide perovskites: Sharp optical absorption edge and
+  its relation to photovoltaic performance.
+\newblock {\em The Journal of Physical Chemistry Letters}, 5(6):1035--1039,
+  2014.
+\newblock PMID: 26270984.
 
 \bibitem{MAPI_Eg_broadening}
 A.~D. Wright, C.~Verdi, R.~L. Milot, G.~E. Eperon, M.~A. P{\'{e}}rez-Osorio,
