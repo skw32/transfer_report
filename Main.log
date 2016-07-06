@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  4 JUL 2016 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  6 JUL 2016 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -953,56 +953,56 @@ Package natbib Warning: Citation `CZTS_phonons' on page 50 undefined on input l
 ine 91.
 
 
-LaTeX Warning: Reference `CZTS_phonons' on page 50 undefined on input line 95.
+LaTeX Warning: Reference `CZTS_phonons' on page 50 undefined on input line 97.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
 
  []
 
 [50 <./figures/CZTS_phonons.png>]
 
 Package natbib Warning: Citation `MAPI_Eg_broadening16' on page 51 undefined on
- input line 101.
+ input line 103.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening17' on page 51 undefined on
- input line 101.
+ input line 103.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening21' on page 51 undefined on
- input line 102.
+ input line 104.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening22' on page 51 undefined on
- input line 102.
+ input line 104.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening23' on page 51 undefined on
- input line 102.
+ input line 104.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening24' on page 51 undefined on
- input line 102.
+ input line 104.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening16' on page 51 undefined on
- input line 102.
+ input line 104.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening17' on page 51 undefined on
- input line 102.
+ input line 104.
 
 
 Package natbib Warning: Citation `MAPI_Eg_broadening24' on page 51 undefined on
- input line 102.
+ input line 104.
 
 
-LaTeX Warning: Reference `CZTS_phonons' on page 51 undefined on input line 102.
+LaTeX Warning: Reference `CZTS_phonons' on page 51 undefined on input line 104.
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--114
+Underfull \hbox (badness 10000) in paragraph at lines 110--116
 
  []
 
@@ -1016,29 +1016,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/defects.png, id=280, 722.7pt x 250.0542pt>
 File: figures/defects.png Graphic file (type png)
  <use figures/defects.png>
-Package pdftex.def Info: figures/defects.png used on input line 117.
+Package pdftex.def Info: figures/defects.png used on input line 119.
 (pdftex.def)             Requested size: 435.32422pt x 150.62125pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 [53 <./figures/defects.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 <figures/bs2.png, id=285, 638.8668pt x 410.9754pt>
 File: figures/bs2.png Graphic file (type png)
  <use figures/bs2.png>
-Package pdftex.def Info: figures/bs2.png used on input line 140.
+Package pdftex.def Info: figures/bs2.png used on input line 142.
 (pdftex.def)             Requested size: 338.58632pt x 217.80965pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
 
  []
 
@@ -1047,7 +1047,7 @@ File: figures/pankove_band_tailing.png Graphic file (type png)
 
 <use figures/pankove_band_tailing.png>
 Package pdftex.def Info: figures/pankove_band_tailing.png used on input line 15
-0.
+2.
 (pdftex.def)             Requested size: 193.47578pt x 243.51793pt.
 
 
@@ -1057,7 +1057,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/PL_transitions.png Graphic file (type png)
 
 <use figures/PL_transitions.png>
-Package pdftex.def Info: figures/PL_transitions.png used on input line 159.
+Package pdftex.def Info: figures/PL_transitions.png used on input line 161.
 (pdftex.def)             Requested size: 483.69687pt x 215.87186pt.
 
 
@@ -1072,26 +1072,26 @@ pt>
 File: figures/pankove_elec_fluc.png Graphic file (type png)
 
 <use figures/pankove_elec_fluc.png>
-Package pdftex.def Info: figures/pankove_elec_fluc.png used on input line 168.
+Package pdftex.def Info: figures/pankove_elec_fluc.png used on input line 170.
 (pdftex.def)             Requested size: 290.22107pt x 200.48434pt.
 
 <figures/pankove_band_fluc.png, id=302, 696.6828pt x 380.622pt>
 File: figures/pankove_band_fluc.png Graphic file (type png)
 
 <use figures/pankove_band_fluc.png>
-Package pdftex.def Info: figures/pankove_band_fluc.png used on input line 175.
+Package pdftex.def Info: figures/pankove_band_fluc.png used on input line 177.
 (pdftex.def)             Requested size: 483.69687pt x 264.26724pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 [57 <./figures/pankove_elec_fluc.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 185--188
+Underfull \hbox (badness 10000) in paragraph at lines 187--190
 
  []
 
@@ -1103,16 +1103,16 @@ Underfull \vbox (badness 2393) has occurred while \output is active []
 File: figures/CZTS_phase_diagram.png Graphic file (type png)
 
 <use figures/CZTS_phase_diagram.png>
-Package pdftex.def Info: figures/CZTS_phase_diagram.png used on input line 191.
+Package pdftex.def Info: figures/CZTS_phase_diagram.png used on input line 193.
 
 (pdftex.def)             Requested size: 386.95897pt x 229.95619pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
 
  []
 
 [59 <./figures/CZTS_phase_diagram.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
 
  []
 
@@ -1120,10 +1120,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--203
 File: figures/urbach_fig.png Graphic file (type png)
 
 <use figures/urbach_fig.png>
-Package pdftex.def Info: figures/urbach_fig.png used on input line 209.
+Package pdftex.def Info: figures/urbach_fig.png used on input line 211.
 (pdftex.def)             Requested size: 290.22107pt x 318.90997pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
@@ -1135,20 +1135,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figures/CZTS+CIGS_PL.png Graphic file (type png)
 
 <use figures/CZTS+CIGS_PL.png>
-Package pdftex.def Info: figures/CZTS+CIGS_PL.png used on input line 220.
+Package pdftex.def Info: figures/CZTS+CIGS_PL.png used on input line 222.
 (pdftex.def)             Requested size: 483.69687pt x 204.76599pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (17.6957pt too wide) in paragraph at lines 225--227
+Overfull \hbox (17.6957pt too wide) in paragraph at lines 227--229
 []\OT1/cmr/m/n/12 Several PL stud-ies have been per-formed on kesterite-structu
 red sam-ples of Cu$[]$ZnSnS$[]$, Cu$[]$ZnSnSe$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--227
+Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
 
@@ -1156,12 +1156,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 Underfull \vbox (badness 1259) has occurred while \output is active []
 
  [62]
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
 [63 <./figures/CZTS+CIGS_PL.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
  []
 
@@ -1375,7 +1375,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  4180 strings out of 493117
  61829 string characters out of 6135433
- 126601 words of memory out of 5000000
+ 127601 words of memory out of 5000000
  7477 multiletter control sequences out of 15000+600000
  16555 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1397,7 +1397,7 @@ e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (105 pages, 16607575 bytes).
+Output written on Main.pdf (105 pages, 16607637 bytes).
 PDF statistics:
  519 PDF objects out of 1000 (max. 8388607)
  297 compressed objects within 3 object streams
