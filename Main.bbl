@@ -1,8 +1,5 @@
 \begin{thebibliography}{100}
 
-\bibitem{defects_tutorial_20}
-0.
-
 \bibitem{culprit_2}
 T.~Abzieher, T.~Schnabel, M.~Hetterich, M.~Powalla, and E.~Ahlswede.
 \newblock {Source and effects of sodium in solution-processed kesterite solar
@@ -52,11 +49,6 @@ W.~Bao and M.~Ichimura.
   Material Based on the First Principles Calculation}.
 \newblock {\em Int. J. Photoenergy}, 2014(c), 2014.
 
-\bibitem{Bechstedt}
-F.~Bechstedt.
-\newblock {\em Many-Body Approach to Electronic Excitations}.
-\newblock Springer, 2015.
-
 \bibitem{BIPV}
 BISEM.
 \newblock {\em SMUD \& BISEM-USA complete first ever PV Curtain Wall Retrofit
@@ -99,6 +91,14 @@ R.~E. Brandt, V.~StevanoviÄ, D.~S. Ginley, and T.~Buonassisi.
   lifetimes: beyond hybrid lead halide perovskites.
 \newblock {\em MRS Communications}, 5:265--275, 6 2015.
 
+\bibitem{MAPI_Eg_broadening17}
+T.~M. Brenner, D.~A. Egger, A.~M. Rappe, L.~Kronik, G.~Hodes, and D.~Cahen.
+\newblock Are mobilities in hybrid organicâinorganic halide perovskites
+  actually âhighâ?
+\newblock {\em The Journal of Physical Chemistry Letters}, 6(23):4754--4757,
+  2015.
+\newblock PMID: 26631359.
+
 \bibitem{keith}
 K.~T. Butler, J.~M. Frost, and A.~Walsh.
 \newblock {Ferroelectric Materials for Solar Energy Conversion: Photoferroics
@@ -127,11 +127,6 @@ S.~Chen, J.-H. Yang, X.~G. Gong, A.~Walsh, and S.-H. Wei.
 \newblock {Intrinsic point defects and complexes in the quaternary kesterite
   semiconductor $Cu_2ZnSnS_4$}.
 \newblock {\em Physical Review B}, 81(24):245204, June 2010.
-
-\bibitem{defects_tutorial_21}
-W.~Chen and A.~Pasquarello.
-\newblock {}.
-\newblock {\em J Phys: Condens Matt}, 27:133202, 2015.
 
 \bibitem{FE_PV_rev1_83}
 W.~S. Choi, M.~F. Chisholm, D.~J. Singh, T.~Choi, G.~E. Jellison, and H.~N.
@@ -290,11 +285,6 @@ R.~E. Hummel.
 \newblock {\em Electronic Properties of Materials}.
 \newblock Springer Science+Business Media, 2012.
 
-\bibitem{defects_tutorial_19}
-M.~S. Hybertsen and S.~G. Louie.
-\newblock {}.
-\newblock {\em Phys Rev B}, 34:5390, 1986.
-
 \bibitem{first_solar}
 F.~S. Inc.
 \newblock {\em Emissions from Photovoltaic Life Cycles}, 2009 (Accessed on
@@ -337,6 +327,22 @@ A.~K. Jonscher.
 A.~K. Jonscher.
 \newblock {\em The Imperfect Solid}.
 \newblock Routledge \& Kegan Paul Ltd., 1965.
+
+\bibitem{MAPI_Eg_broadening24}
+M.~Karakus, S.~A. Jensen, F.~DâAngelo, D.~Turchinovich, M.~Bonn, and
+  E.~CÃ¡novas.
+\newblock Phononâelectron scattering limits free charge mobility in
+  methylammonium lead iodide perovskites.
+\newblock {\em The Journal of Physical Chemistry Letters}, 6(24):4991--4996,
+  2015.
+\newblock PMID: 26619006.
+
+\bibitem{CZTS_phonons}
+A.~Khare, B.~Himmetoglu, M.~Johnson, D.~J. Norris, M.~Cococcioni, and E.~S.
+  Aydil.
+\newblock {Calculation of the lattice dynamics and Raman spectra of copper zinc
+  tin chalcogenides and comparison to experiments}.
+\newblock {\em J. Appl. Phys.}, 111(8), 2012.
 
 \bibitem{culprit_3}
 J.~Kim, H.~Hiroi, T.~K. Todorov, O.~Gunawan, M.~Kuwahara, T.~Gokmen, D.~Nair,
@@ -441,11 +447,23 @@ N.~Metropolis, A.~W. Rosenbluth, M.~N. Rosenbluth, A.~H. Teller, and E.~Teller.
 \newblock {Equation of State Calculations by Fast Computing Machines}.
 \newblock {\em J. Chem. Phys.}, 21(6):1087--1092, 1953.
 
+\bibitem{MAPI_Eg_broadening21}
+R.~L. Milot, G.~E. Eperon, H.~J. Snaith, M.~B. Johnston, and L.~M. Herz.
+\newblock Temperature-dependent charge-carrier dynamics in ch3nh3pbi3
+  perovskite thin films.
+\newblock {\em Advanced Functional Materials}, 25(39):6218--6227, 2015.
+
 \bibitem{Miyamoto}
 Y.~Miyamoto, K.~Tanaka, M.~Oonuki, N.~Moritake, and H.~Uchiki.
 \newblock {Optical Properties of $Cu_{2}ZnSnS_{4}$ Thin Films Prepared by
   Sol–Gel and Sulfurization Method}.
 \newblock {\em Jpn. J. Appl. Phys.}, 47(1):596--597, 2008.
+
+\bibitem{band_tailing_new}
+J.~E. Moore, C.~J. Hages, R.~Agrawal, M.~S. Lundstrom, and J.~L. Gray.
+\newblock {The importance of band tail recombination on current collection and
+  open-circuit voltage in CZTSSe solar cells}.
+\newblock {\em Applied Physics Letters}, (109):021102, 2016.
 
 \bibitem{Nelson4}
 J.~Nelson.
@@ -492,6 +510,15 @@ U.~of~Oregon Investment~Group.
 M.~I. of~Technology.
 \newblock {\em The Future of Solar Energy}, 2015 (Accessed on June 9, 2015).
 
+\bibitem{MAPI_Eg_broadening22}
+H.~Oga, A.~Saeki, Y.~Ogomi, S.~Hayase, and S.~Seki.
+\newblock Improved understanding of the electronic and energetic landscapes of
+  perovskite solar cells: High local charge carrier mobility, reduced
+  recombination, and extremely shallow traps.
+\newblock {\em Journal of the American Chemical Society}, 136(39):13818--13825,
+  2014.
+\newblock PMID: 25188538.
+
 \bibitem{stephanite}
 A.~Orlova, R.~Gainov, A.~Dooglav, I.~Penkov, and E.~Korolev.
 \newblock Structure and transport properties of stephanite (ag5sbs4) according
@@ -503,11 +530,6 @@ C.~Paillard, X.~Bai, I.~C. Infante, M.~Guennou, G.~Geneste, M.~Alexe,
   J.~Kreisel, and B.~Dkhil.
 \newblock {Photovoltaics with Ferroelectrics: Current Status and Beyond}.
 \newblock {\em Adv. Mater.}, apr 2016.
-
-\bibitem{Pankove}
-J.~I. Pankove.
-\newblock {\em Optical Processes in Semiconductors}.
-\newblock Prentice-Hall, Inc., Englewood Cliffs, N.J., 1971.
 
 \bibitem{enargite_properties}
 T.~Pauporte and D.~Lincot.
@@ -574,6 +596,16 @@ T.~Saga.
 \newblock {Advances in crystalline silicon solar cell technology for industrial
   mass production}.
 \newblock {\em NPG Asia Mater.}, 2(3):96--102, 2010.
+
+\bibitem{MAPI_Eg_broadening23}
+T.~J. Savenije, J.~Carlito S.~Ponseca, L.~Kunneman, M.~Abdellah, K.~Zheng,
+  Y.~Tian, Q.~Zhu, S.~E. Canton, I.~G. Scheblykin, T.~Pullerits, A.~Yartsev,
+  and V.~SundstrÃ¶m.
+\newblock Thermally activated exciton dissociation and recombination control
+  the carrier dynamics in organometal halide perovskite.
+\newblock {\em The Journal of Physical Chemistry Letters}, 5(13):2189--2194,
+  2014.
+\newblock PMID: 26279532.
 
 \bibitem{CIS1_3}
 H.~W. Schock.
@@ -820,6 +852,19 @@ H.~Zhao and C.~Persson.
 \newblock {\em Thin Solid Films}, 519(21):7508 -- 7512, 2011.
 \newblock Proceedings of the \{EMRS\} 2010 Spring Meeting Symposium M: Thin
   Film Chalcogenide Photovoltaic Materials.
+
+\bibitem{MAPI_Eg_broadening16}
+X.-Y. Zhu and V.~Podzorov.
+\newblock Charge carriers in hybrid organicâinorganic lead halide
+  perovskites might be protected as large polarons.
+\newblock {\em The Journal of Physical Chemistry Letters}, 6(23):4758--4761,
+  2015.
+\newblock PMID: 26575427.
+
+\bibitem{Ziman_solids}
+J.~M. Ziman.
+\newblock {\em Principles of the Theory of Solids}.
+\newblock Cambridge University Press, 1964.
 
 \bibitem{absorption_coeff_book1}
 H.~Zimmermann.

@@ -20,16 +20,16 @@
 \contentsline {subsection}{\numberline {3.3.3}Photoluminescence Spectra of Cu$_2$ZnSnS$_4$}{60}
 \contentsline {chapter}{\numberline {4}Monte Carlo Simulation of Thermodynamic Disorder in Cu$_2$ZnSnS$_4$}{64}
 \contentsline {section}{\numberline {4.1}Mapping the Crystal Structure of { Cu$_2$ZnSnS$_4$} onto a Simple Lattice}{64}
-\contentsline {section}{\numberline {4.2}Monte Carlo Simulation with the Metropolis Algorithm}{67}
+\contentsline {section}{\numberline {4.2}Monte Carlo Simulation with the Metropolis Algorithm}{68}
 \contentsline {section}{\numberline {4.3}Equilibration \& Finite Size Effects}{70}
 \contentsline {section}{\numberline {4.4}Multi-Scale Approach with Density Functional Theory}{73}
 \contentsline {section}{\numberline {4.5}Spatial Extent of Disorder Amongst Cu \& Zn Ions}{74}
 \contentsline {section}{\numberline {4.6}Quantification of Disorder Using Radial Distribution Functions}{74}
 \contentsline {section}{\numberline {4.7}Band Tailing from the Distribution of Electrostatic Potential}{74}
 \contentsline {chapter}{\numberline {5}Conclusion \& Future Work}{75}
-\contentsline {section}{\numberline {5.1}Thermodynamic Disorder of Cu and Zn in {Cu$_2$ZnSnS$_4$}}{76}
-\contentsline {section}{\numberline {5.2}Further Development of Monte Carlo Disorder Models}{76}
-\contentsline {section}{\numberline {5.3}Predicting the Photovoltaic Performance of Metal Sulfide Materials}{76}
-\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{76}
-\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{76}
-\contentsline {chapter}{Bibliography}{76}
+\contentsline {section}{\numberline {5.1}Thermodynamic Disorder of Cu and Zn in {Cu$_2$ZnSnS$_4$}}{75}
+\contentsline {section}{\numberline {5.2}Further Development of Monte Carlo Disorder Models}{75}
+\contentsline {section}{\numberline {5.3}Predicting the Photovoltaic Performance of Metal Sulfide Materials}{75}
+\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{77}
+\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{79}
+\contentsline {chapter}{Bibliography}{81}

@@ -341,6 +341,17 @@ Material properties books
 }
 
 
+@article{band_tailing_new,
+author = {J E Moore and C J Hages and R Agrawal and M S Lundstrom and J L Gray},
+journal = {Applied Physics Letters},
+number = {109},
+pages = {021102},
+title = {{The importance of band tail recombination on current collection and open-circuit voltage in CZTSSe solar cells}},
+url = {http://scitation.aip.org/content/aip/journal/apl/109/2/10.1063/1.4955402},
+year = {2016}
+}
+
+
 
 @article{dielectric_const1,
 author = {Bahers, T Le and R{\'{e}}rat, M and Sautet, P},
@@ -3820,6 +3831,40 @@ pages={2175-2196},
 }
 
 
+@article{aims_hybrids,
+  author={Xinguo Ren and Patrick Rinke and Volker Blum and JÃŒrgen Wieferink and Alexandre Tkatchenko and Andrea Sanfilippo and Karsten
+Reuter and Matthias Scheffler},
+  title={Resolution-of-identity approach to HartreeâFock, hybrid density functionals, RPA, MP2 and GW with numeric atom-centered orbital basis functions},
+  journal={New Journal of Physics},
+  volume={14},
+  number={5},
+  pages={053020},
+  url={http://stacks.iop.org/1367-2630/14/i=5/a=053020},
+  year={2012},
+  abstract={The efficient implementation of electronic structure methods is essential for first principles modeling of molecules and solids. We present here a particularly efficient common framework for methods beyond semilocal density-functional theory (DFT), including HartreeâFock (HF), hybrid density functionals, random-phase approximation (RPA), second-order MÃžllerâPlesset perturbation theory (MP2) and the GW method. This computational framework allows us to use compact and accurate numeric atom-centered orbitals (NAOs), popular in many implementations of semilocal DFT, as basis functions. The essence of our framework is to employ the âresolution of identity (RI)â technique to facilitate the treatment of both the two-electron Coulomb repulsion integrals (required in all these approaches) and the linear density-response function (required for RPA and GW ). This is possible because these quantities can be expressed in terms of the products of single-particle basis functions, which can in turn be expanded in a set of auxiliary basis functions (ABFs). The construction of ABFs lies at the heart of the RI technique, and we propose here a simple prescription for constructing ABFs which can be applied regardless of whether the underlying radial functions have a specific analytical shape (e.g. Gaussian) or are numerically tabulated. We demonstrate the accuracy of our RI implementation for Gaussian and NAO basis functions, as well as the convergence behavior of our NAO basis sets for the above-mentioned methods. Benchmark results are presented for the ionization energies of 50 selected atoms and molecules from the G2 ion test set obtained with the GW and MP2 self-energy methods, and the G2-I atomization energies as well as the S22 molecular interaction energies obtained with the RPA method.}
+}
+
+@article{aims_parallel,
+title = "Efficient integration for all-electron electronic structure calculation using numeric basis functions ",
+journal = "Journal of Computational Physics ",
+volume = "228",
+number = "22",
+pages = "8367 - 8379",
+year = "2009",
+note = "",
+issn = "0021-9991",
+doi = "http://dx.doi.org/10.1016/j.jcp.2009.08.008",
+url = "http://www.sciencedirect.com/science/article/pii/S0021999109004458",
+author = "V. Havu and V. Blum and P. Havu and M. Scheffler",
+keywords = "Electronic structure theory",
+keywords = "Density functional theory",
+keywords = "Atom-centered basis functions",
+keywords = "Numerical integration grid",
+keywords = "Spatial partitioning ",
+abstract = "We consider the problem of developing O ( N ) scaling grid-based operations needed in many central operations when performing electronic structure calculations with numeric atom-centered orbitals as basis functions. We outline the overall formulation of localized algorithms, and specifically the creation of localized grid batches. The choice of the grid partitioning scheme plays an important role in the performance and memory consumption of the grid-based operations. Three different top-down partitioning methods are investigated, and compared with formally more rigorous yet much more expensive bottom-up algorithms. We show that a conceptually simple top-down grid partitioning scheme achieves essentially the same efficiency as the more rigorous bottom-up approaches. "
+}
+
+
 @article{tetra_thermo1,
 author = {Heo, Jaeseok and Laurita, Geneva and Muir, Sean and Subramanian, M. a. and Keszler, Douglas a.},
 doi = {10.1021/cm404026k},
@@ -4150,3 +4195,165 @@ pages={},
 	year = "1962",
 	publisher = "John Wiley \& Sons Inc.",
 }
+
+
+
+-------------------------------------------------------------------------------------------
+FURTHER WORK
+
+@article{CZTS_phonons,
+abstract = {The electronic structure, lattice dynamics, and Raman spectra of the kesterite, stannite, and pre-mixed Cu-Au (PMCA) structures of Cu2ZnSnS4 (CZTS) and Cu2ZnSnSe4 (CZTSe) were calculated using density functional theory (DFT). Differences in longitudinal and transverse optical (LO-TO) splitting in kesterite, stannite, and PMCA structures can be used to differentiate them. The $\Gamma$-point phonon frequencies, which give rise to Raman scattering, exhibit small but measurable shifts, for these three structures. Experimentally measured Raman scattering from CZTS and CZTSe thin films were examined in light of DFT calculations and deconvoluted to explain subtle shifts and asymmetric line shapes often observed in CZTS and CZTSe Raman spectra. Raman spectroscopy in conjunction with ab initio calculations can be used to differentiate between kesterite, stannite, and PMCA structures of CZTS and CZTSe. {\textcopyright} 2012 American Institute of Physics},
+author = {Khare, Ankur and Himmetoglu, Burak and Johnson, Melissa and Norris, David J. and Cococcioni, Matteo and Aydil, Eray S.},
+doi = {10.1063/1.4704191},
+file = {:Users/suzy/PhD/year1/Papers/1.4704191 (1).pdf:pdf},
+isbn = {0021-8979},
+issn = {00218979},
+journal = {J. Appl. Phys.},
+mendeley-groups = {PhD{\_}year1/Transfer report papers/Phonons},
+number = {8},
+title = {{Calculation of the lattice dynamics and Raman spectra of copper zinc tin chalcogenides and comparison to experiments}},
+volume = {111},
+year = {2012}
+}
+
+
+
+@article{MAPI_Eg_broadening16,
+author = {X.-Y. Zhu and V. Podzorov},
+title = {Charge Carriers in Hybrid OrganicâInorganic Lead Halide Perovskites Might Be Protected as Large Polarons},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {6},
+number = {23},
+pages = {4758-4761},
+year = {2015},
+doi = {10.1021/acs.jpclett.5b02462},
+    note ={PMID: 26575427},
+
+URL = { 
+        http://dx.doi.org/10.1021/acs.jpclett.5b02462
+    
+},
+eprint = { 
+        http://dx.doi.org/10.1021/acs.jpclett.5b02462
+    
+}
+}
+
+
+
+@article{MAPI_Eg_broadening17,
+author = {Thomas M. Brenner and David A. Egger and Andrew M. Rappe and Leeor Kronik and Gary Hodes and David Cahen},
+title = {Are Mobilities in Hybrid OrganicâInorganic Halide Perovskites Actually âHighâ?},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {6},
+number = {23},
+pages = {4754-4757},
+year = {2015},
+doi = {10.1021/acs.jpclett.5b02390},
+    note ={PMID: 26631359},
+
+URL = { 
+        http://dx.doi.org/10.1021/acs.jpclett.5b02390
+    
+},
+eprint = { 
+        http://dx.doi.org/10.1021/acs.jpclett.5b02390
+    
+}
+}
+
+
+
+
+
+@article {MAPI_Eg_broadening21,
+author = {Milot, Rebecca L. and Eperon, Giles E. and Snaith, Henry J. and Johnston, Michael B. and Herz, Laura M.},
+title = {Temperature-Dependent Charge-Carrier Dynamics in CH3NH3PbI3 Perovskite Thin Films},
+journal = {Advanced Functional Materials},
+volume = {25},
+number = {39},
+issn = {1616-3028},
+url = {http://dx.doi.org/10.1002/adfm.201502340},
+doi = {10.1002/adfm.201502340},
+pages = {6218--6227},
+keywords = {charge carriers, excitons, phase transitions, photovoltaics, terahertz},
+year = {2015},
+}
+
+
+@article{MAPI_Eg_broadening22,
+author = {Hikaru Oga and Akinori Saeki and Yuhei Ogomi and Shuzi Hayase and Shu Seki},
+title = {Improved Understanding of the Electronic and Energetic Landscapes of Perovskite Solar Cells: High Local Charge Carrier Mobility, Reduced Recombination, and Extremely Shallow Traps},
+journal = {Journal of the American Chemical Society},
+volume = {136},
+number = {39},
+pages = {13818-13825},
+year = {2014},
+doi = {10.1021/ja506936f},
+    note ={PMID: 25188538},
+
+URL = { 
+        http://dx.doi.org/10.1021/ja506936f
+    
+},
+eprint = { 
+        http://dx.doi.org/10.1021/ja506936f
+    
+}
+}
+
+
+
+@article{MAPI_Eg_broadening23,
+author = {Tom J. Savenije and Carlito S. Ponseca, Jr. and Lucas Kunneman and Mohamed Abdellah and Kaibo Zheng and Yuxi Tian and Qiushi Zhu and Sophie E. Canton and Ivan G. Scheblykin and Tonu Pullerits and Arkady Yartsev and Villy SundstrÃ¶m},
+title = {Thermally Activated Exciton Dissociation and Recombination Control the Carrier Dynamics in Organometal Halide Perovskite},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {5},
+number = {13},
+pages = {2189-2194},
+year = {2014},
+doi = {10.1021/jz500858a},
+    note ={PMID: 26279532},
+
+URL = { 
+        http://dx.doi.org/10.1021/jz500858a
+    
+},
+eprint = { 
+        http://dx.doi.org/10.1021/jz500858a
+    
+}
+
+}
+
+
+
+@article{MAPI_Eg_broadening24,
+author = {Melike Karakus and SÃžren A. Jensen and Francesco DâAngelo and Dmitry Turchinovich and Mischa Bonn and Enrique CÃ¡novas},
+title = {PhononâElectron Scattering Limits Free Charge Mobility in Methylammonium Lead Iodide Perovskites},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {6},
+number = {24},
+pages = {4991-4996},
+year = {2015},
+doi = {10.1021/acs.jpclett.5b02485},
+    note ={PMID: 26619006},
+
+URL = { 
+        http://dx.doi.org/10.1021/acs.jpclett.5b02485
+    
+},
+eprint = { 
+        http://dx.doi.org/10.1021/acs.jpclett.5b02485
+    
+}
+
+}
+
+
+
+---------------------------------------------------------------------------------------------------
+RESULTS
+
+
+

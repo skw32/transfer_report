@@ -1,5 +1,10 @@
 \chapter{Monte Carlo Simulation of Thermodynamic Disorder in \CZTS}\label{MC_section}
 
+*Add overview of Eris, what we intend to do with it, how we intend to expand it?\\
+
+In this study, we use a custom Monte Carlo code to simulate substitutional on-lattice disorder between Cu and Zn ions in {\CZTS } as a function of temperature. 
+
+
 \section{Mapping the Crystal Structure of { \CZTS } onto a Simple Lattice}
 
 \begin{figure}[h!]
@@ -9,7 +14,7 @@
   \label{CZTS_lattice_mapping}
 \end{figure}
 
-In this study, we use a custom Monte Carlo code to simulate substitutional on-lattice disorder between Cu and Zn ions in {\CZTS } as a function of temperature. The crystal structure of {\CZTS } can be described by two inter-pentrating face-centred cubic (FCC) lattices: one of metal cations and one of sulfur anions, as shown in figure \ref{CZTS_lattice_mapping}. We consider the sulfur sub-lattice to be stationary because any substitution between ions in the cation sub-lattice and sulfur anion sub-lattice would be energetically infeasible and any substitutions amongst the sulfur anions in that sub-lattice would be energetically equivalent. The sulfur sub-lattice is therefore neglected during the Monte Carlo simulations but incorporated later in calculations of lattice electrostatics. This then reduces the problem of mapping the {\CZTS } crystal structure onto a simple lattice to just one FCC cation lattice. We then map this onto a simple cubic (SC) lattice for our simulations by introducing empty lattice sites into the SC lattice, as shown in figure \ref{eris_config_eg}. \\
+The crystal structure of {\CZTS } can be described by two inter-pentrating face-centred cubic (FCC) lattices: one of metal cations and one of sulfur anions, as shown in figure \ref{CZTS_lattice_mapping}. We consider the sulfur sub-lattice to be stationary because any substitution between ions in the cation sub-lattice and sulfur anion sub-lattice would be energetically infeasible and any substitutions amongst the sulfur anions in that sub-lattice would be energetically equivalent. The sulfur sub-lattice is therefore neglected during the Monte Carlo simulations but incorporated later in calculations of lattice electrostatics. This then reduces the problem of mapping the {\CZTS } crystal structure onto a simple lattice to just one FCC cation lattice. We then map this onto a simple cubic (SC) lattice for our simulations by introducing empty lattice sites into the SC lattice, as shown in figure \ref{eris_config_eg}. \\
 
 \begin{figure}[h!]
   \centering
@@ -103,7 +108,9 @@ As simulations are performed for finite lattices, in order to simulate a bulk sy
   \label{MC_PBCs}
 \end{figure}
 
-\section{Multi-Scale Approach with Density Functional Theory}
+\section{Multi-Scale Approach with Density Functional Theory}\label{MC_DFT}
+* Add details of DFT supercell calc here\\
+
 \begin{equation}\label{eris_interaction}
 E_{electrostatic} = \frac{q_1q_2}{4\pi\epsilon_0\epsilon_r}e^2\frac{1}{r} = q_1q_2 I_{electrostatic}
 \end{equation}
