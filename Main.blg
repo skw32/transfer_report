@@ -112,30 +112,30 @@ Repeated entry---line 3187 of file bibliography/transfer_report_new.bib
  : @inbook {dielectric1
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3958 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3977 of file bibliography/transfer_report_new.bib
  : @article{HSE
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4022 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4041 of file bibliography/transfer_report_new.bib
  : @inbook{Blakemore2
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4030 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4049 of file bibliography/transfer_report_new.bib
  : @thesis{bloch-thesis
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4038 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4057 of file bibliography/transfer_report_new.bib
  : @manual{vasp-slides
  :                    ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 4152 of file bibliography/transfer_report_new.bib
+I was expecting a `,' or a `}'---line 4171 of file bibliography/transfer_report_new.bib
  :  
  :  author = "I. S. Zheludev",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "PVTEAM_paper"
 Warning--I didn't find a database entry for "Pankove"
 Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "aims_SOC"
 Too many commas in name 1 of "Ginley, David S., Cahen, David" for entry sus_book
 while executing---line 1049 of file abbrv.bst
 Name 5 in "Choi, Woo Seok and Chisholm, Matthew F. and Singh, David J. and Choi, Taekjib and Jellison, Gerald E. , and Lee, Ho Nyung title =" has a comma at the end for entry FE_PV_rev1_83
@@ -145,8 +145,10 @@ Warning--empty chapter and pages in AshcroftMermin3
 Warning--empty chapter and pages in AshcroftMermin_general
 Warning--empty journal in pathways_129
 Warning--empty chapter and pages in transport
+Warning--empty title in icsd
 Warning--empty chapter and pages in Blakemore1
 Warning--empty chapter and pages in Blakemore2
+Warning--empty title in aims
 Warning--empty chapter and pages in thin_film_Boer
 Warning--empty chapter and pages in spatial_resolved_book
 Warning--empty publisher in spatial_resolved_book
@@ -165,7 +167,6 @@ Too many commas in name 1 of "Ginley, David S., Cahen, David" for entry sus_book
 while executing---line 1090 of file abbrv.bst
 Warning--empty title in sus_book
 Warning--empty chapter and pages in Si_abundance
-Warning--empty chapter and pages in PV_Goetzberger
 Warning--empty title in keith_56
 Warning--empty chapter and pages in phys_semicond
 Warning--empty chapter and pages in elec_prop_book
@@ -206,45 +207,45 @@ Warning--empty chapter and pages in dielectric1
 Warning--empty chapter and pages in dielectric2
 Warning--empty chapter and pages in Ziman_solids
 Warning--empty chapter and pages in absorption_coeff_book1
-You've used 156 entries,
+You've used 157 entries,
             2118 wiz_defined-function locations,
-            1353 strings with 28941 characters,
-and the built_in function-call counts, 50667 in all, are:
-= -- 4615
-> -- 2853
+            1358 strings with 29401 characters,
+and the built_in function-call counts, 51610 in all, are:
+= -- 4694
+> -- 2941
 < -- 8
-+ -- 1149
-- -- 976
-* -- 3807
-:= -- 8719
-add.period$ -- 446
-call.type$ -- 156
-change.case$ -- 887
++ -- 1184
+- -- 1010
+* -- 3923
+:= -- 8885
+add.period$ -- 449
+call.type$ -- 157
+change.case$ -- 907
 chr.to.int$ -- 0
-cite$ -- 218
-duplicate$ -- 1809
-empty$ -- 3813
-format.name$ -- 976
-if$ -- 10215
+cite$ -- 220
+duplicate$ -- 1819
+empty$ -- 3852
+format.name$ -- 1010
+if$ -- 10390
 int.to.chr$ -- 0
-int.to.str$ -- 156
-missing$ -- 181
-newline$ -- 761
-num.names$ -- 312
-pop$ -- 1119
+int.to.str$ -- 157
+missing$ -- 182
+newline$ -- 766
+num.names$ -- 314
+pop$ -- 1131
 preamble$ -- 1
-purify$ -- 800
+purify$ -- 819
 quote$ -- 0
-skip$ -- 1113
+skip$ -- 1118
 stack$ -- 0
-substring$ -- 2562
+substring$ -- 2635
 swap$ -- 228
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 536
-warning$ -- 62
-while$ -- 426
-width$ -- 159
-write$ -- 1596
+type$ -- 542
+warning$ -- 63
+while$ -- 429
+width$ -- 160
+write$ -- 1608
 (There were 35 error messages)

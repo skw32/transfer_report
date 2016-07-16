@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  16 JUL 2016 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  16 JUL 2016 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1076,115 +1076,130 @@ Overfull \hbox (6.3007pt too wide) in paragraph at lines 5--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
 [72
 
 ]
 
 LaTeX Warning: Reference `stephanite_band_structure' on page 73 undefined on in
-put line 18.
+put line 16.
 
 
 LaTeX Warning: Reference `bournonite_band_structure' on page 73 undefined on in
-put line 18.
-
-
-Package natbib Warning: Citation `aims' on page 73 undefined on input line 19.
-
-
-Package natbib Warning: Citation `aims_hybrids' on page 73 undefined on input l
-ine 19.
-
-
-Package natbib Warning: Citation `aims_parallel' on page 73 undefined on input 
-line 19.
+put line 16.
 
 
 Package natbib Warning: Citation `aims_SOC' on page 73 undefined on input line 
-19.
+17.
 
 
-Package natbib Warning: Citation `icsd' on page 73 undefined on input line 20.
-
-
-Package natbib Warning: Citation `aims' on page 73 undefined on input line 22.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 22.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--23
-
- []
+LaTeX Warning: Command \r invalid in math mode on input line 20.
 
 <figures/enargite_band_structure.png, id=375, 578.16pt x 433.62pt>
 File: figures/enargite_band_structure.png Graphic file (type png)
 
 <use figures/enargite_band_structure.png>
 Package pdftex.def Info: figures/enargite_band_structure.png used on input line
- 26.
+ 24.
 (pdftex.def)             Requested size: 435.32422pt x 326.49118pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--36
-
- []
+LaTeX Warning: Reference `bournonite_band_structure' on page 73 undefined on in
+put line 31.
 
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+ [74 <./figures/enargite_band_structure.png>]
+<figures/SLME.png, id=383, 598.3956pt x 462.0462pt>
+File: figures/SLME.png Graphic file (type png)
+ <use figures/SLME.png>
+Package pdftex.def Info: figures/SLME.png used on input line 36.
+(pdftex.def)             Requested size: 435.32422pt x 336.14172pt.
+
+[75 <./figures/SLME.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-[74 <./figures/enargite_band_structure.png>]
-<figures/V_S-neutral-PARCHG.png, id=383, 653.3208pt x 350.7504pt>
+<figures/V_S-neutral-PARCHG.png, id=388, 653.3208pt x 350.7504pt>
 File: figures/V_S-neutral-PARCHG.png Graphic file (type png)
 
 <use figures/V_S-neutral-PARCHG.png>
-Package pdftex.def Info: figures/V_S-neutral-PARCHG.png used on input line 48.
+Package pdftex.def Info: figures/V_S-neutral-PARCHG.png used on input line 52.
 (pdftex.def)             Requested size: 435.32422pt x 233.71172pt.
- [75 <./figures/V_S-neutral-PARCHG.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
-
- []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--67
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- []
-
-[76] <figures/CZTS_phonons.png, id=391, 514.0806pt x 332.9238pt>
+[76] [77 <./figures/V_S-neutral-PARCHG.png>]
+<figures/CZTS_phonons.png, id=396, 514.0806pt x 332.9238pt>
 File: figures/CZTS_phonons.png Graphic file (type png)
 
 <use figures/CZTS_phonons.png>
-Package pdftex.def Info: figures/CZTS_phonons.png used on input line 70.
+Package pdftex.def Info: figures/CZTS_phonons.png used on input line 74.
 (pdftex.def)             Requested size: 338.58632pt x 219.27826pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[77 <./figures/CZTS_phonons.png>]) (./Main.bbl [78]
+[78]) [79 <./figures/CZTS_phonons.png>] (./appendices/Cu-Zn_defect_calcs.tex)
+(./appendices/sulfosalts_conv.tex [80]
+
+LaTeX Warning: File `figures/k-point_enargite.eps' not found on input line 9.
+
+Package epstopdf Info: Source file: <figures/k-point_enargite.eps>
+(epstopdf)             Output file: <figures/k-point_enargite-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2015-08-28 17:51:50
+(epstopdf)                    size: 7052 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/k-point_enargite-e
+ps-converted-to.pdf figures/k-point_enargite.eps>
+(epstopdf)             \includegraphics on input line 9.
+Package epstopdf Info: Output file is already uptodate.
+<figures/k-point_enargite-eps-converted-to.pdf, id=408, 361.35pt x 252.945pt>
+File: figures/k-point_enargite-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/k-point_enargite-eps-converted-to.pdf>
+Package pdftex.def Info: figures/k-point_enargite-eps-converted-to.pdf used on 
+input line 9.
+(pdftex.def)             Requested size: 338.58632pt x 237.01184pt.
+
+
+LaTeX Warning: File `figures/k-point_bournonite.eps' not found on input line 16
+.
+
+Package epstopdf Info: Source file: <figures/k-point_bournonite.eps>
+(epstopdf)             Output file: <figures/k-point_bournonite-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2015-08-28 17:52:08
+(epstopdf)                    size: 7128 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/k-point_bournonite
+-eps-converted-to.pdf figures/k-point_bournonite.eps>
+(epstopdf)             \includegraphics on input line 16.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/k-point_bournonite-eps-converted-to.pdf, id=409, 361.35pt x 252.945pt>
+File: figures/k-point_bournonite-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/k-point_bournonite-eps-converted-to.pdf>
+Package pdftex.def Info: figures/k-point_bournonite-eps-converted-to.pdf used o
+n input line 16.
+(pdftex.def)             Requested size: 338.58632pt x 237.01184pt.
+) (./Main.bbl [81
+
+ <./figures/k-point_enargite-eps-converted-to.pdf> <./figures/k-point_bournonit
+e-eps-converted-to.pdf>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
- [79
+ [82
 
 ]
 Missing character: There is no √ in font cmr12!
@@ -1209,16 +1224,15 @@ Missing character: There is no ¬ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ù in font cmr12!
- [80]
+ [83]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
- [81]
+ [84]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ë in font cmr12!
- [82]
-[83]
+ [85] [86]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ¢ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
@@ -1235,40 +1249,54 @@ Missing character: There is no ¬ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ì in font cmr12!
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 358.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 363.
 
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omlcmr.fd
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 358.
- [84]
-[85]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [86] [87]
-Missing character: There is no √ in font cmr12!
-Missing character: There is no É in font cmr12!
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no ∂ in font cmr12!
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 363.
+ [87]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
  [88]
-Missing character: There is no ‚ in font cmr12!
+[89]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ê in font cmr12!
- [89]
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [90]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no É in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ∂ in font cmr12!
- [90]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
  [91]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ê in font cmr12!
+ [92]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no É in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ∂ in font cmr12!
+ [93]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [94]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ì in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ¢ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
@@ -1279,19 +1307,19 @@ Missing character: There is no ì in font cmr12!
 
 Package natbib Warning: There were undefined citations.
 
-[92] (./Main.aux)
+[95] (./Main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4193 strings out of 493117
- 62247 string characters out of 6135433
- 125629 words of memory out of 5000000
- 7493 multiletter control sequences out of 15000+600000
+ 4219 strings out of 493117
+ 63007 string characters out of 6135433
+ 125686 words of memory out of 5000000
+ 7508 multiletter control sequences out of 15000+600000
  16555 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,14n,27p,2062b,872s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,14n,27p,2062b,874s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
@@ -1309,10 +1337,10 @@ e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (99 pages, 16558639 bytes).
+Output written on Main.pdf (102 pages, 17155030 bytes).
 PDF statistics:
- 502 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
+ 527 PDF objects out of 1000 (max. 8388607)
+ 300 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
 

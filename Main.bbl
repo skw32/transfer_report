@@ -49,6 +49,10 @@ W.~Bao and M.~Ichimura.
   Material Based on the First Principles Calculation}.
 \newblock {\em Int. J. Photoenergy}, 2014(c), 2014.
 
+\bibitem{icsd}
+G.~Bergerhoff and I.~Brown.
+\newblock {\em Crystallographic Databases}, 1987.
+
 \bibitem{BIPV}
 BISEM.
 \newblock {\em SMUD \& BISEM-USA complete first ever PV Curtain Wall Retrofit
@@ -63,6 +67,11 @@ J.~Blakemore.
 J.~Blakemore.
 \newblock {\em Electrons in Metals: The band Theory of Solids}.
 \newblock Cambridge University Press, 1985.
+
+\bibitem{aims}
+V.~Blum, R.~Gehrke, F.~Hanke, P.~Havu, V.~Havu, X.~Ren, K.~Reuter, and
+  M.~Scheffler.
+\newblock {\em Computer Physics Communications}, 180:2175--2196, 2009.
 
 \bibitem{thin_film_Boer}
 K.~W. B{\"o}er.
@@ -230,11 +239,6 @@ J.~E. Girard.
 \newblock {\em Principles of Environmental Chemistry}.
 \newblock Jones \& Bartlett Learning, LLC, 2014.
 
-\bibitem{PV_Goetzberger}
-A.~Goetzberger and V.~U. Hoffmann.
-\newblock {\em Photovoltaic Solar Energy Generation}.
-\newblock Springer, 2005.
-
 \bibitem{band_tail}
 T.~Gokmen, O.~Gunawan, T.~K. Todorov, and D.~B. Mitzi.
 \newblock Band tailing and efficiency limitation in kesterite solar cells.
@@ -260,6 +264,12 @@ D.~P. Halliday, R.~Claridge, M.~C. Goodman, B.~G. Mendis, K.~Durose, and J.~D.
 \newblock {Luminescence of $Cu_{2}ZnSnS_{4}$ polycrystals described by the
   fluctuating potential model}.
 \newblock {\em J. Appl. Phys.}, 113(22):2013, 2013.
+
+\bibitem{aims_parallel}
+V.~Havu, V.~Blum, P.~Havu, and M.~Scheffler.
+\newblock Efficient integration for all-electron electronic structure
+  calculation using numeric basis functions.
+\newblock {\em Journal of Computational Physics}, 228(22):8367 -- 8379, 2009.
 
 \bibitem{emerging_pv}
 W.~Hermes, D.~Waldmann, M.~Agari, K.~Schierle-Arndt, and P.~Erk.
@@ -302,11 +312,6 @@ K.~Ito.
 \bibitem{first_CZTS}
 K.~Ito and T.~Nakazawa.
 \newblock {\em Jpn. J. Appl. Phys.}, 27:2094--2097, 1998.
-
-\bibitem{Adam_sulfur}
-A.~J. Jackson, D.~Tiana, and A.~Walsh.
-\newblock {A universal chemical potential for sulfur vapours}.
-\newblock {\em Chem. Sci.}, 00:1--11, 2015.
 
 \bibitem{pathways}
 J.~Jean, P.~R. Brown, R.~L. Jaffe, T.~Buonassisi, and V.~Bulovic.
@@ -374,11 +379,6 @@ D.~W. Lane, K.~J. Hutchings, R.~McCracken, and I.~Forbes.
 \newblock {\em New Chalcogenide Materials for Thin Film Solar Cells}.
 \newblock The Royal Society of Chemistry, 2015.
 
-\bibitem{Germany_Lang}
-M.~Lang and A.~Lang.
-\newblock {\em Overview Renewable Energy Sources Act}, 2014 (Accessed on 05
-  May, 2016).
-
 \bibitem{Lesar3}
 R.~Lesar.
 \newblock {\em The Monte Carlo Method}.
@@ -413,12 +413,6 @@ D.~Ltd.
 A.~Luque and S.~Hegedus.
 \newblock {\em Handbook of Photovoltaic Science and Engineering}.
 \newblock John Wiely \& Sons, Ltd, 2011.
-
-\bibitem{ores1}
-S.~Maske and B.~J. Skinner.
-\newblock Studies of the sulfosalts of copper; i, phases and phase relations in
-  the system cu-as-s.
-\newblock {\em Economic Geology}, 66:901--918, 1971.
 
 \bibitem{PV_handbook}
 A.~McEvoy, T.~Markvart, and L.~C. {n}er.
@@ -578,6 +572,14 @@ I.~E. A. P. P.~S. Programme.
 \bibitem{CIS1_4}
 K.~Ramanathan and et~al.
 \newblock {\em Prog. Photovolt. Res. Appl.}, 2003.
+
+\bibitem{aims_hybrids}
+X.~Ren, P.~Rinke, V.~Blum, J.~Wieferink, A.~Tkatchenko, A.~Sanfilippo,
+  K.~Reuter, and M.~Scheffler.
+\newblock Resolution-of-identity approach to hartreeâfock, hybrid density
+  functionals, rpa, mp2 and gw with numeric atom-centered orbital basis
+  functions.
+\newblock {\em New Journal of Physics}, 14(5):053020, 2012.
 
 \bibitem{Romero}
 M.~J. Romero, H.~Du, G.~Teeter, Y.~Yan, and M.~M. Al-Jassim.
@@ -852,6 +854,13 @@ H.~Zhao and C.~Persson.
 \newblock {\em Thin Solid Films}, 519(21):7508 -- 7512, 2011.
 \newblock Proceedings of the \{EMRS\} 2010 Spring Meeting Symposium M: Thin
   Film Chalcogenide Photovoltaic Materials.
+
+\bibitem{Rashba_MAPI}
+F.~Zheng, L.~Z. Tan, S.~Liu, and A.~M. Rappe.
+\newblock Rashba spinâorbit coupling enhanced carrier lifetime in
+  ch3nh3pbi3.
+\newblock {\em Nano Letters}, 15(12):7794--7800, 2015.
+\newblock PMID: 26461166.
 
 \bibitem{MAPI_Eg_broadening16}
 X.-Y. Zhu and V.~Podzorov.

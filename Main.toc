@@ -30,6 +30,8 @@
 \contentsline {section}{\numberline {5.1}Thermodynamic Disorder of Cu and Zn in {Cu$_2$ZnSnS$_4$}}{72}
 \contentsline {section}{\numberline {5.2}Further Development of Monte Carlo Disorder Models}{72}
 \contentsline {section}{\numberline {5.3}Predicting the Photovoltaic Performance of Metal Sulfide Materials}{72}
-\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{74}
-\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{76}
-\contentsline {chapter}{Bibliography}{78}
+\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{76}
+\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{77}
+\contentsline {chapter}{Cu-Zn Defect Calculations *edit*}{80}
+\contentsline {chapter}{Convergence of Total Energy with Number of K-Points}{80}
+\contentsline {chapter}{Bibliography}{81}
