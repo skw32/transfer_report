@@ -207,45 +207,45 @@ Warning--empty chapter and pages in dielectric1
 Warning--empty chapter and pages in dielectric2
 Warning--empty chapter and pages in Ziman_solids
 Warning--empty chapter and pages in absorption_coeff_book1
-You've used 157 entries,
+You've used 159 entries,
             2118 wiz_defined-function locations,
-            1358 strings with 29401 characters,
-and the built_in function-call counts, 51610 in all, are:
-= -- 4694
-> -- 2941
+            1371 strings with 29780 characters,
+and the built_in function-call counts, 52420 in all, are:
+= -- 4766
+> -- 3007
 < -- 8
-+ -- 1184
-- -- 1010
-* -- 3923
-:= -- 8885
-add.period$ -- 449
-call.type$ -- 157
-change.case$ -- 907
++ -- 1210
+- -- 1034
+* -- 3992
+:= -- 9033
+add.period$ -- 455
+call.type$ -- 159
+change.case$ -- 925
 chr.to.int$ -- 0
-cite$ -- 220
-duplicate$ -- 1819
-empty$ -- 3852
-format.name$ -- 1010
-if$ -- 10390
+cite$ -- 222
+duplicate$ -- 1840
+empty$ -- 3895
+format.name$ -- 1034
+if$ -- 10546
 int.to.chr$ -- 0
-int.to.str$ -- 157
-missing$ -- 182
-newline$ -- 766
-num.names$ -- 314
-pop$ -- 1131
+int.to.str$ -- 159
+missing$ -- 184
+newline$ -- 776
+num.names$ -- 318
+pop$ -- 1145
 preamble$ -- 1
-purify$ -- 819
+purify$ -- 835
 quote$ -- 0
-skip$ -- 1118
+skip$ -- 1133
 stack$ -- 0
-substring$ -- 2635
-swap$ -- 228
+substring$ -- 2666
+swap$ -- 230
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 542
+type$ -- 550
 warning$ -- 63
-while$ -- 429
-width$ -- 160
-write$ -- 1608
+while$ -- 434
+width$ -- 162
+write$ -- 1630
 (There were 35 error messages)

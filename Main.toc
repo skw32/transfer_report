@@ -20,18 +20,19 @@
 \contentsline {subsection}{\numberline {3.3.3}Photoluminescence Spectra of Cu$_2$ZnSnS$_4$}{57}
 \contentsline {chapter}{\numberline {4}Monte Carlo Simulation of Thermodynamic Disorder in Cu$_2$ZnSnS$_4$}{61}
 \contentsline {section}{\numberline {4.1}Mapping the Crystal Structure of { Cu$_2$ZnSnS$_4$} onto a Simple Lattice}{61}
-\contentsline {section}{\numberline {4.2}Monte Carlo Simulation with the Metropolis Algorithm}{65}
+\contentsline {section}{\numberline {4.2}Monte Carlo Simulation with the Metropolis Algorithm}{64}
 \contentsline {section}{\numberline {4.3}Equilibration \& Finite Size Effects}{67}
 \contentsline {section}{\numberline {4.4}Multi-Scale Approach with Density Functional Theory}{70}
 \contentsline {section}{\numberline {4.5}Spatial Extent of Disorder Amongst Cu \& Zn Ions}{71}
 \contentsline {section}{\numberline {4.6}Quantification of Disorder Using Radial Distribution Functions}{71}
-\contentsline {section}{\numberline {4.7}Band Tailing from the Distribution of Electrostatic Potential}{71}
-\contentsline {chapter}{\numberline {5}Conclusion \& Future Work}{72}
-\contentsline {section}{\numberline {5.1}Thermodynamic Disorder of Cu and Zn in {Cu$_2$ZnSnS$_4$}}{72}
-\contentsline {section}{\numberline {5.2}Further Development of Monte Carlo Disorder Models}{72}
-\contentsline {section}{\numberline {5.3}Predicting the Photovoltaic Performance of Metal Sulfide Materials}{72}
-\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{76}
-\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{77}
-\contentsline {chapter}{Cu-Zn Defect Calculations *edit*}{80}
-\contentsline {chapter}{Convergence of Total Energy with Number of K-Points}{80}
-\contentsline {chapter}{Bibliography}{81}
+\contentsline {section}{\numberline {4.7}Band Tailing from the Distribution of Electrostatic Potential}{72}
+\contentsline {chapter}{\numberline {5}Conclusion \& Future Work}{74}
+\contentsline {section}{\numberline {5.1}Thermodynamic Disorder of Cu and Zn in {Cu$_2$ZnSnS$_4$}}{74}
+\contentsline {section}{\numberline {5.2}Further Development of Monte Carlo Disorder Models}{74}
+\contentsline {section}{\numberline {5.3}Predicting the Photovoltaic Performance of Metal Sulfide Materials}{74}
+\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{78}
+\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{81}
+\contentsline {chapter}{\numberline {A}Calculation of the Formation Energy of the [$Cu_{Zn}^- + Zn_{Cu}^+$] Defect Pair in {Cu$_2$ZnSnS$_4$}}{84}
+\contentsline {chapter}{\numberline {B}Convergence of Total Energy with Number of K-Points}{87}
+\contentsline {chapter}{\numberline {C}High Symmetry Paths for Sulfosalt Band Structure Calculations}{89}
+\contentsline {chapter}{Bibliography}{90}
