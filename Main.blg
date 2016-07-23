@@ -1,155 +1,154 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Main.aux
 The style file: abbrv.bst
 Database file #1: bibliography/transfer_report_new.bib
-I was expecting a `,' or a `}'---line 271 of file bibliography/transfer_report_new.bib
+I was expecting a `,' or a `}'---line 277 of file bibliography/transfer_report_new.bib
  : author = 0
  :           P. Rinke and A. Schleife and E. Kioupakis and A. Janotti and C. R\"{o}dl, F. Bechstedt and M. Scheffer and C. G. Van de Walle,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 548 of file bibliography/transfer_report_new.bib
+I was expecting a `,' or a `}'---line 554 of file bibliography/transfer_report_new.bib
  :  
  :  A McEvoy and T Markvart and L Casta\~{n}er",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field part---line 1326 of file bibliography/transfer_report_new.bib
+You're missing a field part---line 1332 of file bibliography/transfer_report_new.bib
  :    eid = 
  :          ,
 I'm skipping whatever remains of this entry
-You're missing a field part---line 1355 of file bibliography/transfer_report_new.bib
+You're missing a field part---line 1361 of file bibliography/transfer_report_new.bib
  :    eid = 
  :          ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1403 of file bibliography/transfer_report_new.bib
+I was expecting a `,' or a `}'---line 1409 of file bibliography/transfer_report_new.bib
  :    
  :    journal = "Applied Physics Letters",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 1521 of file bibliography/transfer_report_new.bib
+Repeated entry---line 1527 of file bibliography/transfer_report_new.bib
  : @inbook{Si_abundance
  :                     ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1695 of file bibliography/transfer_report_new.bib
+I was expecting a `,' or a `}'---line 1701 of file bibliography/transfer_report_new.bib
  :  
  :  publisher = "North-Holland Physics Publishing",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--entry type for "bloch-thesis" isn't style-file defined
---line 1939 of file bibliography/transfer_report_new.bib
-Unbalanced braces---line 2019 of file bibliography/transfer_report_new.bib
+--line 1945 of file bibliography/transfer_report_new.bib
+Unbalanced braces---line 2025 of file bibliography/transfer_report_new.bib
  :  author = "Spaeth, J and Overhof, H
  :                                    }",
 I'm skipping whatever remains of this entry
-Repeated entry---line 2426 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2432 of file bibliography/transfer_report_new.bib
  : @article{pathways
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2461 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2467 of file bibliography/transfer_report_new.bib
  : @article{pathways_129
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2467 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2473 of file bibliography/transfer_report_new.bib
  : @article{pathways_130
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2489 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2495 of file bibliography/transfer_report_new.bib
  : @article{emerging_pv
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2505 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2511 of file bibliography/transfer_report_new.bib
  : @article{sus_book_5
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2604 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2610 of file bibliography/transfer_report_new.bib
  : @manual{first_solar
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2629 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2635 of file bibliography/transfer_report_new.bib
  : @article{SQ_1961
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2642 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2648 of file bibliography/transfer_report_new.bib
  : @book{sus_book
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2730 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2736 of file bibliography/transfer_report_new.bib
  : @article{CZTS_bandgap_theory
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2752 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2758 of file bibliography/transfer_report_new.bib
  : @article{CZTS_bandgap_exp
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2767 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2773 of file bibliography/transfer_report_new.bib
  : @article{first_CZTS
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2822 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2828 of file bibliography/transfer_report_new.bib
  : @article{3rd_gen
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2933 of file bibliography/transfer_report_new.bib
+Repeated entry---line 2939 of file bibliography/transfer_report_new.bib
  : @inbook{CZTS_book
  :                  ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 2945 of file bibliography/transfer_report_new.bib
+I was expecting a `,' or a `}'---line 2951 of file bibliography/transfer_report_new.bib
  :    title = "
  :             Wide bandgap tunability in complex transition metal oxides by site-specific substitution",
 I'm skipping whatever remains of this entry
-Repeated entry---line 3110 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3116 of file bibliography/transfer_report_new.bib
  : @inbook{Nelson1
  :                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3118 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3124 of file bibliography/transfer_report_new.bib
  : @inbook {handbook
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3131 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3137 of file bibliography/transfer_report_new.bib
  : @manual{PVeducation
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3206 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3212 of file bibliography/transfer_report_new.bib
  : @inbook {dielectric1
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3507 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3513 of file bibliography/transfer_report_new.bib
  : @inbook{Lesar
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3515 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3521 of file bibliography/transfer_report_new.bib
  : @article{hohenberg_kohn
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3523 of file bibliography/transfer_report_new.bib
+Repeated entry---line 3529 of file bibliography/transfer_report_new.bib
  : @article{PBE
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3996 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4002 of file bibliography/transfer_report_new.bib
  : @article{HSE
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4060 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4066 of file bibliography/transfer_report_new.bib
  : @inbook{Blakemore2
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4068 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4074 of file bibliography/transfer_report_new.bib
  : @thesis{bloch-thesis
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4076 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4082 of file bibliography/transfer_report_new.bib
  : @manual{vasp-slides
  :                    ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 4190 of file bibliography/transfer_report_new.bib
+I was expecting a `,' or a `}'---line 4196 of file bibliography/transfer_report_new.bib
  :  
  :  author = "I. S. Zheludev",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 4425 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4431 of file bibliography/transfer_report_new.bib
  : @article{Adam_sulfur
  :                     ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Pankove"
 Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "aims_SOC"
 Too many commas in name 1 of "Ginley, David S., Cahen, David" for entry sus_book
@@ -214,6 +213,7 @@ Warning--empty chapter and pages in Nelson2
 Warning--empty chapter and pages in MC
 Warning--empty chapter and pages in newnham
 Warning--empty journal in sus_book_5
+Warning--empty chapter and pages in Pankove
 Warning--empty chapter and pages in mat_prop1
 Warning--empty journal in pathways_130
 Warning--empty title in CIS1_4
@@ -231,45 +231,45 @@ Warning--empty chapter and pages in dielectric1
 Warning--empty chapter and pages in dielectric2
 Warning--empty chapter and pages in Ziman_solids
 Warning--empty chapter and pages in absorption_coeff_book1
-You've used 172 entries,
+You've used 173 entries,
             2118 wiz_defined-function locations,
-            1441 strings with 31713 characters,
-and the built_in function-call counts, 56520 in all, are:
-= -- 5153
-> -- 3213
+            1445 strings with 31786 characters,
+and the built_in function-call counts, 56749 in all, are:
+= -- 5172
+> -- 3220
 < -- 8
-+ -- 1291
-- -- 1102
-* -- 4318
-:= -- 9726
-add.period$ -- 491
-call.type$ -- 172
-change.case$ -- 994
++ -- 1294
+- -- 1104
+* -- 4329
+:= -- 9765
+add.period$ -- 494
+call.type$ -- 173
+change.case$ -- 997
 chr.to.int$ -- 0
-cite$ -- 243
-duplicate$ -- 1988
-empty$ -- 4216
-format.name$ -- 1102
-if$ -- 11375
+cite$ -- 245
+duplicate$ -- 2001
+empty$ -- 4241
+format.name$ -- 1104
+if$ -- 11424
 int.to.chr$ -- 0
-int.to.str$ -- 172
-missing$ -- 199
-newline$ -- 838
-num.names$ -- 342
-pop$ -- 1220
+int.to.str$ -- 173
+missing$ -- 201
+newline$ -- 843
+num.names$ -- 344
+pop$ -- 1230
 preamble$ -- 1
-purify$ -- 895
+purify$ -- 898
 quote$ -- 0
-skip$ -- 1224
+skip$ -- 1229
 stack$ -- 0
-substring$ -- 2910
-swap$ -- 243
+substring$ -- 2915
+swap$ -- 244
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 596
-warning$ -- 71
-while$ -- 472
-width$ -- 175
-write$ -- 1762
+type$ -- 598
+warning$ -- 72
+while$ -- 474
+width$ -- 176
+write$ -- 1772
 (There were 39 error messages)

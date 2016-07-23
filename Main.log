@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  23 JUL 2016 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.12)  23 JUL 2016 20:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Main.tex
 (./Main.tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -24,22 +24,21 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -59,66 +58,66 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \openout2 = `preamble.aux'.
 
 (./preamble.tex
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 96.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks16
 \verbatim@line=\toks17
 \verbatim@in@stream=\read1
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/latexsym.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
-(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 )
 (./mathchars.sty)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (./blocked.sty) (./uhead.sty) (./boxit.sty) (./UoB.sty)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count92
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box26
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen113
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
+(/usr/local/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen114
 \lightrulewidth=\dimen115
 \cmidrulewidth=\dimen116
@@ -137,41 +136,41 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count96
 \@thisrulewidth=\dimen126
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen127
 ))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen128
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count97
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count98
 \leftroot@=\count99
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count100
 \DOTSCASE@=\count101
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
 \big@size=\dimen129
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \macc@depth=\count102
 \c@MaxMatrixCols=\count103
 \dotsspace@=\muskip10
@@ -192,8 +191,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip46
 \multlinetaggap=\skip47
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
 )
 \c@definition=\count109
 \c@theorem=\count110
@@ -254,7 +253,7 @@ LaTeX Font Info:    ... okay on input line 6.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
 \scratchdimen=\dimen136
@@ -267,12 +266,12 @@ LaTeX Font Info:    ... okay on input line 6.
 \MPnumerator=\count115
 \makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks24
-) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -280,23 +279,23 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
@@ -305,9 +304,9 @@ Package etexcmds Info: Could not find \expanded.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -340,18 +339,18 @@ Missing character: There is no ¢ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¢ in font cmr10!
-(./abstract/abstract.tex [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/
+(./abstract/abstract.tex [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/
 updmap/pdftex.map} <./figures/cover.pdf>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
 LaTeX Font Info:    Try loading font information for U+lasy on input line 8.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
@@ -383,11 +382,11 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
  [2 <./figures/global_energy.png (PNG copy)>]
-<figures/BIPV.jpg, id=57, 4221.7725pt x 2807.48875pt>
+<figures/BIPV.jpg, id=57, 1013.2254pt x 673.7973pt>
 File: figures/BIPV.jpg Graphic file (type jpg)
  <use figures/BIPV.jpg>
 Package pdftex.def Info: figures/BIPV.jpg used on input line 22.
-(pdftex.def)             Requested size: 314.40001pt x 209.0532pt.
+(pdftex.def)             Requested size: 314.40001pt x 209.07034pt.
 
 <figures/LCOE.png, id=58, 2092.81876pt x 1473.505pt>
 File: figures/LCOE.png Graphic file (type png)
@@ -697,286 +696,137 @@ Underfull \vbox (badness 7203) has occurred while \output is active []
  [39]
 [40]
 Chapter 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-LaTeX Warning: Reference `supercell_section' on page 41 undefined on input line
- 9.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
-
- []
-
 [41
 
 ] <figures/Wigner-Seitz.png, id=230, 399.4122pt x 205.2468pt>
 File: figures/Wigner-Seitz.png Graphic file (type png)
 
 <use figures/Wigner-Seitz.png>
-Package pdftex.def Info: figures/Wigner-Seitz.png used on input line 17.
+Package pdftex.def Info: figures/Wigner-Seitz.png used on input line 16.
 (pdftex.def)             Requested size: 241.84843pt x 124.2796pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [42 <./figures/Wigner-Seitz.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
 <figures/band_Elevels.png, id=238, 722.7pt x 275.5896pt>
 File: figures/band_Elevels.png Graphic file (type png)
 
 <use figures/band_Elevels.png>
-Package pdftex.def Info: figures/band_Elevels.png used on input line 35.
+Package pdftex.def Info: figures/band_Elevels.png used on input line 32.
 (pdftex.def)             Requested size: 338.58632pt x 129.115pt.
- [43] [44 <./figures/band_Elevels.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
-
- []
-
-<figures/bs1.png, id=246, 690.4194pt x 388.8126pt>
+ [43 <./figures/band_Elevels.png>]
+<figures/bs1.png, id=243, 690.4194pt x 388.8126pt>
 File: figures/bs1.png Graphic file (type png)
  <use figures/bs1.png>
-Package pdftex.def Info: figures/bs1.png used on input line 61.
+Package pdftex.def Info: figures/bs1.png used on input line 58.
 (pdftex.def)             Requested size: 338.58632pt x 190.67409pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
-
+ [44]
 [45 <./figures/bs1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
-
- []
-
 <figures/energy_dispersion.png, id=252, 508.7808pt x 332.442pt>
 File: figures/energy_dispersion.png Graphic file (type png)
 
 <use figures/energy_dispersion.png>
-Package pdftex.def Info: figures/energy_dispersion.png used on input line 73.
+Package pdftex.def Info: figures/energy_dispersion.png used on input line 70.
 (pdftex.def)             Requested size: 193.47578pt x 126.42058pt.
- [46 <./figures/energy_dispersion.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--118
-
- []
-
-[47] <figures/defects.png, id=260, 722.7pt x 250.0542pt>
-File: figures/defects.png Graphic file (type png)
-
-<use figures/defects.png>
-Package pdftex.def Info: figures/defects.png used on input line 121.
-(pdftex.def)             Requested size: 435.32422pt x 150.62125pt.
- [48 <./figures/defects.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
-
- []
-
-[49] <figures/bs2.png, id=269, 638.8668pt x 410.9754pt>
-File: figures/bs2.png Graphic file (type png)
- <use figures/bs2.png>
-Package pdftex.def Info: figures/bs2.png used on input line 144.
-(pdftex.def)             Requested size: 338.58632pt x 217.80965pt.
-
-
-Package natbib Warning: Citation `Pankove' on page 50 undefined on input line 1
-49.
-
-
-Package natbib Warning: Citation `Pankove' on page 50 undefined on input line 1
-50.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
-
- []
-
-[50 <./figures/bs2.png>]
-<figures/pankove_band_tailing.png, id=274, 236.5638pt x 297.7524pt>
-File: figures/pankove_band_tailing.png Graphic file (type png)
-
-<use figures/pankove_band_tailing.png>
-Package pdftex.def Info: figures/pankove_band_tailing.png used on input line 15
-4.
-(pdftex.def)             Requested size: 193.47578pt x 243.51793pt.
-
-
-Package natbib Warning: Citation `Pankove' on page 51 undefined on input line 1
-55.
-
-
-Package natbib Warning: Citation `Pankove' on page 51 undefined on input line 1
-55.
-
-<figures/PL_transitions.png, id=275, 726.5544pt x 324.2514pt>
-File: figures/PL_transitions.png Graphic file (type png)
-
-<use figures/PL_transitions.png>
-Package pdftex.def Info: figures/PL_transitions.png used on input line 163.
-(pdftex.def)             Requested size: 483.69687pt x 215.87186pt.
-
-
-Package natbib Warning: Citation `Pankove' on page 51 undefined on input line 1
-64.
-
-
-Package natbib Warning: Citation `Pankove' on page 51 undefined on input line 1
-64.
-
-[51 <./figures/pankove_band_tailing.png>]
-
-Package natbib Warning: Citation `Pankove' on page 52 undefined on input line 1
-68.
-
-<figures/pankove_elec_fluc.png, id=280, 366.168pt x 252.945pt>
-File: figures/pankove_elec_fluc.png Graphic file (type png)
-
-<use figures/pankove_elec_fluc.png>
-Package pdftex.def Info: figures/pankove_elec_fluc.png used on input line 172.
-(pdftex.def)             Requested size: 290.22107pt x 200.48434pt.
-
-
-Package natbib Warning: Citation `Pankove' on page 52 undefined on input line 1
-73.
-
-
-Package natbib Warning: Citation `Pankove' on page 52 undefined on input line 1
-73.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/pankove_band_fluc.png, id=281, 696.6828pt x 380.622pt>
-File: figures/pankove_band_fluc.png Graphic file (type png)
-
-<use figures/pankove_band_fluc.png>
-Package pdftex.def Info: figures/pankove_band_fluc.png used on input line 179.
-(pdftex.def)             Requested size: 483.69687pt x 264.26724pt.
-
-
-Package natbib Warning: Citation `Pankove' on page 52 undefined on input line 1
-80.
-
-
-Package natbib Warning: Citation `Pankove' on page 52 undefined on input line 1
-80.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
-
- []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52 <./figures/PL_transitions.png>] [53 <./figures/pankove_elec_fluc.png> <./f
-igures/pankove_band_fluc.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 189--192
+ [46 <./figures/energy_dispersion.png>]
+<figures/defects.png, id=257, 722.7pt x 250.0542pt>
+File: figures/defects.png Graphic file (type png)
+ <use figures/defects.png>
+Package pdftex.def Info: figures/defects.png used on input line 116.
+(pdftex.def)             Requested size: 435.32422pt x 150.62125pt.
 
- []
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Underfull \vbox (badness 3579) has occurred while \output is active []
+[47] [48 <./figures/defects.png>]
+<figures/bs2.png, id=266, 638.8668pt x 410.9754pt>
+File: figures/bs2.png Graphic file (type png)
+ <use figures/bs2.png>
+Package pdftex.def Info: figures/bs2.png used on input line 139.
+(pdftex.def)             Requested size: 338.58632pt x 217.80965pt.
 
- [54]
-<figures/CZTS_phase_diagram.png, id=295, 720.7728pt x 428.3202pt>
+[49 <./figures/bs2.png>]
+<figures/pankove_band_tailing.png, id=271, 236.5638pt x 297.7524pt>
+File: figures/pankove_band_tailing.png Graphic file (type png)
+
+<use figures/pankove_band_tailing.png>
+Package pdftex.def Info: figures/pankove_band_tailing.png used on input line 14
+9.
+(pdftex.def)             Requested size: 193.47578pt x 243.51793pt.
+ [50 <./figures/pankove_band_tailing.png>] <figures/PL_transitions.png, id=276,
+ 726.5544pt x 324.2514pt>
+File: figures/PL_transitions.png Graphic file (type png)
+
+<use figures/PL_transitions.png>
+Package pdftex.def Info: figures/PL_transitions.png used on input line 158.
+(pdftex.def)             Requested size: 483.69687pt x 215.87186pt.
+ [51 <./figures/PL_transitions.png>]
+<figures/pankove_elec_fluc.png, id=281, 366.168pt x 252.945pt>
+File: figures/pankove_elec_fluc.png Graphic file (type png)
+
+<use figures/pankove_elec_fluc.png>
+Package pdftex.def Info: figures/pankove_elec_fluc.png used on input line 167.
+(pdftex.def)             Requested size: 290.22107pt x 200.48434pt.
+
+<figures/pankove_band_fluc.png, id=282, 696.6828pt x 380.622pt>
+File: figures/pankove_band_fluc.png Graphic file (type png)
+
+<use figures/pankove_band_fluc.png>
+Package pdftex.def Info: figures/pankove_band_fluc.png used on input line 174.
+(pdftex.def)             Requested size: 483.69687pt x 264.26724pt.
+
+Underfull \vbox (badness 4967) has occurred while \output is active []
+
+ [52 <./figures/pankove_elec_fluc.png> <./figures/pankove_band_fluc.png>]
+Underfull \vbox (badness 1259) has occurred while \output is active []
+
+ [53]
+<figures/CZTS_phase_diagram.png, id=291, 720.7728pt x 428.3202pt>
 File: figures/CZTS_phase_diagram.png Graphic file (type png)
 
 <use figures/CZTS_phase_diagram.png>
-Package pdftex.def Info: figures/CZTS_phase_diagram.png used on input line 195.
+Package pdftex.def Info: figures/CZTS_phase_diagram.png used on input line 189.
 
 (pdftex.def)             Requested size: 386.95897pt x 229.95619pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--207
-
- []
-
-[55 <./figures/CZTS_phase_diagram.png>]
-<figures/urbach_fig.png, id=300, 317.0244pt x 348.3414pt>
+ [54 <./figures/CZTS_phase_diagram.png>]
+<figures/urbach_fig.png, id=297, 317.0244pt x 348.3414pt>
 File: figures/urbach_fig.png Graphic file (type png)
 
 <use figures/urbach_fig.png>
-Package pdftex.def Info: figures/urbach_fig.png used on input line 213.
-(pdftex.def)             Requested size: 290.22107pt x 318.90997pt.
+Package pdftex.def Info: figures/urbach_fig.png used on input line 207.
+(pdftex.def)             Requested size: 217.66211pt x 239.1652pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
-
- []
-
-
 Underfull \vbox (badness 3579) has occurred while \output is active []
 
- [56]
-Underfull \vbox (badness 1540) has occurred while \output is active []
+ [55]
+Underfull \vbox (badness 5787) has occurred while \output is active []
 
- [57 <./figures/urbach_fig.png>] <figures/CZTS+CIGS_PL.png, id=309, 722.7pt x 3
+ [56 <./figures/urbach_fig.png>] <figures/CZTS+CIGS_PL.png, id=306, 722.7pt x 3
 05.943pt>
 File: figures/CZTS+CIGS_PL.png Graphic file (type png)
 
 <use figures/CZTS+CIGS_PL.png>
-Package pdftex.def Info: figures/CZTS+CIGS_PL.png used on input line 224.
+Package pdftex.def Info: figures/CZTS+CIGS_PL.png used on input line 218.
 (pdftex.def)             Requested size: 483.69687pt x 204.76599pt.
 
-Overfull \hbox (17.6957pt too wide) in paragraph at lines 229--231
+Overfull \hbox (17.6957pt too wide) in paragraph at lines 223--225
 []\OT1/cmr/m/n/12 Several PL stud-ies have been per-formed on kesterite-structu
 red sam-ples of Cu$[]$ZnSnS$[]$, Cu$[]$ZnSnSe$[]$
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--231
-
- []
-
-[58 <./figures/CZTS+CIGS_PL.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
-
- []
-
-[59]) (./results/eris_results.tex [60]
+[57 <./figures/CZTS+CIGS_PL.png>] [58]) (./results/eris_results.tex [59]
 Chapter 4.
-<figures/CZTS_lattice_mapping.png, id=321, 330.5148pt x 251.0178pt>
+<figures/CZTS_lattice_mapping.png, id=317, 330.5148pt x 251.0178pt>
 File: figures/CZTS_lattice_mapping.png Graphic file (type png)
 
 <use figures/CZTS_lattice_mapping.png>
@@ -987,7 +837,7 @@ Package pdftex.def Info: figures/CZTS_lattice_mapping.png used on input line 9.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/eris_config_eg.png, id=322, 677.8926pt x 280.4076pt>
+<figures/eris_config_eg.png, id=318, 677.8926pt x 280.4076pt>
 File: figures/eris_config_eg.png Graphic file (type png)
 
 <use figures/eris_config_eg.png>
@@ -997,38 +847,38 @@ Package pdftex.def Info: figures/eris_config_eg.png used on input line 16.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[61
+[60
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62 <./figures/CZTS_lattice_mapping.png> <./figures/eris_config_eg.png>]
+ [61 <./figures/CZTS_lattice_mapping.png> <./figures/eris_config_eg.png>]
 
 LaTeX Warning: Command \r invalid in math mode on input line 23.
 
-<figures/CZTS_lattice_scaling.png, id=331, 705.837pt x 468.3096pt>
+<figures/CZTS_lattice_scaling.png, id=328, 705.837pt x 468.3096pt>
 File: figures/CZTS_lattice_scaling.png Graphic file (type png)
 
 <use figures/CZTS_lattice_scaling.png>
 Package pdftex.def Info: figures/CZTS_lattice_scaling.png used on input line 27
 .
 (pdftex.def)             Requested size: 435.32422pt x 288.83403pt.
- [63 <./figures/CZTS_lattice_scaling.png>] <figures/unit_cell_eris_supercell.pn
-g, id=336, 545.8794pt x 295.8252pt>
+ [62 <./figures/CZTS_lattice_scaling.png>] <figures/unit_cell_eris_supercell.pn
+g, id=333, 545.8794pt x 295.8252pt>
 File: figures/unit_cell_eris_supercell.png Graphic file (type png)
 
 <use figures/unit_cell_eris_supercell.png>
 Package pdftex.def Info: figures/unit_cell_eris_supercell.png used on input lin
 e 36.
 (pdftex.def)             Requested size: 435.32422pt x 235.91115pt.
- [64 <./figures/unit_cell_eris_supercell.png>]
+ [63 <./figures/unit_cell_eris_supercell.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65]
+ [64]
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [66]
-<figures/MC_PBCs.png, id=352, 308.15125pt x 329.23pt>
+ [65]
+<figures/MC_PBCs.png, id=348, 308.15125pt x 329.23pt>
 File: figures/MC_PBCs.png Graphic file (type png)
 
 <use figures/MC_PBCs.png>
@@ -1038,17 +888,17 @@ Package pdftex.def Info: figures/MC_PBCs.png used on input line 90.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[67] <figures/ising_equil.png, id=356, 669.702pt x 273.6624pt>
+[66] <figures/ising_equil.png, id=353, 669.702pt x 273.6624pt>
 File: figures/ising_equil.png Graphic file (type png)
 
 <use figures/ising_equil.png>
 Package pdftex.def Info: figures/ising_equil.png used on input line 101.
 (pdftex.def)             Requested size: 435.32422pt x 177.89096pt.
- [68 <./figures/MC_PBCs.png>] [69 <./figures/ising_equil.png>]
+ [67 <./figures/MC_PBCs.png>] [68 <./figures/ising_equil.png>]
 
 LaTeX Warning: Command \r invalid in math mode on input line 120.
 
-[70] [71] <figures/Cu-Zn_disorder.png, id=371, 386.8854pt x 224.5188pt>
+[69] [70] <figures/Cu-Zn_disorder.png, id=368, 386.8854pt x 224.5188pt>
 File: figures/Cu-Zn_disorder.png Graphic file (type png)
 
 <use figures/Cu-Zn_disorder.png>
@@ -1058,7 +908,7 @@ Package pdftex.def Info: figures/Cu-Zn_disorder.png used on input line 145.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./conclusion/conclusion.tex [72] [73 <./figures/Cu-Zn_disorder.png>]
+) (./conclusion/conclusion.tex [71] [72 <./figures/Cu-Zn_disorder.png>]
 Chapter 5.
 
 Overfull \hbox (6.3007pt too wide) in paragraph at lines 5--5
@@ -1066,9 +916,9 @@ Overfull \hbox (6.3007pt too wide) in paragraph at lines 5--5
 
  []
 
-[74
+[73
 
-] <figures/enargite_band_structure.png, id=383, 578.16pt x 433.62pt>
+] <figures/enargite_band_structure.png, id=380, 578.16pt x 433.62pt>
 File: figures/enargite_band_structure.png Graphic file (type png)
 
 <use figures/enargite_band_structure.png>
@@ -1076,7 +926,7 @@ Package pdftex.def Info: figures/enargite_band_structure.png used on input line
  18.
 (pdftex.def)             Requested size: 435.32422pt x 326.49118pt.
 
-<figures/stephanite_band_structure.png, id=384, 578.16pt x 433.62pt>
+<figures/stephanite_band_structure.png, id=381, 578.16pt x 433.62pt>
 File: figures/stephanite_band_structure.png Graphic file (type png)
 
 <use figures/stephanite_band_structure.png>
@@ -1088,14 +938,14 @@ ne 25.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Package natbib Warning: Citation `aims_SOC' on page 75 undefined on input line 
+Package natbib Warning: Citation `aims_SOC' on page 74 undefined on input line 
 31.
 
 
 LaTeX Warning: Command \r invalid in math mode on input line 34.
 
-[75 <./figures/enargite_band_structure.png>]
-<figures/bournonite_band_structure.png, id=389, 578.16pt x 433.62pt>
+[74 <./figures/enargite_band_structure.png>]
+<figures/bournonite_band_structure.png, id=386, 578.16pt x 433.62pt>
 File: figures/bournonite_band_structure.png Graphic file (type png)
 
 <use figures/bournonite_band_structure.png>
@@ -1106,7 +956,7 @@ ne 38.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/bournonite_band_structure_no_SOC.png, id=390, 578.16pt x 433.62pt>
+<figures/bournonite_band_structure_no_SOC.png, id=387, 578.16pt x 433.62pt>
 File: figures/bournonite_band_structure_no_SOC.png Graphic file (type png)
 
 <use figures/bournonite_band_structure_no_SOC.png>
@@ -1120,27 +970,27 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 2941) has occurred while \output is active []
 
- [76 <./figures/stephanite_band_structure.png>]
+ [75 <./figures/stephanite_band_structure.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77 <./figures/bournonite_band_structure.png>]
+ [76 <./figures/bournonite_band_structure.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [78 <./figures/bournonite_band_structure_no_SOC.png>]
-<figures/SLME.png, id=404, 598.3956pt x 462.0462pt>
+ [77 <./figures/bournonite_band_structure_no_SOC.png>]
+<figures/SLME.png, id=400, 598.3956pt x 462.0462pt>
 File: figures/SLME.png Graphic file (type png)
  <use figures/SLME.png>
 Package pdftex.def Info: figures/SLME.png used on input line 59.
 (pdftex.def)             Requested size: 386.95897pt x 298.79655pt.
 
-<figures/V_S-neutral-PARCHG.png, id=405, 653.3208pt x 350.7504pt>
+<figures/V_S-neutral-PARCHG.png, id=401, 653.3208pt x 350.7504pt>
 File: figures/V_S-neutral-PARCHG.png Graphic file (type png)
 
 <use figures/V_S-neutral-PARCHG.png>
 Package pdftex.def Info: figures/V_S-neutral-PARCHG.png used on input line 70.
 (pdftex.def)             Requested size: 435.32422pt x 233.71172pt.
 
-<figures/defect_calc_example.png, id=406, 418.2024pt x 335.8146pt>
+<figures/defect_calc_example.png, id=402, 418.2024pt x 335.8146pt>
 File: figures/defect_calc_example.png Graphic file (type png)
 
 <use figures/defect_calc_example.png>
@@ -1150,15 +1000,15 @@ Package pdftex.def Info: figures/defect_calc_example.png used on input line 76.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79 <./figures/SLME.png>]
+ [78 <./figures/SLME.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80 <./figures/V_S-neutral-PARCHG.png>]
+[79 <./figures/V_S-neutral-PARCHG.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81 <./figures/defect_calc_example.png>] [82]
-<figures/CZTS_phonons.png, id=422, 514.0806pt x 332.9238pt>
+ [80 <./figures/defect_calc_example.png>] [81]
+<figures/CZTS_phonons.png, id=419, 514.0806pt x 332.9238pt>
 File: figures/CZTS_phonons.png Graphic file (type png)
 
 <use figures/CZTS_phonons.png>
@@ -1168,19 +1018,19 @@ Package pdftex.def Info: figures/CZTS_phonons.png used on input line 99.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[83]) (./appendices/Cu-Zn_defect_calcs.tex [84 <./figures/CZTS_phonons.png>]
-[85]
+[82]) (./appendices/Cu-Zn_defect_calcs.tex [83 <./figures/CZTS_phonons.png>]
+[84]
 Appendix A.
 
 LaTeX Warning: Command \r invalid in math mode on input line 4.
 
-[86
+[85
 
 ]
 Underfull \vbox (badness 4726) has occurred while \output is active []
 
- [87]
-<figures/Cu-Zn_defect.png, id=441, 383.031pt x 358.941pt>
+ [86]
+<figures/Cu-Zn_defect.png, id=437, 383.031pt x 358.941pt>
 File: figures/Cu-Zn_defect.png Graphic file (type png)
 
 <use figures/Cu-Zn_defect.png>
@@ -1190,8 +1040,8 @@ Package pdftex.def Info: figures/Cu-Zn_defect.png used on input line 21.
 
 LaTeX Warning: Command \r invalid in math mode on input line 26.
 
-[88 <./figures/Cu-Zn_defect.png>]
-<figures/Cu-Zn_eqm_conc.png, id=446, 423.5022pt x 317.5062pt>
+[87 <./figures/Cu-Zn_defect.png>]
+<figures/Cu-Zn_eqm_conc.png, id=443, 423.5022pt x 317.5062pt>
 File: figures/Cu-Zn_eqm_conc.png Graphic file (type png)
 
 <use figures/Cu-Zn_eqm_conc.png>
@@ -1207,10 +1057,10 @@ LaTeX Warning: Command \r invalid in math mode on input line 57.
 ) (./appendices/DFT_methods.tex
 Underfull \vbox (badness 2503) has occurred while \output is active []
 
- [89]
-[90 <./figures/Cu-Zn_eqm_conc.png>] [91]
+ [88]
+[89 <./figures/Cu-Zn_eqm_conc.png>] [90]
 Appendix B.
-[92
+[91
 
 ]
 Overfull \hbox (46.306pt too wide) detected at line 17
@@ -1218,7 +1068,7 @@ Overfull \hbox (46.306pt too wide) detected at line 17
 ; :::; []; t\OT1/cmr/m/n/12 )$ 
  []
 
-<figures/solving_SE.png, id=461, 324.7332pt x 479.391pt>
+<figures/solving_SE.png, id=458, 324.7332pt x 479.391pt>
 File: figures/solving_SE.png Graphic file (type png)
 
 <use figures/solving_SE.png>
@@ -1228,16 +1078,16 @@ Package pdftex.def Info: figures/solving_SE.png used on input line 27.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[93]
+[92]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [94 <./figures/solving_SE.png>] [95]
+ [93 <./figures/solving_SE.png>] [94]
 File: figures/energy_dispersion.png Graphic file (type png)
  <use figures/energy_dispersion.png>
 Package pdftex.def Info: figures/energy_dispersion.png used on input line 67.
 (pdftex.def)             Requested size: 193.47578pt x 126.42058pt.
 )
-(./appendices/sulfosalts_conv.tex [96] [97]
+(./appendices/sulfosalts_conv.tex [95] [96]
 Appendix C.
 
 LaTeX Warning: File `figures/k-point_enargite.eps' not found on input line 5.
@@ -1245,13 +1095,13 @@ LaTeX Warning: File `figures/k-point_enargite.eps' not found on input line 5.
 Package epstopdf Info: Source file: <figures/k-point_enargite.eps>
 (epstopdf)             Output file: <figures/k-point_enargite-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2015-08-28 17:51:50
+(epstopdf)                    date: 2016-07-16 21:30:41
 (epstopdf)                    size: 7052 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/k-point_enargite-e
 ps-converted-to.pdf figures/k-point_enargite.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
-<figures/k-point_enargite-eps-converted-to.pdf, id=479, 361.35pt x 252.945pt>
+<figures/k-point_enargite-eps-converted-to.pdf, id=476, 361.35pt x 252.945pt>
 File: figures/k-point_enargite-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/k-point_enargite-eps-converted-to.pdf>
@@ -1266,14 +1116,14 @@ LaTeX Warning: File `figures/k-point_bournonite.eps' not found on input line 12
 Package epstopdf Info: Source file: <figures/k-point_bournonite.eps>
 (epstopdf)             Output file: <figures/k-point_bournonite-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2015-08-28 17:52:08
+(epstopdf)                    date: 2016-07-16 21:30:41
 (epstopdf)                    size: 7128 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/k-point_bournonite
 -eps-converted-to.pdf figures/k-point_bournonite.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/k-point_bournonite-eps-converted-to.pdf, id=480, 361.35pt x 252.945pt>
+<figures/k-point_bournonite-eps-converted-to.pdf, id=477, 361.35pt x 252.945pt>
 File: figures/k-point_bournonite-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/k-point_bournonite-eps-converted-to.pdf>
 Package pdftex.def Info: figures/k-point_bournonite-eps-converted-to.pdf used o
@@ -1283,26 +1133,26 @@ n input line 12.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./appendices/sulfosalts_paths.tex [98
+) (./appendices/sulfosalts_paths.tex [97
 
- <./figures/k-point_enargite-eps-converted-to.pdf>] [99 <./figures/k-point_bour
+ <./figures/k-point_enargite-eps-converted-to.pdf>] [98 <./figures/k-point_bour
 nonite-eps-converted-to.pdf>]
 Appendix D.
-[100
+[99
 
-] <figures/brill.png, id=502, 1314.8322pt x 528.0528pt>
+] <figures/brill.png, id=499, 1314.8322pt x 528.0528pt>
 File: figures/brill.png Graphic file (type png)
 
 <use figures/brill.png>
 Package pdftex.def Info: figures/brill.png used on input line 19.
 (pdftex.def)             Requested size: 483.69687pt x 194.25648pt.
-) (./Main.bbl [101 <./figures/brill.png>]
+) (./Main.bbl [100 <./figures/brill.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
- [102
+ [101
 
-] [103]
+] [102]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no Ñ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
@@ -1326,14 +1176,14 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-[104]
+[103]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ë in font cmr12!
- [105] [106] [107]
+ [104] [105] [106]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ¢ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
@@ -1353,17 +1203,17 @@ Missing character: There is no ì in font cmr12!
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 404.
 
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 404.
- [108] [109]
+ [107] [108]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 
-[110] [111]
+[109] [110]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ¢ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
@@ -1374,14 +1224,14 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no É in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ∂ in font cmr12!
- [112]
+ [111]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ê in font cmr12!
- [113] [114]
+ [112] [113]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no É in font cmr12!
 Missing character: There is no ¬ in font cmr12!
@@ -1389,7 +1239,7 @@ Missing character: There is no ∂ in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
- [115]
+ [114]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ¢ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
@@ -1402,47 +1252,44 @@ Missing character: There is no ¬ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ì in font cmr12!
- [116])
+ [115])
 
 Package natbib Warning: There were undefined citations.
 
-[117] (./Main.aux)
-
-LaTeX Warning: There were undefined references.
-
+[116] (./Main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4344 strings out of 493117
- 65754 string characters out of 6135433
- 126322 words of memory out of 5000000
- 7618 multiletter control sequences out of 15000+600000
+ 4350 strings out of 493014
+ 65889 string characters out of 6133351
+ 126990 words of memory out of 5000000
+ 7702 multiletter control sequences out of 15000+600000
  16555 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,14n,27p,2062b,956s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/te
+ 38i,14n,27p,2062b,958s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (124 pages, 18574548 bytes).
+Output written on Main.pdf (123 pages, 18573971 bytes).
 PDF statistics:
- 617 PDF objects out of 1000 (max. 8388607)
- 349 compressed objects within 4 object streams
+ 614 PDF objects out of 1000 (max. 8388607)
+ 347 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
