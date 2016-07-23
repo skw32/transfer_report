@@ -1,8 +1,5 @@
 \begin{thebibliography}{100}
 
-\bibitem{supercell_method}
-{\em Computational Methods for Deep Point Defects}.
-
 \bibitem{culprit_2}
 T.~Abzieher, T.~Schnabel, M.~Hetterich, M.~Powalla, and E.~Ahlswede.
 \newblock {Source and effects of sodium in solution-processed kesterite solar
@@ -766,6 +763,11 @@ S.~Siebentritt and S.~Schorr.
 T.~G.~E. Society.
 \newblock {\em Introduction and the history of photovoltaics}.
 \newblock Routledge, 2013.
+
+\bibitem{supercell_method}
+J.~Spaeth and H.~Overhof.
+\newblock {\em Computational Methods for Deep Point Defects}.
+\newblock Springer-Verlag Berlin Heidelberg, 2003.
 
 \bibitem{keith_54}
 J.~Starkiewicz, L.~Sosnowski, and O.~Simpson.

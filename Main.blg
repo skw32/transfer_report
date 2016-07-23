@@ -36,10 +36,6 @@ I was expecting a `,' or a `}'---line 1701 of file bibliography/transfer_report_
 I'm skipping whatever remains of this entry
 Warning--entry type for "bloch-thesis" isn't style-file defined
 --line 1945 of file bibliography/transfer_report_new.bib
-Unbalanced braces---line 2025 of file bibliography/transfer_report_new.bib
- :  author = "Spaeth, J and Overhof, H
- :                                    }",
-I'm skipping whatever remains of this entry
 Repeated entry---line 2432 of file bibliography/transfer_report_new.bib
  : @article{pathways
  :                  ,
@@ -155,11 +151,6 @@ Too many commas in name 1 of "Ginley, David S., Cahen, David" for entry sus_book
 while executing---line 1049 of file abbrv.bst
 Name 5 in "Choi, Woo Seok and Chisholm, Matthew F. and Singh, David J. and Choi, Taekjib and Jellison, Gerald E. , and Lee, Ho Nyung title =" has a comma at the end for entry FE_PV_rev1_83
 while executing---line 1049 of file abbrv.bst
-Warning--to sort, need author, editor, or key in supercell_method
-Warning--empty author and editor in supercell_method
-Warning--empty chapter and pages in supercell_method
-Warning--empty publisher in supercell_method
-Warning--empty year in supercell_method
 Warning--empty chapter and pages in AshcroftMermin2
 Warning--empty chapter and pages in AshcroftMermin3
 Warning--empty chapter and pages in AshcroftMermin_general
@@ -220,6 +211,7 @@ Warning--empty title in CIS1_4
 Warning--empty title in CIS1_3
 Warning--empty chapter and pages in ores
 Warning--empty chapter and pages in PV_history1
+Warning--empty chapter and pages in supercell_method
 Warning--empty title in keith_54
 Warning--empty chapter and pages in Tilley
 Warning--empty chapter and pages in abundance
@@ -233,34 +225,34 @@ Warning--empty chapter and pages in Ziman_solids
 Warning--empty chapter and pages in absorption_coeff_book1
 You've used 173 entries,
             2118 wiz_defined-function locations,
-            1445 strings with 31786 characters,
-and the built_in function-call counts, 56749 in all, are:
-= -- 5172
-> -- 3220
+            1446 strings with 31810 characters,
+and the built_in function-call counts, 56827 in all, are:
+= -- 5182
+> -- 3232
 < -- 8
-+ -- 1294
-- -- 1104
-* -- 4329
-:= -- 9765
-add.period$ -- 494
++ -- 1298
+- -- 1108
+* -- 4325
+:= -- 9790
+add.period$ -- 496
 call.type$ -- 173
-change.case$ -- 997
+change.case$ -- 999
 chr.to.int$ -- 0
-cite$ -- 245
-duplicate$ -- 2001
-empty$ -- 4241
-format.name$ -- 1104
-if$ -- 11424
+cite$ -- 241
+duplicate$ -- 2000
+empty$ -- 4239
+format.name$ -- 1108
+if$ -- 11439
 int.to.chr$ -- 0
 int.to.str$ -- 173
-missing$ -- 201
-newline$ -- 843
-num.names$ -- 344
-pop$ -- 1230
+missing$ -- 202
+newline$ -- 845
+num.names$ -- 346
+pop$ -- 1229
 preamble$ -- 1
-purify$ -- 898
+purify$ -- 900
 quote$ -- 0
-skip$ -- 1229
+skip$ -- 1231
 stack$ -- 0
 substring$ -- 2915
 swap$ -- 244
@@ -268,8 +260,8 @@ text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 598
-warning$ -- 72
-while$ -- 474
+warning$ -- 68
+while$ -- 476
 width$ -- 176
-write$ -- 1772
-(There were 39 error messages)
+write$ -- 1777
+(There were 38 error messages)
