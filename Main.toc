@@ -30,9 +30,10 @@
 \contentsline {section}{\numberline {5.1}Thermodynamic Disorder of Cu and Zn in {Cu$_2$ZnSnS$_4$}}{74}
 \contentsline {section}{\numberline {5.2}Further Development of Monte Carlo Disorder Models}{74}
 \contentsline {section}{\numberline {5.3}Predicting the Photovoltaic Performance of Metal Sulfide Materials}{74}
-\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{78}
-\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{81}
-\contentsline {chapter}{\numberline {A}Calculation of the Formation Energy of the [$Cu_{Zn}^- + Zn_{Cu}^+$] Defect Pair in {Cu$_2$ZnSnS$_4$}}{84}
-\contentsline {chapter}{\numberline {B}Convergence of Total Energy with Number of K-Points}{87}
-\contentsline {chapter}{\numberline {C}High Symmetry Paths for Sulfosalt Band Structure Calculations}{89}
-\contentsline {chapter}{Bibliography}{90}
+\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{80}
+\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{82}
+\contentsline {chapter}{\numberline {A}Calculation of the Formation Energy of the [$Cu_{Zn}^- + Zn_{Cu}^+$] Defect Pair in {Cu$_2$ZnSnS$_4$}}{86}
+\contentsline {chapter}{\numberline {B}Density Functional Theory (DFT) Methodology for the Calculation of Total Energy}{92}
+\contentsline {chapter}{\numberline {C}Convergence of Total Energy with Number of K-Points for Geometry Optimization of Sulfosalt Crystal Structures}{98}
+\contentsline {chapter}{\numberline {D}High Symmetry Paths for Sulfosalt Band Structure Calculations}{100}
+\contentsline {chapter}{Bibliography}{101}

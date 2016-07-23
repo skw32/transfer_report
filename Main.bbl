@@ -1,5 +1,8 @@
 \begin{thebibliography}{100}
 
+\bibitem{supercell_method}
+{\em Computational Methods for Deep Point Defects}.
+
 \bibitem{culprit_2}
 T.~Abzieher, T.~Schnabel, M.~Hetterich, M.~Powalla, and E.~Ahlswede.
 \newblock {Source and effects of sodium in solution-processed kesterite solar
@@ -43,6 +46,12 @@ N.~Ashcroft and N.~Mermin.
 E.~P.~I. Association.
 \newblock Global market outlook for photovoltaics 2014-2018.
 \newblock 2014.
+
+\bibitem{Rashba_MAPI_aron}
+P.~Azarhoosh, S.~McKechnie, J.~M. Frost, A.~Walsh, and M.~van Schilfgaarde.
+\newblock {Research Update: Relativistic origin of slow electron-hole
+  recombination in hybrid halide perovskite solar cells}.
+\newblock {\em APL Mater.}, 4(9):091501, sep 2016.
 
 \bibitem{dielectric_const1}
 T.~L. Bahers, M.~R{\'{e}}rat, and P.~Sautet.
@@ -98,6 +107,11 @@ M.~Bokali\v{c} and M.~Topi\v{c}.
 R.~L. Bonewitz.
 \newblock {\em Minerals}.
 \newblock Dorling Kindersley, Ltd, 2012.
+
+\bibitem{hybrid_GGA_CZTS}
+S.~Botti, D.~Kammerlander, and M.~A.~L. Marques.
+\newblock Band structures of cu2znsns4 and cu2znsnse4 from many-body methods.
+\newblock {\em Applied Physics Letters}, 98(24):--, 2011.
 
 \bibitem{culprit}
 S.~Bourdais, C.~Chon{\'{e}}, B.~Delatouche, A.~Jacob, G.~Larramona, C.~Moisan,
@@ -224,6 +238,12 @@ M.~Fox.
 \newblock {\em Optical Properties of Solids}.
 \newblock Oxford University Press, 2010.
 
+\bibitem{defects_encyclopedia}
+C.~Freysoldt, B.~Grabowski, T.~Hickel, J.~Neugebauer, G.~Kresse, A.~Janotti,
+  and C.~G. {Van De Walle}.
+\newblock {First-principles calculations for point defects in solids}.
+\newblock {\em Rev. Mod. Phys.}, 86(1):253--305, 2014.
+
 \bibitem{culprit_5_3}
 V.~Fthenakis.
 \newblock Sustainability of photovoltaics: The case for thin-film solar cells.
@@ -293,6 +313,10 @@ J.~Heyd, G.~E. Scuseria, and M.~Ernzerhof.
 \newblock {Hybrid functionals based on a screened Coulomb potential}.
 \newblock {\em J. Chem. Phys.}, 118(18):8207--8215, 2003.
 
+\bibitem{hohenberg_kohn}
+P.~Hohenberg and W.~Kohn.
+\newblock {\em Phys. Rev.}, 136, 1964.
+
 \bibitem{Hones}
 K.~H{\"{o}}nes, E.~Zscherpel, J.~Scragg, and S.~Siebentritt.
 \newblock {Shallow defects in $Cu_{2}ZnSnS_{4}$}.
@@ -324,6 +348,11 @@ K.~Ito.
 \bibitem{first_CZTS}
 K.~Ito and T.~Nakazawa.
 \newblock {\em Jpn. J. Appl. Phys.}, 27:2094--2097, 1998.
+
+\bibitem{Adam_sulfur}
+A.~J. Jackson, D.~Tiana, and A.~Walsh.
+\newblock {A universal chemical potential for sulfur vapours}.
+\newblock {\em Chem. Sci.}, 00:1--11, 2015.
 
 \bibitem{pathways}
 J.~Jean, P.~R. Brown, R.~L. Jaffe, T.~Buonassisi, and V.~Bulovic.
@@ -381,6 +410,18 @@ V.~Kosyak, N.~B. {Mortazavi Amiri}, A.~V. Postnikov, and M.~A. Scarpulla.
   application to one-zone annealing}.
 \newblock {\em J. Appl. Phys.}, 114(12), 2013.
 
+\bibitem{VASP}
+G.~Kresse and J.~Furthm{\"u}ller.
+\newblock Efficiency of ab-initio total energy calculations for metals and
+  semiconductors using a plane-wave basis set.
+\newblock {\em Computational Materials Science}, 6(1):15 -- 50, 1996.
+
+\bibitem{PAW}
+G.~Kresse and D.~Joubert.
+\newblock From ultrasoft pseudopotentials to the projector augmented-wave
+  method.
+\newblock {\em Phys. Rev. B}, 59:1758--1775, Jan 1999.
+
 \bibitem{MC_Landau}
 D.~P. Landau and K.~Binder.
 \newblock {\em A Guide to Monte Carlo Simulations in Statistical Physics}.
@@ -390,6 +431,17 @@ D.~P. Landau and K.~Binder.
 D.~W. Lane, K.~J. Hutchings, R.~McCracken, and I.~Forbes.
 \newblock {\em New Chalcogenide Materials for Thin Film Solar Cells}.
 \newblock The Royal Society of Chemistry, 2015.
+
+\bibitem{defects_Lany}
+S.~Lany and A.~Zunger.
+\newblock {Accurate prediction of defect properties in density functional
+  supercell calculations}.
+\newblock {\em Model. Simul. Mater. Sci. Eng.}, 17(8):084002, 2009.
+
+\bibitem{Lesar}
+R.~Lesar.
+\newblock {\em Electronic Structure Methods}.
+\newblock Cambridge University Press, 2014.
 
 \bibitem{Lesar3}
 R.~Lesar.
@@ -546,6 +598,17 @@ T.~Pauporte and D.~Lincot.
 \bibitem{defects_fig2}
 N.~Pearson.
 \newblock {\em Crystal Defects}, 2014 (Accessed on 30 June, 2016).
+
+\bibitem{PBE}
+J.~P. Perdew, K.~Burke, and M.~Ernzerhof.
+\newblock Generalized gradient approximation made simple.
+\newblock {\em Phys. Rev. Lett.}, 77:3865--3868, Oct 1996.
+
+\bibitem{ladder}
+J.~P. Perdew and K.~Schmidt.
+\newblock {Jacob's ladder of density functional approximations for the
+  exchange-correlation energy}.
+\newblock {\em AIP Conference Proceedings}, 577(May):1--20, 2001.
 
 \bibitem{CIS1}
 C.~Persson and A.~Zunger.
@@ -757,6 +820,12 @@ USGS.
 \bibitem{keith_57}
 M.~D. Uspenskii, N.~G. Ivanova, and M.~I. E.
 \newblock {\em Sov. Phys.- Semicond}, page 1059, 1968.
+
+\bibitem{thermodynamics}
+P.~Varotsos and K.~Alexopoulos.
+\newblock {\em Thermodynamics of Point Defects and Their Relation with Bulk
+  Properties}.
+\newblock 1986.
 
 \bibitem{enargite_EIS}
 P.~Vela.
