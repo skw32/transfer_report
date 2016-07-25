@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Main.aux
 The style file: abbrv.bst
@@ -141,7 +141,7 @@ I was expecting a `,' or a `}'---line 4196 of file bibliography/transfer_report_
  :  author = "I. S. Zheludev",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 4431 of file bibliography/transfer_report_new.bib
+Repeated entry---line 4447 of file bibliography/transfer_report_new.bib
  : @article{Adam_sulfur
  :                     ,
 I'm skipping whatever remains of this entry
@@ -223,45 +223,45 @@ Warning--empty chapter and pages in dielectric1
 Warning--empty chapter and pages in dielectric2
 Warning--empty chapter and pages in Ziman_solids
 Warning--empty chapter and pages in absorption_coeff_book1
-You've used 173 entries,
+You've used 174 entries,
             2118 wiz_defined-function locations,
-            1446 strings with 31810 characters,
-and the built_in function-call counts, 56827 in all, are:
-= -- 5182
-> -- 3232
+            1453 strings with 31982 characters,
+and the built_in function-call counts, 57166 in all, are:
+= -- 5214
+> -- 3250
 < -- 8
-+ -- 1298
-- -- 1108
-* -- 4325
-:= -- 9790
-add.period$ -- 496
-call.type$ -- 173
-change.case$ -- 999
++ -- 1305
+- -- 1114
+* -- 4353
+:= -- 9849
+add.period$ -- 499
+call.type$ -- 174
+change.case$ -- 1005
 chr.to.int$ -- 0
-cite$ -- 241
-duplicate$ -- 2000
-empty$ -- 4239
-format.name$ -- 1108
-if$ -- 11439
+cite$ -- 242
+duplicate$ -- 2011
+empty$ -- 4264
+format.name$ -- 1114
+if$ -- 11507
 int.to.chr$ -- 0
-int.to.str$ -- 173
-missing$ -- 202
-newline$ -- 845
-num.names$ -- 346
-pop$ -- 1229
+int.to.str$ -- 174
+missing$ -- 203
+newline$ -- 850
+num.names$ -- 348
+pop$ -- 1233
 preamble$ -- 1
-purify$ -- 900
+purify$ -- 905
 quote$ -- 0
-skip$ -- 1231
+skip$ -- 1238
 stack$ -- 0
-substring$ -- 2915
-swap$ -- 244
+substring$ -- 2938
+swap$ -- 245
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 598
+type$ -- 602
 warning$ -- 68
-while$ -- 476
-width$ -- 176
-write$ -- 1777
+while$ -- 479
+width$ -- 177
+write$ -- 1788
 (There were 38 error messages)
