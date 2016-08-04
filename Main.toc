@@ -1,5 +1,4 @@
 \contentsline {chapter}{Abstract}{ii}
-\contentsline {chapter}{Acknowledgements}{iii}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}The Case for New Solar Absorber Materials for Photovoltaic Devices}{1}
 \contentsline {subsection}{\numberline {1.1.1}Terawatt-Scale Power Production from Renewable Resources}{1}
@@ -10,30 +9,26 @@
 \contentsline {chapter}{\numberline {2}Bottlenecks of Metal Sulfide Solar Cells}{23}
 \contentsline {section}{\numberline {2.1}Promising Candidate Solar Absorber Materials}{23}
 \contentsline {section}{\numberline {2.2}Possible Performance Bottlenecks of {Cu$_2$ZnSnS$_4$} Devices}{25}
-\contentsline {section}{\numberline {2.3}Predicting the Properties of New Candidate Solar Absorber Materials}{34}
-\contentsline {chapter}{\numberline {3}Background Theory}{41}
-\contentsline {section}{\numberline {3.1}Models of Perfect Periodic Crystal Structures}{41}
-\contentsline {section}{\numberline {3.2}Band Theory \& Band Structure of Semiconductors}{43}
-\contentsline {section}{\numberline {3.3}Electronic Properties of Defects in Semiconductors}{47}
-\contentsline {subsection}{\numberline {3.3.1}Impact of Defects on the Band Structure \& Optical Spectra}{48}
-\contentsline {subsection}{\numberline {3.3.2}Impact of Defects and Disorder on Solar Cell Performance}{53}
-\contentsline {subsection}{\numberline {3.3.3}Photoluminescence Spectra of Cu$_2$ZnSnS$_4$}{56}
-\contentsline {chapter}{\numberline {4}Monte Carlo Simulation of Thermodynamic Disorder in Cu$_2$ZnSnS$_4$}{60}
-\contentsline {section}{\numberline {4.1}Mapping the Crystal Structure of { Cu$_2$ZnSnS$_4$} onto a Simple Lattice}{60}
-\contentsline {section}{\numberline {4.2}Monte Carlo Simulation with the Metropolis Algorithm}{63}
-\contentsline {section}{\numberline {4.3}Equilibration \& Finite Size Effects}{66}
-\contentsline {section}{\numberline {4.4}Multi-Scale Approach with Density Functional Theory}{70}
-\contentsline {section}{\numberline {4.5}Spatial Extent of Disorder Amongst Cu \& Zn Ions}{71}
-\contentsline {section}{\numberline {4.6}Quantification of Disorder Using Radial Distribution Functions}{72}
-\contentsline {section}{\numberline {4.7}Band Tailing from the Distribution of Electrostatic Potential}{75}
-\contentsline {chapter}{\numberline {5}Conclusion \& Future Work}{77}
-\contentsline {section}{\numberline {5.1}Thermodynamic Disorder of Cu and Zn in {Cu$_2$ZnSnS$_4$}}{77}
-\contentsline {section}{\numberline {5.2}Further Development of Monte Carlo Disorder Models}{77}
-\contentsline {section}{\numberline {5.3}Predicting the Photovoltaic Performance of Metal Sulfide Materials}{77}
-\contentsline {section}{\numberline {5.4}Formation Energy of Sulfur Vacancies in Metal Sulfides}{83}
-\contentsline {section}{\numberline {5.5}Intrinsic Band Gap Broadening in {Cu$_2$ZnSnS$_4$}}{85}
-\contentsline {chapter}{\numberline {A}Calculation of the Formation Energy of the [$Cu_{Zn}^- + Zn_{Cu}^+$] Defect Pair in {Cu$_2$ZnSnS$_4$}}{89}
-\contentsline {chapter}{\numberline {B}Density Functional Theory (DFT) Methodology for the Calculation of Total Energy}{95}
-\contentsline {chapter}{\numberline {C}Convergence of Total Energy with Number of K-Points for Geometry Optimization of Sulfosalt Crystal Structures}{101}
-\contentsline {chapter}{\numberline {D}High Symmetry Paths for Sulfosalt Band Structure Calculations}{103}
-\contentsline {chapter}{Bibliography}{104}
+\contentsline {section}{\numberline {2.3}Predicting the Properties of New Candidate Solar Absorber Materials}{32}
+\contentsline {chapter}{\numberline {3}Background Theory}{39}
+\contentsline {section}{\numberline {3.1}Models of Perfect Periodic Crystal Structures}{39}
+\contentsline {section}{\numberline {3.2}Band Theory \& Band Structure of Semiconductors}{41}
+\contentsline {section}{\numberline {3.3}Electronic Properties of Defects in Semiconductors}{44}
+\contentsline {subsection}{\numberline {3.3.1}Impact of Defects on the Band Structure \& Optical Spectra}{46}
+\contentsline {subsection}{\numberline {3.3.2}Impact of Defects and Disorder on Solar Cell Performance}{49}
+\contentsline {subsection}{\numberline {3.3.3}Photoluminescence Spectra of Cu$_2$ZnSnS$_4$}{53}
+\contentsline {chapter}{\numberline {4}Monte Carlo Simulation of Thermodynamic Disorder in Cu$_2$ZnSnS$_4$}{57}
+\contentsline {section}{\numberline {4.1}Mapping the Crystal Structure of { Cu$_2$ZnSnS$_4$} onto a Simple Lattice}{57}
+\contentsline {section}{\numberline {4.2}Monte Carlo Simulation with the Metropolis Algorithm}{60}
+\contentsline {section}{\numberline {4.3}Equilibration \& Finite Size Effects}{63}
+\contentsline {section}{\numberline {4.4}Multi-Scale Approach with Density Functional Theory}{69}
+\contentsline {section}{\numberline {4.5}Spatial Extent of Disorder Amongst Cu \& Zn Ions}{70}
+\contentsline {section}{\numberline {4.6}Quantification of Disorder Using Radial Distribution Functions}{71}
+\contentsline {chapter}{\numberline {5}Conclusion \& Future Work}{73}
+\contentsline {section}{\numberline {5.1}Further Development of Monte Carlo Disorder Models}{73}
+\contentsline {section}{\numberline {5.2}Predicting the Photovoltaic Performance of Other Metal Sulfide Materials}{74}
+\contentsline {chapter}{\numberline {A}Calculation of the Formation Energy of the [$Cu_{Zn}^- + Zn_{Cu}^+$] Defect Pair in {Cu$_2$ZnSnS$_4$}}{80}
+\contentsline {chapter}{\numberline {B}Density Functional Theory (DFT) Methodology for the Calculation of Total Energy}{86}
+\contentsline {chapter}{\numberline {C}Convergence of Total Energy with Number of K-Points for Geometry Optimization of Sulfosalt Crystal Structures}{92}
+\contentsline {chapter}{\numberline {D}High Symmetry Paths for Sulfosalt Band Structure Calculations}{94}
+\contentsline {chapter}{Bibliography}{95}
