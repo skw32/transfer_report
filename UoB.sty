@@ -17,7 +17,7 @@
     %\linebreak
     Department of Chemistry
     \rm
-    \vskip 3in
+    \vskip 2.3in
     \Large \bf \@title \par
   }
   \vskip 0.3in
@@ -47,7 +47,7 @@ keepaspectratio]{figures/cover.pdf}
 }
 
 \def\titlepage{
-  \newpage
+%  \newpage
   \centering
   \linespread{1}
   \normalsize
@@ -82,8 +82,9 @@ keepaspectratio]{figures/cover.pdf}
   \end{center}
   \small
   \linespread{1.5}
-  \normalsize
-}{\cleardoublepage}
+  \normalsize}
+{}
+ %{\cleardoublepage}
 \def\endacknowledgements{
   \par
 }
@@ -109,7 +110,7 @@ keepaspectratio]{figures/cover.pdf}
 }
 
 \def\body{
-    \clearpage    
+  %  \clearpage    
     \pagestyle{uheadings}
     \tableofcontents
     \pagestyle{plain}
@@ -121,7 +122,7 @@ keepaspectratio]{figures/cover.pdf}
  %   \pagestyle{uheadings}
  %   \listoffigures
   %  \pagestyle{plain}
-    \cleardoublepage
+ %   \cleardoublepage
     \pagestyle{uheadings}
     \pagenumbering{arabic}
     \doublespacing
