@@ -28,7 +28,8 @@ A single geometry step was then performed with a 2x2x2 \textit{k}-point mesh cen
 \begin{table}[h]
 \centering
 \begin{tabular}{c|l|l|l|l}
-Cut-off energy (eV) & \textit{k}-points (\AA) & Total energy, E (eV) & External \\pressure (kbar) & dE per atom (meV)\\
+Cut-off energy (eV) & \textit{k}-points (\AA) & Total energy, E (eV) 
+& \multicolumn{1}{|p{2cm}|}{ \centering External \\ pressure (kbar)} & dE per atom (meV)\\
 \cline{1-5}
 300 & $1\times1\times1$ & -305.53 & -174.59 & \\
 350 & $1\times1\times1$ &  -306.95 & -23.86 & - 22.12\\
@@ -42,7 +43,7 @@ Cut-off energy (eV) & \textit{k}-points (\AA) & Total energy, E (eV) & External 
 \label{conv_test}
 \end{table}
 
-When defect concentrations are less than 1\%, it is usually assumed that the system is in the dilute defect limit where defects can be considered to be non-interacting. Using statistical thermodynamics for point defects, an expression for the equilibrium concentration of point defects as a function of temperature can be obtained \cite{thermodynamics}. This is shown in equation \ref{defect_conc}, where N is the number of sites, $E_f$ is the defect formation energy, $k_B$ is the Boltzmann constant and T is the temperature of the system.
+When defect concentrations are less than 1\%, it is usually assumed that the system is in the dilute defect limit where defects can be considered to be non-interacting. Using statistical thermodynamics for point defects, an expression for the equilibrium concentration of point defects as a function of temperature can be obtained \cite{thermodynamics}. This is shown in equation \ref{defect_conc}, where N is the number of sites, $\Delta H$ is the defect formation energy, $k_B$ is the Boltzmann constant and T is the temperature of the system.
 \begin{equation} \label{defect_conc}
 n = Ne^{\frac{-\Delta H}{k_BT}}
 \end{equation}

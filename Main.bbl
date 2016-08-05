@@ -4,7 +4,7 @@
 T.~Abzieher, T.~Schnabel, M.~Hetterich, M.~Powalla, and E.~Ahlswede.
 \newblock {Source and effects of sodium in solution-processed kesterite solar
   cells}.
-\newblock {\em Phys. Status Solidi}, 11:n/a--n/a, 2015.
+\newblock {\em Phys. Status Solidi}, 11, 2015.
 
 \bibitem{defects_tutorial}
 A.~Alkauskas, M.~D. McCluskey, and C.~G. {Van de Walle}.
@@ -107,7 +107,8 @@ R.~L. Bonewitz.
 
 \bibitem{hybrid_GGA_CZTS}
 S.~Botti, D.~Kammerlander, and M.~A.~L. Marques.
-\newblock Band structures of cu2znsns4 and cu2znsnse4 from many-body methods.
+\newblock Band structures of $cu_2znsns_4$ and $cu_2znsnse_4$ from many-body
+  methods.
 \newblock {\em Applied Physics Letters}, 98(24):--, 2011.
 
 \bibitem{culprit}
@@ -115,7 +116,7 @@ S.~Bourdais, C.~Chon{\'{e}}, B.~Delatouche, A.~Jacob, G.~Larramona, C.~Moisan,
   A.~Lafond, F.~Donatini, G.~Rey, S.~Siebentritt, A.~Walsh, and G.~Dennler.
 \newblock {Is the Cu/Zn Disorder the Main Culprit for the Voltage Deficit in
   Kesterite Solar Cells?}
-\newblock {\em Adv. Energy Mater.}, pages n/a--n/a, mar 2016.
+\newblock {\em Adv. Energy Mater.}, mar 2016.
 
 \bibitem{defect_tolerance}
 R.~E. Brandt, V.~StevanoviÄ, D.~S. Ginley, and T.~Buonassisi.
@@ -123,13 +124,11 @@ R.~E. Brandt, V.~StevanoviÄ, D.~S. Ginley, and T.~Buonassisi.
   lifetimes: beyond hybrid lead halide perovskites.
 \newblock {\em MRS Communications}, 5:265--275, 6 2015.
 
-\bibitem{MAPI_Eg_broadening17}
-T.~M. Brenner, D.~A. Egger, A.~M. Rappe, L.~Kronik, G.~Hodes, and D.~Cahen.
-\newblock Are mobilities in hybrid organicâinorganic halide perovskites
-  actually âhighâ?
-\newblock {\em The Journal of Physical Chemistry Letters}, 6(23):4754--4757,
-  2015.
-\newblock PMID: 26631359.
+\bibitem{Federico}
+F.~Brivio, A.~B. Walker, and A.~Walsh.
+\newblock {Structural and electronic properties of hybrid perovskites for
+  high-efficiency thin-film photovoltaics from first-principles}.
+\newblock {\em APL Mater.}, 1(4):042111, 2013.
 
 \bibitem{keith}
 K.~T. Butler, J.~M. Frost, and A.~Walsh.
@@ -144,14 +143,14 @@ N.~I. Butsko, I.~D. Zhezhnich, and P.~M. M.
 
 \bibitem{Chen2009}
 S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
-\newblock Crystal and electronic band structure of cu2znsnx4 (x=s and se)
+\newblock Crystal and electronic band structure of $cu_2znsnx_4$ (x=s and se)
   photovoltaic absorbers: First-principles insights.
 \newblock {\em Applied Physics Letters}, 94(4):--, 2009.
 
 \bibitem{CZTS_defects}
 S.~Chen, X.~G. Gong, A.~Walsh, and S.-H. Wei.
-\newblock {Defect physics of the kesterite thin-film solar cell absorber Cu[sub
-  2]ZnSnS[sub 4]}.
+\newblock {Defect physics of the kesterite thin-film solar cell absorber
+  Cu$_2$ZnSnS$_4$}.
 \newblock {\em Appl. Phys. Lett.}, 96(2):021902, 2010.
 
 \bibitem{defect1}
@@ -200,7 +199,7 @@ Y.~Dong, A.~R. Khabibullin, K.~Wei, J.~R. Salvador, G.~S. Nolas, and L.~M.
   Woods.
 \newblock Bournonite pbcusbs3: Stereochemically active lone-pair electrons that
   induce low thermal conductivity.
-\newblock {\em ChemPhysChem}, pages n/a--n/a, 2015.
+\newblock {\em ChemPhysChem}, 2015.
 
 \bibitem{CZTS_phase_diagram}
 H.~Du, F.~Yan, M.~Young, B.~To, C.-S. Jiang, P.~Dippo, D.~Kuciauskas, Z.~Chi,
@@ -218,7 +217,7 @@ A.~Eichler.
 F.~Espinosa-Faller.
 \newblock {Neutron Diffraction and X‑ray Absorption Fine Structure Evidence
   for Local Lattice Distortions and Aperiodic Antisite Substitution in
-  Cu2ZnSnS4 Nanoparticles}.
+  $Cu_2ZnSnS_4$ Nanoparticles}.
 \newblock {\em The Journal of Physical Chemistry C}, 118:26292--26303, 2014.
 
 \bibitem{defects_fig1}
@@ -234,12 +233,6 @@ F.~I. for Solar Energy Systems~ISE.
 M.~Fox.
 \newblock {\em Optical Properties of Solids}.
 \newblock Oxford University Press, 2010.
-
-\bibitem{defects_encyclopedia}
-C.~Freysoldt, B.~Grabowski, T.~Hickel, J.~Neugebauer, G.~Kresse, A.~Janotti,
-  and C.~G. {Van De Walle}.
-\newblock {First-principles calculations for point defects in solids}.
-\newblock {\em Rev. Mod. Phys.}, 86(1):253--305, 2014.
 
 \bibitem{culprit_5_3}
 V.~Fthenakis.
@@ -346,11 +339,6 @@ K.~Ito.
 K.~Ito and T.~Nakazawa.
 \newblock {\em Jpn. J. Appl. Phys.}, 27:2094--2097, 1998.
 
-\bibitem{Adam_sulfur}
-A.~J. Jackson, D.~Tiana, and A.~Walsh.
-\newblock {A universal chemical potential for sulfur vapours}.
-\newblock {\em Chem. Sci.}, 00:1--11, 2015.
-
 \bibitem{pathways}
 J.~Jean, P.~R. Brown, R.~L. Jaffe, T.~Buonassisi, and V.~Bulovic.
 \newblock {Pathways for Solar Photovoltaics}.
@@ -371,39 +359,22 @@ A.~K. Jonscher.
 \newblock {\em The Imperfect Solid}.
 \newblock Routledge \& Kegan Paul Ltd., 1965.
 
-\bibitem{MAPI_Eg_broadening24}
-M.~Karakus, S.~A. Jensen, F.~DâAngelo, D.~Turchinovich, M.~Bonn, and
-  E.~CÃ¡novas.
-\newblock Phononâelectron scattering limits free charge mobility in
-  methylammonium lead iodide perovskites.
-\newblock {\em The Journal of Physical Chemistry Letters}, 6(24):4991--4996,
-  2015.
-\newblock PMID: 26619006.
-
-\bibitem{CZTS_phonons}
-A.~Khare, B.~Himmetoglu, M.~Johnson, D.~J. Norris, M.~Cococcioni, and E.~S.
-  Aydil.
-\newblock {Calculation of the lattice dynamics and Raman spectra of copper zinc
-  tin chalcogenides and comparison to experiments}.
-\newblock {\em J. Appl. Phys.}, 111(8), 2012.
-
 \bibitem{culprit_3}
 J.~Kim, H.~Hiroi, T.~K. Todorov, O.~Gunawan, M.~Kuwahara, T.~Gokmen, D.~Nair,
   M.~Hopstaken, B.~Shin, Y.~S. Lee, W.~Wang, H.~Sugimoto, and D.~B. Mitzi.
-\newblock High efficiency cu2znsn(s,se)4 solar cells by applying a double
-  in2s3/cds emitter.
+\newblock High efficiency $cu_2znsn(s,se)_4$ solar cells by applying a double
+  $in_2s_3$/$cds$ emitter.
 \newblock {\em Advanced Materials}, 26(44):7427--7431, 2014.
 
 \bibitem{effective_mass1}
 B.~Kolb and A.~M. Kolpak.
 \newblock {First-Principles Design and Analysis of an Efficient, Pb-Free
-  Ferroelectric Photovoltaic Absorber Derived from
-  ZnSnO{\textless}inf{\textgreater}3{\textless}/inf{\textgreater}}.
+  Ferroelectric Photovoltaic Absorber Derived from ZnSnO$_3$}.
 \newblock {\em Chem. Mater.}, 27(17):5899--5906, 2015.
 
 \bibitem{kosyak}
 V.~Kosyak, N.~B. {Mortazavi Amiri}, A.~V. Postnikov, and M.~A. Scarpulla.
-\newblock {Model of native point defect equilibrium in Cu2ZnSnS4 and
+\newblock {Model of native point defect equilibrium in $Cu_2ZnSnS_4$ and
   application to one-zone annealing}.
 \newblock {\em J. Appl. Phys.}, 114(12), 2013.
 
@@ -484,9 +455,9 @@ A.~McEvoy, T.~Markvart, and L.~C. {n}er.
 \bibitem{CZTS_TEM}
 B.~G. Mendis, M.~D. Shannon, M.~C. Goodman, J.~D. Major, R.~Claridge, D.~P.
   Halliday, and K.~Durose.
-\newblock Direct observation of cu, zn cation disorder in cu2znsns4 solar cell
-  absorber material using aberration corrected scanning transmission electron
-  microscopy.
+\newblock Direct observation of cu, zn cation disorder in cu$_2$znsns$_4$ solar
+  cell absorber material using aberration corrected scanning transmission
+  electron microscopy.
 \newblock {\em Progress in Photovoltaics: Research and Applications},
   22(1):24--34, 2014.
 
@@ -501,12 +472,6 @@ B.~G. Mendis, M.~D. Shannon, M.~C.~J. Goodman, J.~D. Major, A.~A. Taylor, D.~P.
 N.~Metropolis, A.~W. Rosenbluth, M.~N. Rosenbluth, A.~H. Teller, and E.~Teller.
 \newblock {Equation of State Calculations by Fast Computing Machines}.
 \newblock {\em J. Chem. Phys.}, 21(6):1087--1092, 1953.
-
-\bibitem{MAPI_Eg_broadening21}
-R.~L. Milot, G.~E. Eperon, H.~J. Snaith, M.~B. Johnston, and L.~M. Herz.
-\newblock Temperature-dependent charge-carrier dynamics in ch3nh3pbi3
-  perovskite thin films.
-\newblock {\em Advanced Functional Materials}, 25(39):6218--6227, 2015.
 
 \bibitem{Miyamoto}
 Y.~Miyamoto, K.~Tanaka, M.~Oonuki, N.~Moritake, and H.~Uchiki.
@@ -564,15 +529,6 @@ U.~of~Oregon Investment~Group.
 \bibitem{MIT}
 M.~I. of~Technology.
 \newblock {\em The Future of Solar Energy}, 2015 (Accessed on June 9, 2015).
-
-\bibitem{MAPI_Eg_broadening22}
-H.~Oga, A.~Saeki, Y.~Ogomi, S.~Hayase, and S.~Seki.
-\newblock Improved understanding of the electronic and energetic landscapes of
-  perovskite solar cells: High local charge carrier mobility, reduced
-  recombination, and extremely shallow traps.
-\newblock {\em Journal of the American Chemical Society}, 136(39):13818--13825,
-  2014.
-\newblock PMID: 25188538.
 
 \bibitem{stephanite}
 A.~Orlova, R.~Gainov, A.~Dooglav, I.~Penkov, and E.~Korolev.
@@ -676,16 +632,6 @@ T.~Saga.
   mass production}.
 \newblock {\em NPG Asia Mater.}, 2(3):96--102, 2010.
 
-\bibitem{MAPI_Eg_broadening23}
-T.~J. Savenije, J.~Carlito S.~Ponseca, L.~Kunneman, M.~Abdellah, K.~Zheng,
-  Y.~Tian, Q.~Zhu, S.~E. Canton, I.~G. Scheblykin, T.~Pullerits, A.~Yartsev,
-  and V.~SundstrÃ¶m.
-\newblock Thermally activated exciton dissociation and recombination control
-  the carrier dynamics in organometal halide perovskite.
-\newblock {\em The Journal of Physical Chemistry Letters}, 5(13):2189--2194,
-  2014.
-\newblock PMID: 26279532.
-
 \bibitem{CIS1_3}
 H.~W. Schock.
 \newblock {\em Adv. Solid State Phys.}, page 147, 1994.
@@ -712,14 +658,14 @@ I.~Science and T.~Directory.
 \bibitem{Scragg}
 J.~J.~S. Scragg, L.~Choubrac, A.~Lafond, T.~Ericson, and
   C.~Platzer-Bj\"{o}rkman.
-\newblock {A low-temperature order-disorder transition in Cu2ZnSnS4 thin
+\newblock {A low-temperature order-disorder transition in $Cu_2ZnSnS_4$ thin
   films}.
 \newblock {\em Appl. Phys. Lett.}, 104(4):041911, Jan. 2014.
 
 \bibitem{CZTS_bandgap_exp}
 J.-S. Seol, S.-Y. Lee, J.-C. Lee, H.-D. Nam, and K.-H. Kim.
-\newblock Electrical and optical properties of cu2znsns4 thin films prepared by
-  rf magnetron sputtering process.
+\newblock Electrical and optical properties of $cu_2znsns_4$ thin films
+  prepared by rf magnetron sputtering process.
 \newblock {\em Solar Energy Materials and Solar Cells}, 75(1–2):155 -- 162,
   2003.
 \newblock \{PVSEC\} 12 Part \{II\}.
@@ -801,6 +747,12 @@ P.~R. Tulip.
   via Density Functional Perturbation Theory: Implementation within a First
   Principles Code}, 2004.
 
+\bibitem{Schorr_new}
+D.~M. Többens, G.~Gurieva, S.~Levcenko, T.~Unold, and S.~Schorr.
+\newblock Temperature dependency of cu/zn ordering in cztse kesterites
+  determined by anomalous diffraction.
+\newblock {\em physica status solidi (b)}, 2016.
+
 \bibitem{Unold}
 T.~Unold, S.~Kretzschmar, J.~Just, O.~Zander, B.~Schubert, B.~Marsen, and H.-W.
   Schock.
@@ -848,7 +800,7 @@ J.~Vidal.
 \bibitem{CZTS_Xray}
 T.~Washio, H.~Nozaki, T.~Fukano, T.~Motohiro, K.~Jimbo, and H.~Katagiri.
 \newblock Analysis of lattice site occupancy in kesterite structure of
-  cu2znsns4 films using synchrotron radiation x-ray diffraction.
+  $cu_2znsns_4$ films using synchrotron radiation x-ray diffraction.
 \newblock {\em J. Appl. Phys.}, 110:074511, 2011.
 
 \bibitem{bournonite}
@@ -859,8 +811,8 @@ K.~Wei, J.~Martin, J.~R. Salvador, and G.~S. Nolas.
 \bibitem{CZTS_n-type}
 S.-Y. Wei, Y.-C. Liao, C.-H. Hsu, C.-H. Cai, W.-C. Huang, M.-C. Huang, and
   C.-H. Lai.
-\newblock {Achieving high efficiency Cu2ZnSn(S,Se)4 solar cells by non-toxic
-  aqueous ink: Defect analysis and electrical modeling}.
+\newblock {Achieving high efficiency $Cu_2ZnSn(S,Se)_4$ solar cells by
+  non-toxic aqueous ink: Defect analysis and electrical modeling}.
 \newblock {\em Nano Energy}, 26:74--82, aug 2016.
 
 \bibitem{Germany_PV}
@@ -876,12 +828,6 @@ S.~D. Wolf, J.~Holovsky, S.-J. Moon, P.~LÃ¶per, B.~Niesen, M.~Ledinsky, F.-J.
 \newblock {\em The Journal of Physical Chemistry Letters}, 5(6):1035--1039,
   2014.
 \newblock PMID: 26270984.
-
-\bibitem{MAPI_Eg_broadening}
-A.~D. Wright, C.~Verdi, R.~L. Milot, G.~E. Eperon, M.~A. P{\'{e}}rez-Osorio,
-  H.~J. Snaith, F.~Giustino, M.~B. Johnston, and L.~M. Herz.
-\newblock {Electron–phonon coupling in hybrid lead halide perovskites}.
-\newblock {\em Nat. Commun.}, 7(May), 2016.
 
 \bibitem{3rd_gen}
 J.~Yan and B.~R. Saunders.
@@ -944,7 +890,7 @@ P.~Zawadzki, A.~Zakutayev, and S.~Lany.
 
 \bibitem{CZTS_bandgap_theory}
 H.~Zhao and C.~Persson.
-\newblock Optical properties of cu(in,ga)se2 and cu2znsn(s,se)4.
+\newblock Optical properties of $cu(in,ga)se_2$ and $cu_2znsn(s,se)_4$.
 \newblock {\em Thin Solid Films}, 519(21):7508 -- 7512, 2011.
 \newblock Proceedings of the \{EMRS\} 2010 Spring Meeting Symposium M: Thin
   Film Chalcogenide Photovoltaic Materials.
@@ -955,19 +901,6 @@ F.~Zheng, L.~Z. Tan, S.~Liu, and A.~M. Rappe.
   ch3nh3pbi3.
 \newblock {\em Nano Letters}, 15(12):7794--7800, 2015.
 \newblock PMID: 26461166.
-
-\bibitem{MAPI_Eg_broadening16}
-X.-Y. Zhu and V.~Podzorov.
-\newblock Charge carriers in hybrid organicâinorganic lead halide
-  perovskites might be protected as large polarons.
-\newblock {\em The Journal of Physical Chemistry Letters}, 6(23):4758--4761,
-  2015.
-\newblock PMID: 26575427.
-
-\bibitem{Ziman_solids}
-J.~M. Ziman.
-\newblock {\em Principles of the Theory of Solids}.
-\newblock Cambridge University Press, 1964.
 
 \bibitem{absorption_coeff_book1}
 H.~Zimmermann.
