@@ -1,5 +1,6 @@
 \chapter{Calculation of the Formation Energy of the [$Cu_{Zn}^- + Zn_{Cu}^+$] Defect Pair in {\CZTS}}\label{Cu-Zn_defects_calc}
-The defect formation energy, $\Delta H_D$, is the main quantity of interest in the theoretical description of defects and impurities. It can be used to determine the defect concentrations in equilibrium, as shown in equation \ref{defect_conc}, and also the thermodynamic transition energies between different possible charge states of electrically active defects \cite{defects_Lany}. The former will be discussed later in this section and the latter will be discussed further in relation to sulfur vacancies in {\CZTS} in section \ref{Vs_proj}. 
+The defect formation energy, $\Delta H_D$, is the main quantity of interest in the theoretical description of defects and impurities. It can be used to determine the defect concentrations in equilibrium, as shown in equation \ref{defect_conc}, and also the thermodynamic transition energies between different possible charge states of electrically active defects \cite{defects_Lany}. 
+%The former will be discussed later in this section and the latter will be discussed further in relation to sulfur vacancies in {\CZTS} in section \ref{Vs_proj}. 
 It is common to use the supercell method when performing simulations of defects in solid state systems. 
 In this method, a defect is inserted into a larger supercell to screen interactions between defects across a boundary when implementing periodic boundary conditions. The supercell should be chosen to ensure that it is large enough to prevent interactions between point defects in adjacent cells. In practise, it is often too computationally expensive to meet this requirement completely as the number of atoms in the supercell rises with the third power of the linear size of the supercell and the computational expense then increases with the third power of the number of atoms \cite{supercell_method}. In our calculations of defects in {\CZTS} we use a 64 atom supercell, which is the most isotropic and largest supercell that could feasibly be used for our calculations at the level of accuracy we required. This corresponds to a cell size of approximately $11\times11\times11 \AA^3$. This supercell is constructed by creating a $2\times2\times1$ supercell of the conventional CZTS supercell shown in figure \ref{CZTS_cell}.
 
@@ -28,7 +29,7 @@ A single geometry step was then performed with a 2x2x2 \textit{k}-point mesh cen
 \begin{table}[h]
 \centering
 \begin{tabular}{c|l|l|l|l}
-Cut-off energy (eV) & \textit{k}-points (\AA) & Total energy, E (eV) 
+Cut-off energy (eV) & \textit{k}-points & Total energy, E (eV) 
 & \multicolumn{1}{|p{2cm}|}{ \centering External \\ pressure (kbar)} & dE per atom (meV)\\
 \cline{1-5}
 300 & $1\times1\times1$ & -305.53 & -174.59 & \\
